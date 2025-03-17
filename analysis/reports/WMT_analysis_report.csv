@@ -1,0 +1,23 @@
+,0
+symbol,WMT
+basic_statistics_mean,58.698477461531354
+basic_statistics_std,11.618189347667267
+basic_statistics_min,44.53654479980469
+basic_statistics_max,92.5
+basic_statistics_median,53.63266372680664
+basic_statistics_skewness,-0.013751299791277635
+basic_statistics_kurtosis,13.591027512681755
+stationarity_test_test_statistic,2.4758725631338985
+stationarity_test_p_value,0.9990416549165868
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.1664073898142292
+volatility_analysis_max_volatility,0.3160416314406219
+volatility_analysis_min_volatility,0.07571359191300475
+volatility_analysis_avg_volatility,0.15598285510351648
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\WMT_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\WMT_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\WMT_seasonality_analysis.png

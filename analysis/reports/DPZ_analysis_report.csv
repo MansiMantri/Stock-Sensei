@@ -1,0 +1,23 @@
+,0
+symbol,DPZ
+basic_statistics_mean,397.22315093930695
+basic_statistics_std,64.70024777774782
+basic_statistics_min,284.1073303222656
+basic_statistics_max,531.6544799804688
+basic_statistics_median,396.8321533203125
+basic_statistics_skewness,-0.8532583017179228
+basic_statistics_kurtosis,12.667699060935654
+stationarity_test_test_statistic,-1.1474744684559626
+stationarity_test_p_value,0.6957733450777307
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2901350411907283
+volatility_analysis_max_volatility,0.5722207016280717
+volatility_analysis_min_volatility,0.13394996422024358
+volatility_analysis_avg_volatility,0.27286791069488064
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\DPZ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\DPZ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\DPZ_seasonality_analysis.png

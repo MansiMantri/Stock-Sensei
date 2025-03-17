@@ -1,0 +1,23 @@
+,0
+symbol,HOLX
+basic_statistics_mean,76.98417890394056
+basic_statistics_std,4.501067135137146
+basic_statistics_min,65.11000061035156
+basic_statistics_max,87.66999816894531
+basic_statistics_median,77.66000366210938
+basic_statistics_skewness,0.2252882808608172
+basic_statistics_kurtosis,4.414460541656198
+stationarity_test_test_statistic,-1.7084848103928396
+stationarity_test_p_value,0.42674623491529623
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444133731419755, '5%': -2.8676183066831036, '10%': -2.5700075029117166}"
+volatility_analysis_annual_volatility,0.18713006386792683
+volatility_analysis_max_volatility,0.3144288805674668
+volatility_analysis_min_volatility,0.09520039152714087
+volatility_analysis_avg_volatility,0.1812100680968119
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HOLX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HOLX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HOLX_seasonality_analysis.png

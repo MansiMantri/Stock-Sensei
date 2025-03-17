@@ -1,0 +1,23 @@
+,0
+symbol,APD
+basic_statistics_mean,271.33557376346073
+basic_statistics_std,23.529049980376897
+basic_statistics_min,211.08291625976562
+basic_statistics_max,334.7799987792969
+basic_statistics_median,272.5261535644531
+basic_statistics_skewness,-2.213540453595845
+basic_statistics_kurtosis,25.31796156310767
+stationarity_test_test_statistic,-1.3862791161041252
+stationarity_test_p_value,0.5888361201601074
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2675858416984834
+volatility_analysis_max_volatility,0.6035480834561384
+volatility_analysis_min_volatility,0.10551800876246653
+volatility_analysis_avg_volatility,0.246670645982156
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\APD_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\APD_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\APD_seasonality_analysis.png

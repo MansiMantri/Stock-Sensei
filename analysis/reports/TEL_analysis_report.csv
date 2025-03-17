@@ -1,0 +1,23 @@
+,0
+symbol,TEL
+basic_statistics_mean,135.40196151892013
+basic_statistics_std,11.69912277459445
+basic_statistics_min,111.17371368408203
+basic_statistics_max,158.9713134765625
+basic_statistics_median,138.10671997070312
+basic_statistics_skewness,0.2589970312920782
+basic_statistics_kurtosis,1.6759845635780968
+stationarity_test_test_statistic,-2.057489077340521
+stationarity_test_p_value,0.2619482552505277
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21143620956671308
+volatility_analysis_max_volatility,0.30501516353403285
+volatility_analysis_min_volatility,0.11050308291616906
+volatility_analysis_avg_volatility,0.20696723400194136
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TEL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TEL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TEL_seasonality_analysis.png

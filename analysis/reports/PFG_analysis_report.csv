@@ -1,0 +1,23 @@
+,0
+symbol,PFG
+basic_statistics_mean,76.89615846820284
+basic_statistics_std,6.488574437257023
+basic_statistics_min,62.65380859375
+basic_statistics_max,91.26000213623047
+basic_statistics_median,77.419189453125
+basic_statistics_skewness,-0.5686714940998998
+basic_statistics_kurtosis,2.2602674663508715
+stationarity_test_test_statistic,-1.886110486548706
+stationarity_test_p_value,0.3386231213715526
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.23988357821390163
+volatility_analysis_max_volatility,0.5152740755294622
+volatility_analysis_min_volatility,0.12245791427849176
+volatility_analysis_avg_volatility,0.22730457549601263
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PFG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PFG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PFG_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,AEP
+basic_statistics_mean,84.12206996354641
+basic_statistics_std,8.466451912686992
+basic_statistics_min,67.76646423339844
+basic_statistics_max,103.93678283691406
+basic_statistics_median,82.70787048339844
+basic_statistics_skewness,0.00874111622839558
+basic_statistics_kurtosis,1.184478509695122
+stationarity_test_test_statistic,-0.7348602566409277
+stationarity_test_p_value,0.8375121689342322
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.19875273820568456
+volatility_analysis_max_volatility,0.2976878665363842
+volatility_analysis_min_volatility,0.10328877749487377
+volatility_analysis_avg_volatility,0.19419429453733567
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AEP_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AEP_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AEP_seasonality_analysis.png

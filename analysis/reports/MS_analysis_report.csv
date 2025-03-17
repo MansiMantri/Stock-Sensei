@@ -1,0 +1,23 @@
+,0
+symbol,MS
+basic_statistics_mean,89.63116515351928
+basic_statistics_std,12.9530194148611
+basic_statistics_min,67.1056900024414
+basic_statistics_max,134.99000549316406
+basic_statistics_median,86.8399887084961
+basic_statistics_skewness,0.663434295599777
+basic_statistics_kurtosis,6.873321651361921
+stationarity_test_test_statistic,0.6553573153162691
+stationarity_test_p_value,0.9889035160304613
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.26087103172234016
+volatility_analysis_max_volatility,0.4984809259539489
+volatility_analysis_min_volatility,0.08826156755757213
+volatility_analysis_avg_volatility,0.2459728268770404
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MS_seasonality_analysis.png

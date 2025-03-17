@@ -1,0 +1,23 @@
+,0
+symbol,DUK
+basic_statistics_mean,95.09078955699897
+basic_statistics_std,10.084041941159365
+basic_statistics_min,81.1491928100586
+basic_statistics_max,119.61983489990234
+basic_statistics_median,92.09937286376953
+basic_statistics_skewness,-0.03222677332292648
+basic_statistics_kurtosis,0.16551622551180944
+stationarity_test_test_statistic,-0.059142384856270935
+stationarity_test_p_value,0.9533590879905984
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.1732032448422586
+volatility_analysis_max_volatility,0.2712748720988399
+volatility_analysis_min_volatility,0.09303158493781594
+volatility_analysis_avg_volatility,0.17155961520588356
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\DUK_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\DUK_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\DUK_seasonality_analysis.png

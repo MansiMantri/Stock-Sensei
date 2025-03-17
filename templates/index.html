@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Forecasting</title>
+    <link rel="stylesheet" href="static/style.css">
+    <style>
+        /* Global Styles */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #4c8cde, #1f4037);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+
+        /* Container styling */
+        .container {
+            background: #fff;
+            width: 100%;
+            max-width: 1200px;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1.2s ease;
+            max-height: 200px;
+        }
+
+        /* Fade-in animation */
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            font-size: 2em;
+            margin-bottom: 0.5em;
+        }
+
+        h2, h3, h4 {
+            color: #4c8cde;
+            margin: 15px 0;
+        }
+
+        /* Form styling */
+        form {
+            margin-top: 20px;
+        }
+
+        label {
+            font-weight: bold;
+            margin-top: 10px;
+            display: block;
+        }
+
+        select {
+            width: 100%;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 20px;
+            font-size: 1em;
+        }
+
+        /* Button styling */
+        button {
+            background-color: #3498db;
+            color: #fff;
+            border: none;
+            padding: 12px 20px;
+            font-size: 1em;
+            font-weight: bold;
+            border-radius: 5px;
+            cursor: pointer;
+            width: 100%;
+            transition: all 0.3s;
+            margin-top: 15px;
+        }
+
+        button:hover {
+            background-color: #2980b9;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        .results {
+            margin-top: 30px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: #3498db;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* Styling for download links container */
+        .download-links {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-top: 10px;
+        }
+
+        .download-links a {
+            flex: 1;
+            text-align: center;
+            background-color: #3498db;
+            color: #fff;
+            padding: 10px;
+            border-radius: 5px;
+            font-weight: bold;
+            text-decoration: none;
+            transition: all 0.3s;
+        }
+
+        .download-links a:hover {
+            background-color: #2980b9;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Stock Forecasting</h1>
+
+        <!-- Form for stock selection -->
+        <form id="stockForm">
+            <label for="stock_symbol">Choose a stock:</label>
+            <select name="stock_symbol" id="stock_symbol">
+                {% for stock in stocks %}
+                <option value="{{ stock }}">{{ stock }}</option>
+                {% endfor %}
+            </select>
+
+            <button type="submit">Get Results</button>
+        </form>
+
+        <!-- Results Section -->
+        <div id="results" class="results"></div>
+    </div>
+
+    <!-- JavaScript to Handle the Form Submission and Results Display -->
+    <script>
+        document.getElementById('stockForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            // Get the selected stock symbol from the form
+            const stockSymbol = document.getElementById('stock_symbol').value;
+
+            // Clear any previous results and show a loading message
+            const resultsDiv = document.getElementById('results');
+            resultsDiv.innerHTML = `<p>Loading results for <strong>${stockSymbol}</strong>...</p>`;
+
+            // Send a POST request to the /results endpoint with the selected stock symbol
+            fetch('/results', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ stock_symbol: stockSymbol }),
+            })
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('Network response was not OK');
+                }
+                return response.json();
+            })
+            .then(data => {
+                resultsDiv.innerHTML = ''; // Clear the loading message
+
+                // Create the results display for the stock
+                let output = `<h2>Results for <strong>${stockSymbol}</strong></h2>`;
+
+                // Add visualization images
+                if (data.visualizations) {
+                    output += `<h3>Visualizations:</h3>`;
+                    Object.keys(data.visualizations).forEach(visualization => {
+                        output += `
+                            <div>
+                                <h4>${visualization}</h4>
+                                <img src="${data.visualizations[visualization].url}" alt="${visualization}">
+                            </div>
+                        `;
+                    });
+                }
+
+                // Add download links (side by side)
+                output += `
+                    <div class="download-links">
+                        <a href="${data.arima_forecast}" download>ARIMA Forecast</a>
+                        <a href="${data.sarima_forecast}" download>SARIMA Forecast</a>
+                        <a href="${data.prophet_forecast}" download>Prophet Forecast</a>
+                        <a href="${data.analysis}" download>Analysis File</a>
+                    </div>
+                `;
+
+                // Display the final results
+                resultsDiv.innerHTML = output;
+            })
+            .catch(error => {
+                resultsDiv.innerHTML = `<p>Error fetching results: ${error.message}</p>`;
+            });
+        });
+    </script>
+</body>
+</html>

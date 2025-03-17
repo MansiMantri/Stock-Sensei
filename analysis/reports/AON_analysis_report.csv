@@ -1,0 +1,23 @@
+,0
+symbol,AON
+basic_statistics_mean,319.0061677865328
+basic_statistics_std,22.820003035815862
+basic_statistics_min,274.746826171875
+basic_statistics_max,393.30999755859375
+basic_statistics_median,317.4945983886719
+basic_statistics_skewness,-0.2373406560381704
+basic_statistics_kurtosis,7.8733720869331405
+stationarity_test_test_statistic,-0.7046105357996729
+stationarity_test_p_value,0.84555168794249
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.197703927732444
+volatility_analysis_max_volatility,0.33343160410914263
+volatility_analysis_min_volatility,0.0749607145746703
+volatility_analysis_avg_volatility,0.18913540755694072
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AON_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AON_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AON_seasonality_analysis.png

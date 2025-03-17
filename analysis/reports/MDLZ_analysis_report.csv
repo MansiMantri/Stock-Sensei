@@ -1,0 +1,23 @@
+,0
+symbol,MDLZ
+basic_statistics_mean,68.658280703729
+basic_statistics_std,3.4795777270054313
+basic_statistics_min,59.548057556152344
+basic_statistics_max,75.58101654052734
+basic_statistics_median,69.27838134765625
+basic_statistics_skewness,-0.15499867023416528
+basic_statistics_kurtosis,2.3868740415919207
+stationarity_test_test_statistic,-2.456861088395513
+stationarity_test_p_value,0.12632630340745893
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.1724466981781192
+volatility_analysis_max_volatility,0.2885152465852689
+volatility_analysis_min_volatility,0.0842194970150786
+volatility_analysis_avg_volatility,0.1674664654129033
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MDLZ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MDLZ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MDLZ_seasonality_analysis.png

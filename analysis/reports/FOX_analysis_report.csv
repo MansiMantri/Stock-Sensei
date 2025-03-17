@@ -1,0 +1,23 @@
+,0
+symbol,FOX
+basic_statistics_mean,31.0840418532088
+basic_statistics_std,4.114806196464565
+basic_statistics_min,25.71611785888672
+basic_statistics_max,44.72999954223633
+basic_statistics_median,30.042837142944336
+basic_statistics_skewness,0.057941369638961765
+basic_statistics_kurtosis,2.721553906006773
+stationarity_test_test_statistic,1.1218814849896157
+stationarity_test_p_value,0.9953991128549898
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21902906208440123
+volatility_analysis_max_volatility,0.33358269911630944
+volatility_analysis_min_volatility,0.09406299283493726
+volatility_analysis_avg_volatility,0.21008293894627197
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\FOX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\FOX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\FOX_seasonality_analysis.png

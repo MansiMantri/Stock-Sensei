@@ -1,0 +1,23 @@
+,0
+symbol,EFX
+basic_statistics_mean,231.09028498596064
+basic_statistics_std,34.415213647310516
+basic_statistics_min,161.4148712158203
+basic_statistics_max,306.2769775390625
+basic_statistics_median,230.1579132080078
+basic_statistics_skewness,-0.45910066607082783
+basic_statistics_kurtosis,3.0251979911576656
+stationarity_test_test_statistic,-1.3647452100972726
+stationarity_test_p_value,0.5990562126317073
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.28411071371444174
+volatility_analysis_max_volatility,0.4536877088579198
+volatility_analysis_min_volatility,0.13868736774850313
+volatility_analysis_avg_volatility,0.27185982098080796
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\EFX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\EFX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\EFX_seasonality_analysis.png

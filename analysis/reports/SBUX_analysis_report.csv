@@ -1,0 +1,23 @@
+,0
+symbol,SBUX
+basic_statistics_mean,92.57891591918691
+basic_statistics_std,8.365073785203986
+basic_statistics_min,71.0821533203125
+basic_statistics_max,109.90151977539062
+basic_statistics_median,94.41783905029297
+basic_statistics_skewness,3.0838507201101333
+basic_statistics_kurtosis,60.52249228278613
+stationarity_test_test_statistic,-2.0879033332972563
+stationarity_test_p_value,0.24940646958777551
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.31129532603010013
+volatility_analysis_max_volatility,0.9308886920767591
+volatility_analysis_min_volatility,0.11729480872107477
+volatility_analysis_avg_volatility,0.26250181712329657
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\SBUX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\SBUX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\SBUX_seasonality_analysis.png

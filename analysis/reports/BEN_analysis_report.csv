@@ -1,0 +1,23 @@
+,0
+symbol,BEN
+basic_statistics_mean,24.08462406642224
+basic_statistics_std,2.482361673545397
+basic_statistics_min,18.844751358032227
+basic_statistics_max,31.03326988220215
+basic_statistics_median,24.207799911499023
+basic_statistics_skewness,-0.588704011657272
+basic_statistics_kurtosis,5.332724455440229
+stationarity_test_test_statistic,-1.9031725538011848
+stationarity_test_p_value,0.3305701163434749
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.28594581690847654
+volatility_analysis_max_volatility,0.5500448920227899
+volatility_analysis_min_volatility,0.16600836273483016
+volatility_analysis_avg_volatility,0.27569480622998516
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\BEN_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\BEN_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\BEN_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,PYPL
+basic_statistics_mean,67.09645515965325
+basic_statistics_std,8.401586489602849
+basic_statistics_min,50.38999938964844
+basic_statistics_max,87.7699966430664
+basic_statistics_median,64.43000030517578
+basic_statistics_skewness,-0.831829225788211
+basic_statistics_kurtosis,5.261726111755649
+stationarity_test_test_statistic,-1.1436484766421813
+stationarity_test_p_value,0.6973554038796705
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.3525636698500081
+volatility_analysis_max_volatility,0.6287441703579685
+volatility_analysis_min_volatility,0.19458061724916434
+volatility_analysis_avg_volatility,0.34333365776121205
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PYPL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PYPL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PYPL_seasonality_analysis.png

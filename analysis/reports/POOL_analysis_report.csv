@@ -1,0 +1,23 @@
+,0
+symbol,POOL
+basic_statistics_mean,354.40727179957526
+basic_statistics_std,23.720110443093915
+basic_statistics_min,293.38140869140625
+basic_statistics_max,414.780517578125
+basic_statistics_median,352.4272155761719
+basic_statistics_skewness,0.4539772823859149
+basic_statistics_kurtosis,2.7845739499355924
+stationarity_test_test_statistic,-3.7103443901286366
+stationarity_test_p_value,0.003969981526876906
+stationarity_test_is_stationary,True
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.31446030271873204
+volatility_analysis_max_volatility,0.5090909815262203
+volatility_analysis_min_volatility,0.17674207225528032
+volatility_analysis_avg_volatility,0.3047331515019814
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\POOL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\POOL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\POOL_seasonality_analysis.png

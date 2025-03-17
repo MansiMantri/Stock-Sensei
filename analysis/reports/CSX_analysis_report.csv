@@ -1,0 +1,23 @@
+,0
+symbol,CSX
+basic_statistics_mean,32.58507222990484
+basic_statistics_std,2.3395944421088934
+basic_statistics_min,27.40855598449707
+basic_statistics_max,37.98147964477539
+basic_statistics_median,32.8748893737793
+basic_statistics_skewness,0.14001923855359294
+basic_statistics_kurtosis,4.3039705057179765
+stationarity_test_test_statistic,-1.8287964844889086
+stationarity_test_p_value,0.36626163512636634
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21139300723680154
+volatility_analysis_max_volatility,0.4485675285366397
+volatility_analysis_min_volatility,0.07785120519348851
+volatility_analysis_avg_volatility,0.20062704542584878
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CSX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CSX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CSX_seasonality_analysis.png

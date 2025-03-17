@@ -1,0 +1,23 @@
+,0
+symbol,TFX
+basic_statistics_mean,227.7069664398003
+basic_statistics_std,19.94233592805259
+basic_statistics_min,177.9480743408203
+basic_statistics_max,271.1301574707031
+basic_statistics_median,231.89596557617188
+basic_statistics_skewness,-0.6615232081079626
+basic_statistics_kurtosis,11.947519479301636
+stationarity_test_test_statistic,-2.1052225133478992
+stationarity_test_p_value,0.2424197949296817
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.29472587612184953
+volatility_analysis_max_volatility,0.5736715759818013
+volatility_analysis_min_volatility,0.10220208759683347
+volatility_analysis_avg_volatility,0.27584538891088173
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TFX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TFX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TFX_seasonality_analysis.png

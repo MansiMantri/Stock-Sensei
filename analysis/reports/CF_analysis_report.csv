@@ -1,0 +1,23 @@
+,0
+symbol,CF
+basic_statistics_mean,76.65555463065229
+basic_statistics_std,5.947429172824367
+basic_statistics_min,58.14563751220703
+basic_statistics_max,90.63999938964844
+basic_statistics_median,77.49681091308594
+basic_statistics_skewness,0.10167236090541976
+basic_statistics_kurtosis,1.1522954138461614
+stationarity_test_test_statistic,-2.1500954500536666
+stationarity_test_p_value,0.22485355680790803
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2935939722571393
+volatility_analysis_max_volatility,0.4071096040502372
+volatility_analysis_min_volatility,0.16403770883344415
+volatility_analysis_avg_volatility,0.2912731090600279
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CF_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CF_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CF_seasonality_analysis.png

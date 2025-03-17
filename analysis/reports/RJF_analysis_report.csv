@@ -1,0 +1,23 @@
+,0
+symbol,RJF
+basic_statistics_mean,111.15025727714173
+basic_statistics_std,16.304213239899056
+basic_statistics_min,81.55413055419922
+basic_statistics_max,170.10000610351562
+basic_statistics_median,109.37184143066406
+basic_statistics_skewness,0.06214906884223985
+basic_statistics_kurtosis,4.073512652761139
+stationarity_test_test_statistic,1.2834982909252586
+stationarity_test_p_value,0.9965149244895515
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2640776313422345
+volatility_analysis_max_volatility,0.5305644830395033
+volatility_analysis_min_volatility,0.09320519661355374
+volatility_analysis_avg_volatility,0.24780354153709153
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\RJF_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\RJF_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\RJF_seasonality_analysis.png

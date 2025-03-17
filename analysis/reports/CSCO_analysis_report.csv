@@ -1,0 +1,23 @@
+,0
+symbol,CSCO
+basic_statistics_mean,49.01890563964844
+basic_statistics_std,3.331135880058989
+basic_statistics_min,43.611270904541016
+basic_statistics_max,59.59000015258789
+basic_statistics_median,48.36138153076172
+basic_statistics_skewness,-0.8679931809733411
+basic_statistics_kurtosis,11.60478427878666
+stationarity_test_test_statistic,-0.9745163817813243
+stationarity_test_p_value,0.7624450369247272
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.19458014646223185
+volatility_analysis_max_volatility,0.3822156499512714
+volatility_analysis_min_volatility,0.09034017643066679
+volatility_analysis_avg_volatility,0.18594978794903286
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CSCO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CSCO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CSCO_seasonality_analysis.png

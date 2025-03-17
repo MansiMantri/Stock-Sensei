@@ -1,0 +1,23 @@
+,0
+symbol,TPL
+basic_statistics_mean,648.3758057021302
+basic_statistics_std,222.60857008871213
+basic_statistics_min,417.8811950683594
+basic_statistics_max,1730.0
+basic_statistics_median,582.0603637695312
+basic_statistics_skewness,2.1641034388897626
+basic_statistics_kurtosis,19.51103896574
+stationarity_test_test_statistic,4.695566581781677
+stationarity_test_p_value,1.0
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444250937448703, '5%': -2.867669873870454, '10%': -2.5700349866579657}"
+volatility_analysis_annual_volatility,0.3994989042668449
+volatility_analysis_max_volatility,0.9017330994011744
+volatility_analysis_min_volatility,0.19956194525780094
+volatility_analysis_avg_volatility,0.3596677744683497
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TPL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TPL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TPL_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,TER
+basic_statistics_mean,110.04149960777616
+basic_statistics_std,16.631568719675794
+basic_statistics_min,82.32335662841797
+basic_statistics_max,162.66510009765625
+basic_statistics_median,105.57158660888672
+basic_statistics_skewness,-0.3805802873067615
+basic_statistics_kurtosis,3.198183647303572
+stationarity_test_test_statistic,-2.0328879680912313
+stationarity_test_p_value,0.2723415874478906
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.3886322387164798
+volatility_analysis_max_volatility,0.8173766740335245
+volatility_analysis_min_volatility,0.21781767054444312
+volatility_analysis_avg_volatility,0.37363342442167424
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TER_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TER_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TER_seasonality_analysis.png

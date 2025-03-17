@@ -1,0 +1,23 @@
+,0
+symbol,BSX
+basic_statistics_mean,62.6793346682606
+basic_statistics_std,13.392322529227938
+basic_statistics_min,45.09000015258789
+basic_statistics_max,91.5
+basic_statistics_median,55.88999938964844
+basic_statistics_skewness,0.12269264553654645
+basic_statistics_kurtosis,4.307394987919926
+stationarity_test_test_statistic,1.0249234314171345
+stationarity_test_p_value,0.9945220814955769
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.18559997824204125
+volatility_analysis_max_volatility,0.3260014865829341
+volatility_analysis_min_volatility,0.10126169441750373
+volatility_analysis_avg_volatility,0.17964099830609762
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\BSX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\BSX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\BSX_seasonality_analysis.png

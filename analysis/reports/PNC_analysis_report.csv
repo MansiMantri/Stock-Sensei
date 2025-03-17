@@ -1,0 +1,23 @@
+,0
+symbol,PNC
+basic_statistics_mean,143.6543971674358
+basic_statistics_std,26.082397706247296
+basic_statistics_min,104.72164154052734
+basic_statistics_max,215.0
+basic_statistics_median,145.96499633789062
+basic_statistics_skewness,0.18714770189948032
+basic_statistics_kurtosis,2.2929298849835087
+stationarity_test_test_statistic,0.7249282530624487
+stationarity_test_p_value,0.9903224491654802
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.28216717532193863
+volatility_analysis_max_volatility,0.49114614628480596
+volatility_analysis_min_volatility,0.13506016618089117
+volatility_analysis_avg_volatility,0.26976300866480935
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PNC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PNC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PNC_seasonality_analysis.png

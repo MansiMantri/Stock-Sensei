@@ -1,0 +1,23 @@
+,0
+symbol,LMT
+basic_statistics_mean,464.9354725796071
+basic_statistics_std,50.83895385984994
+basic_statistics_min,386.88348388671875
+basic_statistics_max,614.6099853515625
+basic_statistics_median,447.5501708984375
+basic_statistics_skewness,0.6397960519817294
+basic_statistics_kurtosis,12.474025866456714
+stationarity_test_test_statistic,-0.7805918570445062
+stationarity_test_p_value,0.8247566950195453
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.17629256888837708
+volatility_analysis_max_volatility,0.3476714853950271
+volatility_analysis_min_volatility,0.07703462323444399
+volatility_analysis_avg_volatility,0.16253565099179354
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\LMT_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\LMT_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\LMT_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,TRMB
+basic_statistics_mean,54.44413715291172
+basic_statistics_std,6.021445477905997
+basic_statistics_min,40.81999969482422
+basic_statistics_max,73.36000061035156
+basic_statistics_median,53.7599983215332
+basic_statistics_skewness,0.877450679132817
+basic_statistics_kurtosis,18.99896626874208
+stationarity_test_test_statistic,-0.7364150811945939
+stationarity_test_p_value,0.837090433504327
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.3060868860337522
+volatility_analysis_max_volatility,0.644493800054848
+volatility_analysis_min_volatility,0.13790795022887636
+volatility_analysis_avg_volatility,0.2850594571490467
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TRMB_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TRMB_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TRMB_seasonality_analysis.png

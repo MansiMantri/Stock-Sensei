@@ -1,0 +1,23 @@
+,0
+symbol,HES
+basic_statistics_mean,142.52125312979652
+basic_statistics_std,9.114758036031983
+basic_statistics_min,114.62496185302734
+basic_statistics_max,163.9472198486328
+basic_statistics_median,142.75
+basic_statistics_skewness,-0.25371407858020356
+basic_statistics_kurtosis,2.3905486570571908
+stationarity_test_test_statistic,-3.385204321754562
+stationarity_test_p_value,0.011473715667860637
+stationarity_test_is_stationary,True
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.2784314552166032
+volatility_analysis_max_volatility,0.5331817239466117
+volatility_analysis_min_volatility,0.13856857189221133
+volatility_analysis_avg_volatility,0.2696082847074663
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HES_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HES_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HES_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,DVN
+basic_statistics_mean,46.04374328422943
+basic_statistics_std,4.554711345475792
+basic_statistics_min,37.709999084472656
+basic_statistics_max,60.23808288574219
+basic_statistics_median,45.71582794189453
+basic_statistics_skewness,-0.6585012137268418
+basic_statistics_kurtosis,2.9185984409363135
+stationarity_test_test_statistic,-2.3642549946273195
+stationarity_test_p_value,0.1520803053991045
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444133731419755, '5%': -2.8676183066831036, '10%': -2.5700075029117166}"
+volatility_analysis_annual_volatility,0.2983364360966636
+volatility_analysis_max_volatility,0.5282702057597438
+volatility_analysis_min_volatility,0.1283540268043218
+volatility_analysis_avg_volatility,0.28708657509124197
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\DVN_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\DVN_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\DVN_seasonality_analysis.png

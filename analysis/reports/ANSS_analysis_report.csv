@@ -1,0 +1,23 @@
+,0
+symbol,ANSS
+basic_statistics_mean,315.2551770755506
+basic_statistics_std,23.30972265423367
+basic_statistics_min,231.64999389648438
+basic_statistics_max,362.8800048828125
+basic_statistics_median,320.2300109863281
+basic_statistics_skewness,2.392423083403841
+basic_statistics_kurtosis,22.752226861830536
+stationarity_test_test_statistic,-2.933630662182302
+stationarity_test_p_value,0.04157465619822886
+stationarity_test_is_stationary,True
+stationarity_test_critical_values,"{'1%': -3.4445220811896657, '5%': -2.8677891615873192, '10%': -2.5700985643950656}"
+volatility_analysis_annual_volatility,0.28568949793824183
+volatility_analysis_max_volatility,0.7032993616917771
+volatility_analysis_min_volatility,0.12457516517069187
+volatility_analysis_avg_volatility,0.2631035107727449
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ANSS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ANSS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ANSS_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,WELL
+basic_statistics_mean,91.04547282514353
+basic_statistics_std,19.57168200458742
+basic_statistics_min,62.83903884887695
+basic_statistics_max,139.3000030517578
+basic_statistics_median,86.03933715820312
+basic_statistics_skewness,0.1337482585073843
+basic_statistics_kurtosis,2.5558857872244998
+stationarity_test_test_statistic,1.7469771236925824
+stationarity_test_p_value,0.9982378477637852
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4442214494657586, '5%': -2.8676569002144148, '10%': -2.5700280720682227}"
+volatility_analysis_annual_volatility,0.21560468703357827
+volatility_analysis_max_volatility,0.3875164855130122
+volatility_analysis_min_volatility,0.12055974766760434
+volatility_analysis_avg_volatility,0.2083614716229693
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\WELL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\WELL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\WELL_seasonality_analysis.png

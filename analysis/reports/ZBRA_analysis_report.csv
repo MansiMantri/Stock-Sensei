@@ -1,0 +1,23 @@
+,0
+symbol,ZBRA
+basic_statistics_mean,293.15490621142476
+basic_statistics_std,45.14655023657533
+basic_statistics_min,197.99000549316406
+basic_statistics_max,407.0
+basic_statistics_median,291.9200134277344
+basic_statistics_skewness,-0.587906184865594
+basic_statistics_kurtosis,9.661455920263851
+stationarity_test_test_statistic,-0.46997806654359914
+stationarity_test_p_value,0.8977431287374953
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.3670898943513745
+volatility_analysis_max_volatility,0.7131643666540798
+volatility_analysis_min_volatility,0.15225661368022533
+volatility_analysis_avg_volatility,0.3497496909314763
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ZBRA_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ZBRA_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ZBRA_seasonality_analysis.png

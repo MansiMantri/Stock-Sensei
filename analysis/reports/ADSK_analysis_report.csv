@@ -1,0 +1,23 @@
+,0
+symbol,ADSK
+basic_statistics_mean,229.27752615756157
+basic_statistics_std,29.691192210651106
+basic_statistics_min,182.07000732421875
+basic_statistics_max,321.2699890136719
+basic_statistics_median,219.19000244140625
+basic_statistics_skewness,-1.0257469063338596
+basic_statistics_kurtosis,6.0205104791139314
+stationarity_test_test_statistic,-0.23089226309566757
+stationarity_test_p_value,0.934737761830527
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4445220811896657, '5%': -2.8677891615873192, '10%': -2.5700985643950656}"
+volatility_analysis_annual_volatility,0.29538721549809666
+volatility_analysis_max_volatility,0.566711250682407
+volatility_analysis_min_volatility,0.15735168709636474
+volatility_analysis_avg_volatility,0.2786536561630949
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ADSK_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ADSK_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ADSK_seasonality_analysis.png

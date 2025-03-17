@@ -1,0 +1,23 @@
+,0
+symbol,WAB
+basic_statistics_mean,131.7684473684077
+basic_statistics_std,31.18926029508646
+basic_statistics_min,91.89791870117188
+basic_statistics_max,201.7100067138672
+basic_statistics_median,121.47881317138672
+basic_statistics_skewness,0.5761587138793202
+basic_statistics_kurtosis,8.570167795975816
+stationarity_test_test_statistic,0.9290570634295892
+stationarity_test_p_value,0.9934580504456283
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2078417021963169
+volatility_analysis_max_volatility,0.3797589583146668
+volatility_analysis_min_volatility,0.10541229526017754
+volatility_analysis_avg_volatility,0.19816192965530852
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\WAB_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\WAB_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\WAB_seasonality_analysis.png

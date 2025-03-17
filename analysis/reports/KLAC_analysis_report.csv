@@ -1,0 +1,23 @@
+,0
+symbol,KLAC
+basic_statistics_mean,574.9610050066593
+basic_statistics_std,150.27759766687515
+basic_statistics_min,351.0950622558594
+basic_statistics_max,888.2557983398438
+basic_statistics_median,552.8350219726562
+basic_statistics_skewness,-0.512371517806367
+basic_statistics_kurtosis,3.8897791114586546
+stationarity_test_test_statistic,-1.4274416372159882
+stationarity_test_p_value,0.5690518624183211
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.39392456394829584
+volatility_analysis_max_volatility,0.7964978638478788
+volatility_analysis_min_volatility,0.2540484980879203
+volatility_analysis_avg_volatility,0.3825125005328448
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\KLAC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\KLAC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\KLAC_seasonality_analysis.png

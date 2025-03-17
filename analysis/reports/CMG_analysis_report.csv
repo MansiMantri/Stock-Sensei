@@ -1,0 +1,23 @@
+,0
+symbol,CMG
+basic_statistics_mean,46.96263831965393
+basic_statistics_std,10.650895906273748
+basic_statistics_min,27.283199310302734
+basic_statistics_max,68.55220031738281
+basic_statistics_median,44.85900115966797
+basic_statistics_skewness,0.05211465041748145
+basic_statistics_kurtosis,9.930994030389638
+stationarity_test_test_statistic,-1.2803563515451297
+stationarity_test_p_value,0.6381107092250855
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.2786006630502692
+volatility_analysis_max_volatility,0.4767716810893206
+volatility_analysis_min_volatility,0.1160162929108567
+volatility_analysis_avg_volatility,0.25733570945377265
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CMG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CMG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CMG_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,TMO
+basic_statistics_mean,549.2678907239759
+basic_statistics_std,39.33492973636556
+basic_statistics_min,430.26861572265625
+basic_statistics_max,623.8136596679688
+basic_statistics_median,550.7317504882812
+basic_statistics_skewness,-0.052293944317368696
+basic_statistics_kurtosis,1.5693601700475126
+stationarity_test_test_statistic,-2.036601168625853
+stationarity_test_p_value,0.27075883958258234
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21595607115628995
+volatility_analysis_max_volatility,0.3327597592236484
+volatility_analysis_min_volatility,0.11143838239191772
+volatility_analysis_avg_volatility,0.20576871643716393
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TMO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TMO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TMO_seasonality_analysis.png

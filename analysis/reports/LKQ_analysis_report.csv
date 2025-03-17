@@ -1,0 +1,23 @@
+,0
+symbol,LKQ
+basic_statistics_mean,47.17631671136233
+basic_statistics_std,5.70240982117879
+basic_statistics_min,36.50495529174805
+basic_statistics_max,56.71184158325195
+basic_statistics_median,47.499916076660156
+basic_statistics_skewness,-2.6900801059286246
+basic_statistics_kurtosis,22.277789434006056
+stationarity_test_test_statistic,-1.186793577732367
+stationarity_test_p_value,0.6792508250261708
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.25354643094116325
+volatility_analysis_max_volatility,0.5691447263366742
+volatility_analysis_min_volatility,0.10554548971871233
+volatility_analysis_avg_volatility,0.2328692389541451
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\LKQ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\LKQ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\LKQ_seasonality_analysis.png

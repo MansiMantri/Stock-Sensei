@@ -1,0 +1,23 @@
+,0
+symbol,JNPR
+basic_statistics_mean,32.53479481734754
+basic_statistics_std,4.441813549543873
+basic_statistics_min,24.327207565307617
+basic_statistics_max,39.2599983215332
+basic_statistics_median,31.647991180419922
+basic_statistics_skewness,5.71483467261936
+basic_statistics_kurtosis,88.0770939130749
+stationarity_test_test_statistic,-1.1421201445097438
+stationarity_test_p_value,0.697986079513198
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.2419832783453636
+volatility_analysis_max_volatility,0.7634126703286939
+volatility_analysis_min_volatility,0.03096284201651407
+volatility_analysis_avg_volatility,0.18636999596115617
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\JNPR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\JNPR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\JNPR_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,NRG
+basic_statistics_mean,54.50646516240808
+basic_statistics_std,21.680653219344503
+basic_statistics_min,29.088035583496094
+basic_statistics_max,101.61000061035156
+basic_statistics_median,47.64757537841797
+basic_statistics_skewness,0.15405417369431082
+basic_statistics_kurtosis,2.5654394784222685
+stationarity_test_test_statistic,0.9976379827139592
+stationarity_test_p_value,0.9942409639001577
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.31908190942405906
+volatility_analysis_max_volatility,0.540259911979331
+volatility_analysis_min_volatility,0.1453890751668015
+volatility_analysis_avg_volatility,0.3023171190863664
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\NRG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\NRG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\NRG_seasonality_analysis.png

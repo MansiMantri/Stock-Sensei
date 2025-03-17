@@ -1,0 +1,23 @@
+,0
+symbol,FTNT
+basic_statistics_mean,65.28467772358916
+basic_statistics_std,9.74960075257853
+basic_statistics_min,47.45000076293945
+basic_statistics_max,99.1500015258789
+basic_statistics_median,63.16999816894531
+basic_statistics_skewness,-0.10381433308421703
+basic_statistics_kurtosis,41.769363900807974
+stationarity_test_test_statistic,-1.0511948758154395
+stationarity_test_p_value,0.7341375234072636
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.40217246778628296
+volatility_analysis_max_volatility,0.9246909627167748
+volatility_analysis_min_volatility,0.14700343582897027
+volatility_analysis_avg_volatility,0.35387276110995725
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\FTNT_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\FTNT_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\FTNT_seasonality_analysis.png

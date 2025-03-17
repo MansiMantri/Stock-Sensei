@@ -1,0 +1,23 @@
+,0
+symbol,SRE
+basic_statistics_mean,73.48798126093811
+basic_statistics_std,5.952126959652155
+basic_statistics_min,63.17381286621094
+basic_statistics_max,94.7699966430664
+basic_statistics_median,71.73649597167969
+basic_statistics_skewness,0.24598502271302003
+basic_statistics_kurtosis,2.864252145914471
+stationarity_test_test_statistic,0.11825953469884465
+stationarity_test_p_value,0.9672858713671861
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.19162387528652372
+volatility_analysis_max_volatility,0.32362407454052494
+volatility_analysis_min_volatility,0.08412669926331338
+volatility_analysis_avg_volatility,0.1860688798952923
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\SRE_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\SRE_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\SRE_seasonality_analysis.png

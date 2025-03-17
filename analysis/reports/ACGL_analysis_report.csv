@@ -1,0 +1,23 @@
+,0
+symbol,ACGL
+basic_statistics_mean,81.22285419392735
+basic_statistics_std,13.506329148202536
+basic_statistics_min,58.25204086303711
+basic_statistics_max,109.22020721435547
+basic_statistics_median,78.60127258300781
+basic_statistics_skewness,-0.49269102904533146
+basic_statistics_kurtosis,2.546536867274394
+stationarity_test_test_statistic,-1.0255396761714872
+stationarity_test_p_value,0.743835705084634
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441920863262863, '5%': -2.8676439813617147, '10%': -2.570021186703601}"
+volatility_analysis_annual_volatility,0.24223045403327648
+volatility_analysis_max_volatility,0.4446352440133073
+volatility_analysis_min_volatility,0.12385961505257066
+volatility_analysis_avg_volatility,0.23461433480454144
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ACGL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ACGL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ACGL_seasonality_analysis.png

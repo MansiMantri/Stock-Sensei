@@ -1,0 +1,23 @@
+,0
+symbol,NWS
+basic_statistics_mean,23.478809384447125
+basic_statistics_std,4.305843046242465
+basic_statistics_min,15.474295616149902
+basic_statistics_max,32.220001220703125
+basic_statistics_median,24.272119522094727
+basic_statistics_skewness,0.03927999830341618
+basic_statistics_kurtosis,5.45043952717866
+stationarity_test_test_statistic,-0.20980595934360774
+stationarity_test_p_value,0.9373426347433652
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.24774855323425862
+volatility_analysis_max_volatility,0.4779917284049836
+volatility_analysis_min_volatility,0.11830182925517316
+volatility_analysis_avg_volatility,0.23626330768931053
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\NWS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\NWS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\NWS_seasonality_analysis.png

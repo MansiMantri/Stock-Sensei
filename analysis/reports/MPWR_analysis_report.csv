@@ -1,0 +1,23 @@
+,0
+symbol,MPWR
+basic_statistics_mean,616.8273398544089
+basic_statistics_std,160.4962146979011
+basic_statistics_min,338.67236328125
+basic_statistics_max,945.8800048828125
+basic_statistics_median,572.469970703125
+basic_statistics_skewness,0.018371049441298262
+basic_statistics_kurtosis,4.997725970118359
+stationarity_test_test_statistic,-1.800947302240652
+stationarity_test_p_value,0.3799914858658256
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.5166852484074229
+volatility_analysis_max_volatility,0.8893179841474087
+volatility_analysis_min_volatility,0.2568264344434648
+volatility_analysis_avg_volatility,0.4883171434119679
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MPWR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MPWR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MPWR_seasonality_analysis.png

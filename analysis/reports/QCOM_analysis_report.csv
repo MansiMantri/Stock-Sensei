@@ -1,0 +1,23 @@
+,0
+symbol,QCOM
+basic_statistics_mean,142.71585838016503
+basic_statistics_std,31.271332444630787
+basic_statistics_min,99.5137939453125
+basic_statistics_max,225.92247009277344
+basic_statistics_median,135.64486694335938
+basic_statistics_skewness,-0.22822716841458118
+basic_statistics_kurtosis,2.5826168145984925
+stationarity_test_test_statistic,-1.3195335689430887
+stationarity_test_p_value,0.620188979382437
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.35369203898891427
+volatility_analysis_max_volatility,0.7222748650517489
+volatility_analysis_min_volatility,0.16949103759558715
+volatility_analysis_avg_volatility,0.33643709673469563
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\QCOM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\QCOM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\QCOM_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,PWR
+basic_statistics_mean,218.87252845684853
+basic_statistics_std,51.18901993758291
+basic_statistics_min,135.19789123535156
+basic_statistics_max,346.6000061035156
+basic_statistics_median,203.4358367919922
+basic_statistics_skewness,0.6290887843471548
+basic_statistics_kurtosis,4.395996988572092
+stationarity_test_test_statistic,0.27142706484429224
+stationarity_test_p_value,0.975994923390857
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.29992313821644434
+volatility_analysis_max_volatility,0.6170416130106378
+volatility_analysis_min_volatility,0.12815705452707055
+volatility_analysis_avg_volatility,0.2863550453216882
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PWR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PWR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PWR_seasonality_analysis.png

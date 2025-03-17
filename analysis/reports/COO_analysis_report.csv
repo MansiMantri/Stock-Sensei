@@ -1,0 +1,23 @@
+,0
+symbol,COO
+basic_statistics_mean,93.01725913382866
+basic_statistics_std,7.524518296982282
+basic_statistics_min,76.72000122070312
+basic_statistics_max,111.2300033569336
+basic_statistics_median,93.21276092529297
+basic_statistics_skewness,1.7592764895076327
+basic_statistics_kurtosis,11.082515388644964
+stationarity_test_test_statistic,-1.929256083989357
+stationarity_test_p_value,0.31842572952525505
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2391897302008832
+volatility_analysis_max_volatility,0.45232949147159235
+volatility_analysis_min_volatility,0.1110631164174142
+volatility_analysis_avg_volatility,0.22742537479836122
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\COO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\COO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\COO_seasonality_analysis.png

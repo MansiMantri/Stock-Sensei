@@ -1,0 +1,23 @@
+,0
+symbol,ODFL
+basic_statistics_mean,189.75304538147861
+basic_statistics_std,19.979772040453955
+basic_statistics_min,139.56727600097656
+basic_statistics_max,231.83999633789062
+basic_statistics_median,193.97000122070312
+basic_statistics_skewness,-0.014017101515456938
+basic_statistics_kurtosis,5.3474096774680975
+stationarity_test_test_statistic,-2.5588329946536756
+stationarity_test_p_value,0.10180759261057054
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.33228903240126745
+volatility_analysis_max_volatility,0.5496321144652823
+volatility_analysis_min_volatility,0.15659714928378296
+volatility_analysis_avg_volatility,0.3196771038046867
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ODFL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ODFL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ODFL_seasonality_analysis.png

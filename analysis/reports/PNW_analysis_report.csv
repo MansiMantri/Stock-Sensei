@@ -1,0 +1,23 @@
+,0
+symbol,PNW
+basic_statistics_mean,74.88322819890203
+basic_statistics_std,6.996279605315494
+basic_statistics_min,64.25839233398438
+basic_statistics_max,94.5199966430664
+basic_statistics_median,73.10311126708984
+basic_statistics_skewness,0.0964710662058877
+basic_statistics_kurtosis,1.1513744320286872
+stationarity_test_test_statistic,-0.33974349130123316
+stationarity_test_p_value,0.919683805565889
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.19789523586841942
+volatility_analysis_max_volatility,0.31718908617831676
+volatility_analysis_min_volatility,0.06968692659310016
+volatility_analysis_avg_volatility,0.19468985070776665
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PNW_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PNW_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PNW_seasonality_analysis.png

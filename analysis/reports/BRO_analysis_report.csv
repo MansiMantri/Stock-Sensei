@@ -1,0 +1,23 @@
+,0
+symbol,BRO
+basic_statistics_mean,78.30073712323163
+basic_statistics_std,16.156215734554145
+basic_statistics_min,52.83203125
+basic_statistics_max,113.41999816894531
+basic_statistics_median,73.34217071533203
+basic_statistics_skewness,-0.06604859569033115
+basic_statistics_kurtosis,2.65193646828385
+stationarity_test_test_statistic,0.6547707757450786
+stationarity_test_p_value,0.9888906436022015
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.19157718486643788
+volatility_analysis_max_volatility,0.30872820581582167
+volatility_analysis_min_volatility,0.10395212775987236
+volatility_analysis_avg_volatility,0.1841777416474567
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\BRO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\BRO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\BRO_seasonality_analysis.png

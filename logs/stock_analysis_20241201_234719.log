@@ -1,0 +1,720 @@
+2024-12-01 23:47:19,544 - INFO - [stock_data_fetch.py:20] - Database connection established.
+2024-12-01 23:47:19,544 - INFO - [main.py:106] - Stock Analysis Pipeline initialized successfully
+2024-12-01 23:47:19,601 - INFO - [main.py:342] - Processing 500 stocks
+2024-12-01 23:47:19,602 - INFO - [main.py:287] - Starting analysis for A
+2024-12-01 23:47:19,603 - INFO - [main.py:287] - Starting analysis for AAPL
+2024-12-01 23:47:19,608 - INFO - [main.py:287] - Starting analysis for ABBV
+2024-12-01 23:47:19,609 - INFO - [main.py:287] - Starting analysis for ABNB
+2024-12-01 23:47:19,610 - INFO - [main.py:287] - Starting analysis for ABT
+2024-12-01 23:47:19,610 - INFO - [main.py:287] - Starting analysis for ACGL
+2024-12-01 23:47:19,610 - INFO - [main.py:287] - Starting analysis for ACN
+2024-12-01 23:47:19,613 - INFO - [main.py:287] - Starting analysis for ADBE
+2024-12-01 23:47:19,614 - INFO - [main.py:287] - Starting analysis for ADI
+2024-12-01 23:47:19,615 - INFO - [main.py:287] - Starting analysis for ADM
+2024-12-01 23:47:19,616 - INFO - [main.py:287] - Starting analysis for ADP
+2024-12-01 23:47:19,618 - INFO - [main.py:287] - Starting analysis for ADSK
+2024-12-01 23:47:19,619 - INFO - [main.py:287] - Starting analysis for AEE
+2024-12-01 23:47:19,620 - INFO - [main.py:287] - Starting analysis for AEP
+2024-12-01 23:47:19,622 - INFO - [main.py:287] - Starting analysis for AES
+2024-12-01 23:47:19,623 - INFO - [main.py:287] - Starting analysis for AFL
+2024-12-01 23:47:19,625 - INFO - [main.py:287] - Starting analysis for AIG
+2024-12-01 23:47:19,625 - INFO - [main.py:287] - Starting analysis for AIZ
+2024-12-01 23:47:19,627 - INFO - [main.py:287] - Starting analysis for AJG
+2024-12-01 23:47:19,627 - INFO - [main.py:287] - Starting analysis for AKAM
+2024-12-01 23:47:19,627 - INFO - [main.py:287] - Starting analysis for ALB
+2024-12-01 23:47:19,632 - INFO - [main.py:287] - Starting analysis for ALGN
+2024-12-01 23:47:19,633 - INFO - [main.py:287] - Starting analysis for ALL
+2024-12-01 23:47:19,635 - INFO - [main.py:287] - Starting analysis for ALLE
+2024-12-01 23:47:19,637 - INFO - [main.py:287] - Starting analysis for AMAT
+2024-12-01 23:47:19,639 - INFO - [main.py:287] - Starting analysis for AMCR
+2024-12-01 23:47:19,641 - INFO - [main.py:287] - Starting analysis for AMD
+2024-12-01 23:47:19,643 - INFO - [main.py:287] - Starting analysis for AME
+2024-12-01 23:47:19,643 - INFO - [main.py:287] - Starting analysis for AMGN
+2024-12-01 23:47:19,646 - INFO - [main.py:287] - Starting analysis for AMP
+2024-12-01 23:47:19,649 - INFO - [main.py:287] - Starting analysis for AMT
+2024-12-01 23:47:19,651 - INFO - [main.py:287] - Starting analysis for AMTM
+2024-12-01 23:47:19,855 - INFO - [main.py:228] - Running models for A
+2024-12-01 23:47:19,892 - INFO - [main.py:228] - Running models for AMT
+2024-12-01 23:47:19,894 - INFO - [main.py:228] - Running models for ADI
+2024-12-01 23:47:19,906 - INFO - [main.py:228] - Running models for ACGL
+2024-12-01 23:47:19,913 - INFO - [main.py:228] - Running models for ADP
+2024-12-01 23:47:19,916 - INFO - [main.py:228] - Running models for ABT
+2024-12-01 23:47:19,918 - INFO - [main.py:228] - Running models for ADM
+2024-12-01 23:47:19,935 - INFO - [main.py:228] - Running models for ALL
+2024-12-01 23:47:19,951 - INFO - [main.py:228] - Running models for ADSK
+2024-12-01 23:47:19,953 - INFO - [main.py:228] - Running models for AEP
+2024-12-01 23:47:19,965 - INFO - [main.py:228] - Running models for AME
+2024-12-01 23:47:19,974 - INFO - [main.py:228] - Running models for AKAM
+2024-12-01 23:47:19,977 - INFO - [main.py:228] - Running models for AMAT
+2024-12-01 23:47:19,979 - INFO - [main.py:228] - Running models for AFL
+2024-12-01 23:47:19,987 - INFO - [main.py:228] - Running models for ADBE
+2024-12-01 23:47:19,992 - INFO - [main.py:228] - Running models for ALGN
+2024-12-01 23:47:19,992 - INFO - [main.py:228] - Running models for AMCR
+2024-12-01 23:47:19,992 - INFO - [main.py:228] - Running models for ALB
+2024-12-01 23:47:19,992 - INFO - [main.py:228] - Running models for AAPL
+2024-12-01 23:47:19,992 - INFO - [main.py:228] - Running models for ALLE
+2024-12-01 23:47:20,000 - INFO - [main.py:228] - Running models for AEE
+2024-12-01 23:47:20,002 - INFO - [main.py:228] - Running models for ABBV
+2024-12-01 23:47:20,009 - INFO - [main.py:228] - Running models for AMP
+2024-12-01 23:47:20,010 - INFO - [main.py:228] - Running models for AMGN
+2024-12-01 23:47:20,011 - INFO - [main.py:228] - Running models for AMD
+2024-12-01 23:47:20,014 - INFO - [main.py:228] - Running models for AJG
+2024-12-01 23:47:20,016 - INFO - [main.py:228] - Running models for AIG
+2024-12-01 23:47:20,021 - INFO - [main.py:228] - Running models for ABNB
+2024-12-01 23:47:20,024 - INFO - [main.py:228] - Running models for AES
+2024-12-01 23:47:20,029 - INFO - [main.py:228] - Running models for ACN
+2024-12-01 23:47:20,036 - INFO - [main.py:228] - Running models for AIZ
+2024-12-01 23:47:20,093 - INFO - [main.py:228] - Running models for AMTM
+2024-12-01 23:47:22,336 - INFO - [arima_model.py:89] - ARIMA forecast completed for ADM
+2024-12-01 23:47:22,337 - INFO - [main.py:258] - ARIMA model completed for ADM
+2024-12-01 23:47:22,349 - INFO - [arima_model.py:89] - ARIMA forecast completed for ALL
+2024-12-01 23:47:22,400 - INFO - [main.py:258] - ARIMA model completed for ALL
+2024-12-01 23:47:22,519 - INFO - [arima_model.py:89] - ARIMA forecast completed for ABT
+2024-12-01 23:47:22,543 - INFO - [main.py:258] - ARIMA model completed for ABT
+2024-12-01 23:47:22,632 - INFO - [arima_model.py:89] - ARIMA forecast completed for AEE
+2024-12-01 23:47:22,693 - INFO - [main.py:258] - ARIMA model completed for AEE
+2024-12-01 23:47:22,861 - INFO - [arima_model.py:89] - ARIMA forecast completed for AAPL
+2024-12-01 23:47:22,867 - INFO - [arima_model.py:89] - ARIMA forecast completed for ABBV
+2024-12-01 23:47:22,869 - INFO - [main.py:258] - ARIMA model completed for AAPL
+2024-12-01 23:47:22,872 - INFO - [main.py:258] - ARIMA model completed for ABBV
+2024-12-01 23:47:22,923 - INFO - [arima_model.py:89] - ARIMA forecast completed for AEP
+2024-12-01 23:47:22,923 - INFO - [arima_model.py:89] - ARIMA forecast completed for ACGL
+2024-12-01 23:47:22,942 - INFO - [main.py:258] - ARIMA model completed for AEP
+2024-12-01 23:47:22,967 - INFO - [arima_model.py:89] - ARIMA forecast completed for AFL
+2024-12-01 23:47:22,975 - INFO - [arima_model.py:89] - ARIMA forecast completed for ALLE
+2024-12-01 23:47:22,993 - INFO - [main.py:258] - ARIMA model completed for ACGL
+2024-12-01 23:47:22,995 - INFO - [arima_model.py:89] - ARIMA forecast completed for AIG
+2024-12-01 23:47:23,002 - INFO - [arima_model.py:89] - ARIMA forecast completed for A
+2024-12-01 23:47:23,012 - INFO - [main.py:258] - ARIMA model completed for AFL
+2024-12-01 23:47:23,036 - INFO - [main.py:258] - ARIMA model completed for ALLE
+2024-12-01 23:47:23,062 - INFO - [main.py:258] - ARIMA model completed for AIG
+2024-12-01 23:47:23,065 - INFO - [arima_model.py:89] - ARIMA forecast completed for ALB
+2024-12-01 23:47:23,065 - INFO - [main.py:258] - ARIMA model completed for A
+2024-12-01 23:47:23,130 - INFO - [main.py:258] - ARIMA model completed for ALB
+2024-12-01 23:47:23,158 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMCR
+2024-12-01 23:47:23,194 - INFO - [arima_model.py:89] - ARIMA forecast completed for ADI
+2024-12-01 23:47:23,221 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMT
+2024-12-01 23:47:23,225 - INFO - [arima_model.py:89] - ARIMA forecast completed for ACN
+2024-12-01 23:47:23,232 - INFO - [arima_model.py:89] - ARIMA forecast completed for AME
+2024-12-01 23:47:23,250 - INFO - [arima_model.py:89] - ARIMA forecast completed for ABNB
+2024-12-01 23:47:23,253 - INFO - [main.py:258] - ARIMA model completed for AMCR
+2024-12-01 23:47:23,254 - INFO - [main.py:258] - ARIMA model completed for ADI
+2024-12-01 23:47:23,257 - INFO - [arima_model.py:89] - ARIMA forecast completed for ADSK
+2024-12-01 23:47:23,263 - INFO - [main.py:258] - ARIMA model completed for AMT
+2024-12-01 23:47:23,266 - INFO - [arima_model.py:89] - ARIMA forecast completed for ADP
+2024-12-01 23:47:23,276 - INFO - [arima_model.py:89] - ARIMA forecast completed for AIZ
+2024-12-01 23:47:23,277 - INFO - [main.py:258] - ARIMA model completed for ACN
+2024-12-01 23:47:23,296 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMD
+2024-12-01 23:47:23,296 - INFO - [main.py:258] - ARIMA model completed for AME
+2024-12-01 23:47:23,302 - INFO - [main.py:258] - ARIMA model completed for ABNB
+2024-12-01 23:47:23,334 - INFO - [main.py:258] - ARIMA model completed for ADSK
+2024-12-01 23:47:23,347 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMP
+2024-12-01 23:47:23,356 - INFO - [main.py:258] - ARIMA model completed for ADP
+2024-12-01 23:47:23,361 - INFO - [main.py:258] - ARIMA model completed for AIZ
+2024-12-01 23:47:23,384 - INFO - [arima_model.py:89] - ARIMA forecast completed for ALGN
+2024-12-01 23:47:23,386 - INFO - [main.py:258] - ARIMA model completed for AMD
+2024-12-01 23:47:23,388 - INFO - [arima_model.py:89] - ARIMA forecast completed for AKAM
+2024-12-01 23:47:23,392 - INFO - [arima_model.py:89] - ARIMA forecast completed for AJG
+2024-12-01 23:47:23,430 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMAT
+2024-12-01 23:47:23,457 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMGN
+2024-12-01 23:47:23,478 - INFO - [main.py:258] - ARIMA model completed for AMP
+2024-12-01 23:47:23,540 - INFO - [main.py:258] - ARIMA model completed for ALGN
+2024-12-01 23:47:23,543 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMTM
+2024-12-01 23:47:23,604 - INFO - [main.py:258] - ARIMA model completed for AKAM
+2024-12-01 23:47:23,624 - INFO - [main.py:258] - ARIMA model completed for AJG
+2024-12-01 23:47:23,652 - INFO - [main.py:258] - ARIMA model completed for AMAT
+2024-12-01 23:47:23,665 - INFO - [main.py:258] - ARIMA model completed for AMGN
+2024-12-01 23:47:23,760 - INFO - [arima_model.py:89] - ARIMA forecast completed for ADBE
+2024-12-01 23:47:23,773 - INFO - [main.py:258] - ARIMA model completed for AMTM
+2024-12-01 23:47:23,897 - INFO - [main.py:258] - ARIMA model completed for ADBE
+2024-12-01 23:47:24,284 - INFO - [arima_model.py:89] - ARIMA forecast completed for AES
+2024-12-01 23:47:24,315 - INFO - [main.py:258] - ARIMA model completed for AES
+2024-12-01 23:47:36,139 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AME
+2024-12-01 23:47:36,191 - INFO - [main.py:258] - SARIMA model completed for AME
+2024-12-01 23:47:36,768 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ALLE
+2024-12-01 23:47:36,819 - INFO - [main.py:258] - SARIMA model completed for ALLE
+2024-12-01 23:47:37,042 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AIG
+2024-12-01 23:47:37,071 - INFO - [main.py:258] - SARIMA model completed for AIG
+2024-12-01 23:47:37,486 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ABT
+2024-12-01 23:47:37,547 - INFO - [main.py:258] - SARIMA model completed for ABT
+2024-12-01 23:47:37,685 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMTM
+2024-12-01 23:47:37,790 - INFO - [main.py:258] - SARIMA model completed for AMTM
+2024-12-01 23:47:37,819 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ALB
+2024-12-01 23:47:37,892 - INFO - [main.py:258] - SARIMA model completed for ALB
+2024-12-01 23:47:38,149 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AAPL
+2024-12-01 23:47:38,173 - INFO - [main.py:258] - SARIMA model completed for AAPL
+2024-12-01 23:47:38,533 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AEE
+2024-12-01 23:47:38,580 - INFO - [main.py:258] - SARIMA model completed for AEE
+2024-12-01 23:47:38,709 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ALL
+2024-12-01 23:47:38,720 - INFO - [main.py:258] - SARIMA model completed for ALL
+2024-12-01 23:47:38,998 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ADM
+2024-12-01 23:47:39,020 - INFO - [main.py:258] - SARIMA model completed for ADM
+2024-12-01 23:47:39,102 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ADI
+2024-12-01 23:47:39,116 - INFO - [main.py:258] - SARIMA model completed for ADI
+2024-12-01 23:47:39,268 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ABBV
+2024-12-01 23:47:39,279 - INFO - [main.py:258] - SARIMA model completed for ABBV
+2024-12-01 23:47:40,150 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AFL
+2024-12-01 23:47:40,196 - INFO - [main.py:258] - SARIMA model completed for AFL
+2024-12-01 23:47:40,701 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMT
+2024-12-01 23:47:40,735 - INFO - [main.py:258] - SARIMA model completed for AMT
+2024-12-01 23:47:41,061 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AES
+2024-12-01 23:47:41,068 - INFO - [main.py:258] - SARIMA model completed for AES
+2024-12-01 23:47:41,473 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ACGL
+2024-12-01 23:47:41,517 - INFO - [main.py:258] - SARIMA model completed for ACGL
+2024-12-01 23:47:42,051 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ALGN
+2024-12-01 23:47:42,066 - INFO - [main.py:258] - SARIMA model completed for ALGN
+2024-12-01 23:47:42,737 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ACN
+2024-12-01 23:47:42,765 - INFO - [main.py:258] - SARIMA model completed for ACN
+2024-12-01 23:47:43,248 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMAT
+2024-12-01 23:47:43,258 - INFO - [main.py:258] - SARIMA model completed for AMAT
+2024-12-01 23:47:43,378 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AEP
+2024-12-01 23:47:43,404 - INFO - [main.py:258] - SARIMA model completed for AEP
+2024-12-01 23:47:43,432 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ADP
+2024-12-01 23:47:43,441 - INFO - [main.py:258] - SARIMA model completed for ADP
+2024-12-01 23:47:43,503 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AIZ
+2024-12-01 23:47:43,520 - INFO - [main.py:258] - SARIMA model completed for AIZ
+2024-12-01 23:47:43,583 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMGN
+2024-12-01 23:47:43,595 - INFO - [main.py:258] - SARIMA model completed for AMGN
+2024-12-01 23:47:43,676 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMCR
+2024-12-01 23:47:43,676 - INFO - [main.py:258] - SARIMA model completed for AMCR
+2024-12-01 23:47:43,707 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ADBE
+2024-12-01 23:47:43,739 - INFO - [main.py:258] - SARIMA model completed for ADBE
+2024-12-01 23:47:43,867 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMD
+2024-12-01 23:47:43,889 - INFO - [main.py:258] - SARIMA model completed for AMD
+2024-12-01 23:47:44,162 - INFO - [sarima_model.py:97] - SARIMA forecast completed for A
+2024-12-01 23:47:44,166 - INFO - [main.py:258] - SARIMA model completed for A
+2024-12-01 23:47:44,662 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AKAM
+2024-12-01 23:47:44,673 - INFO - [main.py:258] - SARIMA model completed for AKAM
+2024-12-01 23:47:44,896 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ADSK
+2024-12-01 23:47:44,900 - INFO - [main.py:258] - SARIMA model completed for ADSK
+2024-12-01 23:47:45,980 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMP
+2024-12-01 23:47:45,980 - INFO - [main.py:258] - SARIMA model completed for AMP
+2024-12-01 23:47:46,000 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AJG
+2024-12-01 23:47:46,001 - INFO - [main.py:258] - SARIMA model completed for AJG
+2024-12-01 23:47:46,131 - INFO - [sarima_model.py:97] - SARIMA forecast completed for ABNB
+2024-12-01 23:47:46,131 - INFO - [main.py:258] - SARIMA model completed for ABNB
+2024-12-01 23:47:46,292 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,292 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,293 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,293 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,294 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,295 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,295 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,295 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,296 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,296 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,297 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,297 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,298 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,298 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,304 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,307 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,308 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,309 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,311 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,313 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,331 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,315 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,315 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,315 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,320 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,321 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,322 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,325 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,326 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,327 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,313 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,336 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:46,509 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,534 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,558 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,558 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,560 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,562 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,565 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,577 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,589 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,593 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,594 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\_xamnf86.json
+2024-12-01 23:47:46,595 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,598 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,601 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,606 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,612 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,612 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,612 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,612 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,621 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,621 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,621 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,621 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,621 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,633 - DEBUG - [model.py:245] - Adding TBB (C:\Users\niraj\anaconda3\Lib\site-packages\prophet\stan_model\cmdstan-2.33.1\stan\lib\stan_math\lib\tbb) to PATH
+2024-12-01 23:47:46,649 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\d0v9jh7w.json
+2024-12-01 23:47:46,733 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\zrw446xs.json
+2024-12-01 23:47:46,838 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\ncfuyj2j.json
+2024-12-01 23:47:46,838 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\lg4lwpk2.json
+2024-12-01 23:47:46,934 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\yrj6mfl1.json
+2024-12-01 23:47:46,965 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\unhfvcal.json
+2024-12-01 23:47:46,981 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\uen4d9tx.json
+2024-12-01 23:47:46,981 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\wvfhggmy.json
+2024-12-01 23:47:46,997 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\s6ruyu_b.json
+2024-12-01 23:47:46,997 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\9kf0m414.json
+2024-12-01 23:47:47,013 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\83mindwk.json
+2024-12-01 23:47:47,013 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\k63hnae_.json
+2024-12-01 23:47:47,139 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\va66m4b4.json
+2024-12-01 23:47:47,139 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\f2bqbwma.json
+2024-12-01 23:47:47,139 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\9s74zis_.json
+2024-12-01 23:47:47,154 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\n85tnuua.json
+2024-12-01 23:47:47,176 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\gkr5pa71.json
+2024-12-01 23:47:47,202 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\dub1letr.json
+2024-12-01 23:47:47,202 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\b6r1wfxs.json
+2024-12-01 23:47:47,218 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\a9mj3ms_.json
+2024-12-01 23:47:47,249 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\ddmfxutr.json
+2024-12-01 23:47:47,378 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\ngroc18j.json
+2024-12-01 23:47:47,505 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\to8rc6ul.json
+2024-12-01 23:47:47,520 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\vigcojg_.json
+2024-12-01 23:47:47,540 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\999y3yx5.json
+2024-12-01 23:47:47,567 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\amr5nh0l.json
+2024-12-01 23:47:47,599 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\v5yb9v00.json
+2024-12-01 23:47:47,599 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\e7wrq6n5.json
+2024-12-01 23:47:47,631 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\3mrjqhur.json
+2024-12-01 23:47:47,663 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\x8k9da43.json
+2024-12-01 23:47:47,727 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\0_26_e1v.json
+2024-12-01 23:47:47,743 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\u_xir0sv.json
+2024-12-01 23:47:47,774 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\u6crqnaa.json
+2024-12-01 23:47:47,996 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:48,235 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\c5hioynl.json
+2024-12-01 23:47:48,253 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:48,274 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\n14s3h6h.json
+2024-12-01 23:47:48,274 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\utzqi96m.json
+2024-12-01 23:47:48,322 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\2z8xbe8c.json
+2024-12-01 23:47:48,441 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\t9fooqst.json
+2024-12-01 23:47:48,505 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\mzy8tz21.json
+2024-12-01 23:47:48,599 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\7i4uiyjr.json
+2024-12-01 23:47:48,684 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\e92bkw05.json
+2024-12-01 23:47:48,712 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\23ekbt6n.json
+2024-12-01 23:47:48,768 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\aguarmsq.json
+2024-12-01 23:47:48,771 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\2pfn5jwe.json
+2024-12-01 23:47:48,773 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:48,798 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\udwrlhvk.json
+2024-12-01 23:47:48,819 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\5r_4l8xr.json
+2024-12-01 23:47:48,825 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:48,923 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:48,923 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\lgyzxgp_.json
+2024-12-01 23:47:48,973 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\ueib0ajl.json
+2024-12-01 23:47:49,006 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\jcbvixm3.json
+2024-12-01 23:47:49,018 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\97j2aev1.json
+2024-12-01 23:47:49,031 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,049 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,058 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\yhzic7zo.json
+2024-12-01 23:47:49,065 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,070 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,076 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\n74k_zjz.json
+2024-12-01 23:47:49,087 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,116 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\ewyothyr.json
+2024-12-01 23:47:49,116 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\ltf5prxf.json
+2024-12-01 23:47:49,116 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\zhwr1_ni.json
+2024-12-01 23:47:49,119 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=56135', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\_xamnf86.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\b6r1wfxs.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_model8bldse4f\\prophet_model-20241201234747.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,120 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\_y_k9i8y.json
+2024-12-01 23:47:49,120 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,120 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,124 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,128 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,129 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\itvyavr8.json
+2024-12-01 23:47:49,148 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\asm9ir8n.json
+2024-12-01 23:47:49,151 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=73216', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\83mindwk.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\to8rc6ul.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_model9cwe9v63\\prophet_model-20241201234748.csv', 'method=optimize', 'algorithm=newton', 'iter=10000']
+2024-12-01 23:47:49,151 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,157 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,164 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\rkuiw2et.json
+2024-12-01 23:47:49,166 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\5n8l1jye.json
+2024-12-01 23:47:49,166 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,167 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,173 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\97sfu8ng.json
+2024-12-01 23:47:49,173 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,178 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\wgdi3mfk.json
+2024-12-01 23:47:49,178 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,179 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,181 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,182 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,182 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,183 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\a1kh8zf_.json
+2024-12-01 23:47:49,183 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,183 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,184 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,184 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,186 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,187 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,188 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,188 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,189 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,189 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,189 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,190 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,190 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,190 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,192 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,191 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,193 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=7905', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\yrj6mfl1.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\c5hioynl.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modellee6_mc0\\prophet_model-20241201234748.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,193 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,194 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,194 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,194 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,195 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=78922', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\zrw446xs.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\n14s3h6h.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_model4r32tzh4\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,196 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,197 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,197 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=66039', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\unhfvcal.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\2z8xbe8c.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelud_0dlhd\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,197 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,198 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,198 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,199 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,199 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,199 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=55666', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\d0v9jh7w.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\utzqi96m.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelgdwqhkyh\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,200 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=50603', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\lg4lwpk2.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\mzy8tz21.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelfr5cc6dk\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,200 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,201 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,201 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=25153', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\uen4d9tx.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\t9fooqst.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelgm70nybz\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,201 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,202 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:49,202 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=39306', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\s6ruyu_b.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\e92bkw05.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelb8xunne8\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,202 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,203 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,203 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=7188', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\wvfhggmy.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\23ekbt6n.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelm8jc8vc8\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,204 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,204 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=62379', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\ncfuyj2j.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\7i4uiyjr.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_model_jzp7tqu\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,204 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,205 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=99457', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\va66m4b4.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\aguarmsq.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelmrsonmrf\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,205 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=29242', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\9kf0m414.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\2pfn5jwe.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelmyaxckcz\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,206 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,206 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=36967', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\9s74zis_.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\udwrlhvk.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelz1g3a2kh\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,207 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,208 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=3335', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\k63hnae_.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\5r_4l8xr.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modeli8u80_vr\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,208 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,208 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,209 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=94438', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\f2bqbwma.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\lgyzxgp_.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelf2m72bqb\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,209 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,210 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,210 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,211 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,211 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=66516', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\dub1letr.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\ueib0ajl.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelx3jimil2\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,212 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=90493', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\gkr5pa71.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\97j2aev1.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelwvzsy1lx\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,212 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,213 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,213 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,214 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=72696', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\ddmfxutr.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\jcbvixm3.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelkete7m2z\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,214 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=53262', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\n85tnuua.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\yhzic7zo.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelz83m2q4o\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,215 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,215 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=97370', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\ngroc18j.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\n74k_zjz.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelp51jqn8a\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,216 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:49,216 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,217 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=32963', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\e7wrq6n5.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\zhwr1_ni.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelo_xhxclu\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,217 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=27167', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\a9mj3ms_.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\ewyothyr.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelx_xxji7k\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,218 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,218 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=1748', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\amr5nh0l.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\ltf5prxf.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_model9jjqq7g0\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,218 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,219 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=49291', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\999y3yx5.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\_y_k9i8y.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_model1x2l2m5y\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,219 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,220 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,221 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,221 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=73292', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\v5yb9v00.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\asm9ir8n.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelxjhql63r\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,222 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,222 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=28963', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\vigcojg_.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\itvyavr8.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelxmgolggl\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,223 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,223 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=71050', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\u_xir0sv.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\rkuiw2et.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelbiihc9yw\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,224 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=59983', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\x8k9da43.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\97sfu8ng.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelfhl768h_\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,225 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=44', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\3mrjqhur.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\5n8l1jye.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelysqbeucm\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,226 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,226 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,227 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=16558', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\0_26_e1v.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\wgdi3mfk.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelq8g6xyvk\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,228 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,229 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,231 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,232 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=78268', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\u6crqnaa.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\a1kh8zf_.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_modelxjps2ixq\\prophet_model-20241201234749.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:49,233 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,234 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,235 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,238 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,242 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,244 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,246 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,247 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,248 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,251 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,259 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:49,332 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,478 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,478 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,479 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,504 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,548 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,549 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,549 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,566 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,566 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,581 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,627 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,635 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,639 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,644 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,654 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,659 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,660 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,662 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,669 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,677 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,699 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,707 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,709 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,716 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,747 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,757 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,777 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,788 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,795 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,870 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:49,877 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:51,476 - INFO - [prophet_model.py:67] - Prophet forecast completed for AMTM
+2024-12-01 23:47:51,478 - INFO - [main.py:258] - Prophet model completed for AMTM
+2024-12-01 23:47:51,496 - INFO - [main.py:312] - Metrics saved for AMTM
+2024-12-01 23:47:51,498 - INFO - [main.py:287] - Starting analysis for AMZN
+2024-12-01 23:47:51,555 - INFO - [main.py:228] - Running models for AMZN
+2024-12-01 23:47:51,857 - INFO - [arima_model.py:89] - ARIMA forecast completed for AMZN
+2024-12-01 23:47:51,858 - INFO - [main.py:258] - ARIMA model completed for AMZN
+2024-12-01 23:47:53,260 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AMZN
+2024-12-01 23:47:53,260 - INFO - [main.py:258] - SARIMA model completed for AMZN
+2024-12-01 23:47:53,266 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:47:53,339 - DEBUG - [model.py:254] - TBB already found in load path
+2024-12-01 23:47:53,367 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\bweaxexh.json
+2024-12-01 23:47:53,443 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\6nbinpdk.json
+2024-12-01 23:47:53,452 - DEBUG - [model.py:2042] - idx 0
+2024-12-01 23:47:53,452 - DEBUG - [model.py:2043] - running CmdStan, num_threads: None
+2024-12-01 23:47:53,452 - DEBUG - [model.py:2055] - CmdStan args: ['C:\\Users\\niraj\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=43897', 'data', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\bweaxexh.json', 'init=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\6nbinpdk.json', 'output', 'file=C:\\Users\\niraj\\AppData\\Local\\Temp\\tmpswpo1dvr\\prophet_model65zbl4pz\\prophet_model-20241201234753.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+2024-12-01 23:47:53,459 - INFO - [prophet_model.py:67] - Prophet forecast completed for AES
+2024-12-01 23:47:53,452 - INFO - [model.py:2058] - Chain [1] start processing
+2024-12-01 23:47:53,459 - INFO - [main.py:258] - Prophet model completed for AES
+2024-12-01 23:47:53,459 - INFO - [main.py:312] - Metrics saved for AES
+2024-12-01 23:47:53,459 - INFO - [main.py:287] - Starting analysis for ANET
+2024-12-01 23:47:53,478 - INFO - [prophet_model.py:67] - Prophet forecast completed for AMGN
+2024-12-01 23:47:53,478 - INFO - [main.py:258] - Prophet model completed for AMGN
+2024-12-01 23:47:53,491 - INFO - [main.py:312] - Metrics saved for AMGN
+2024-12-01 23:47:53,491 - INFO - [main.py:287] - Starting analysis for ANSS
+2024-12-01 23:47:53,541 - INFO - [main.py:228] - Running models for ANET
+2024-12-01 23:47:53,541 - INFO - [prophet_model.py:67] - Prophet forecast completed for A
+2024-12-01 23:47:53,541 - INFO - [main.py:258] - Prophet model completed for A
+2024-12-01 23:47:53,554 - INFO - [main.py:228] - Running models for ANSS
+2024-12-01 23:47:53,554 - INFO - [prophet_model.py:67] - Prophet forecast completed for AMAT
+2024-12-01 23:47:53,554 - INFO - [main.py:258] - Prophet model completed for AMAT
+2024-12-01 23:47:53,573 - INFO - [main.py:312] - Metrics saved for AMAT
+2024-12-01 23:47:53,580 - INFO - [main.py:287] - Starting analysis for AON
+2024-12-01 23:47:53,582 - INFO - [main.py:312] - Metrics saved for A
+2024-12-01 23:47:53,584 - INFO - [main.py:287] - Starting analysis for AOS
+2024-12-01 23:47:53,612 - INFO - [prophet_model.py:67] - Prophet forecast completed for ALL
+2024-12-01 23:47:53,614 - INFO - [main.py:258] - Prophet model completed for ALL
+2024-12-01 23:47:53,647 - INFO - [main.py:228] - Running models for AON
+2024-12-01 23:47:53,649 - INFO - [prophet_model.py:67] - Prophet forecast completed for ALLE
+2024-12-01 23:47:53,659 - INFO - [main.py:258] - Prophet model completed for ALLE
+2024-12-01 23:47:53,659 - INFO - [model.py:2115] - Chain [1] done processing
+2024-12-01 23:47:53,667 - INFO - [main.py:312] - Metrics saved for ALL
+2024-12-01 23:47:53,669 - INFO - [main.py:287] - Starting analysis for APA
+2024-12-01 23:47:53,698 - INFO - [prophet_model.py:67] - Prophet forecast completed for ADM
+2024-12-01 23:47:53,702 - INFO - [main.py:312] - Metrics saved for ALLE
+2024-12-01 23:47:53,704 - INFO - [main.py:258] - Prophet model completed for ADM
+2024-12-01 23:47:53,708 - INFO - [main.py:287] - Starting analysis for APD
+2024-12-01 23:47:53,766 - INFO - [main.py:228] - Running models for APA
+2024-12-01 23:47:53,770 - INFO - [main.py:228] - Running models for AOS
+2024-12-01 23:47:53,770 - INFO - [main.py:312] - Metrics saved for ADM
+2024-12-01 23:47:53,782 - INFO - [main.py:287] - Starting analysis for APH
+2024-12-01 23:47:53,798 - INFO - [main.py:228] - Running models for APD
+2024-12-01 23:47:53,857 - INFO - [main.py:228] - Running models for APH
+2024-12-01 23:47:54,123 - INFO - [prophet_model.py:67] - Prophet forecast completed for ALB
+2024-12-01 23:47:54,127 - INFO - [main.py:258] - Prophet model completed for ALB
+2024-12-01 23:47:54,155 - INFO - [main.py:312] - Metrics saved for ALB
+2024-12-01 23:47:54,155 - INFO - [main.py:287] - Starting analysis for APTV
+2024-12-01 23:47:54,282 - INFO - [main.py:228] - Running models for APTV
+2024-12-01 23:47:54,568 - INFO - [arima_model.py:89] - ARIMA forecast completed for AOS
+2024-12-01 23:47:54,572 - INFO - [main.py:258] - ARIMA model completed for AOS
+2024-12-01 23:47:54,623 - INFO - [arima_model.py:89] - ARIMA forecast completed for APA
+2024-12-01 23:47:54,626 - INFO - [main.py:258] - ARIMA model completed for APA
+2024-12-01 23:47:54,680 - INFO - [prophet_model.py:67] - Prophet forecast completed for ALGN
+2024-12-01 23:47:54,683 - INFO - [main.py:258] - Prophet model completed for ALGN
+2024-12-01 23:47:54,687 - INFO - [arima_model.py:89] - ARIMA forecast completed for ANET
+2024-12-01 23:47:54,703 - INFO - [arima_model.py:89] - ARIMA forecast completed for ANSS
+2024-12-01 23:47:54,703 - INFO - [arima_model.py:89] - ARIMA forecast completed for AON
+2024-12-01 23:47:54,705 - INFO - [main.py:258] - ARIMA model completed for ANET
+2024-12-01 23:47:54,712 - INFO - [arima_model.py:89] - ARIMA forecast completed for APD
+2024-12-01 23:47:54,712 - INFO - [main.py:258] - ARIMA model completed for ANSS
+2024-12-01 23:47:54,715 - INFO - [main.py:312] - Metrics saved for ALGN
+2024-12-01 23:47:54,718 - INFO - [main.py:258] - ARIMA model completed for AON
+2024-12-01 23:47:54,726 - INFO - [main.py:258] - ARIMA model completed for APD
+2024-12-01 23:47:54,732 - INFO - [main.py:287] - Starting analysis for ARE
+2024-12-01 23:47:54,751 - INFO - [arima_model.py:89] - ARIMA forecast completed for APH
+2024-12-01 23:47:54,757 - INFO - [main.py:258] - ARIMA model completed for APH
+2024-12-01 23:47:54,805 - INFO - [main.py:228] - Running models for ARE
+2024-12-01 23:47:54,980 - INFO - [arima_model.py:89] - ARIMA forecast completed for APTV
+2024-12-01 23:47:54,981 - INFO - [main.py:258] - ARIMA model completed for APTV
+2024-12-01 23:47:55,114 - INFO - [prophet_model.py:67] - Prophet forecast completed for ABNB
+2024-12-01 23:47:55,125 - INFO - [main.py:258] - Prophet model completed for ABNB
+2024-12-01 23:47:55,158 - INFO - [main.py:312] - Metrics saved for ABNB
+2024-12-01 23:47:55,181 - INFO - [main.py:287] - Starting analysis for ATO
+2024-12-01 23:47:55,233 - INFO - [prophet_model.py:67] - Prophet forecast completed for AME
+2024-12-01 23:47:55,258 - INFO - [main.py:258] - Prophet model completed for AME
+2024-12-01 23:47:55,284 - INFO - [main.py:228] - Running models for ATO
+2024-12-01 23:47:55,404 - INFO - [main.py:312] - Metrics saved for AME
+2024-12-01 23:47:55,422 - INFO - [main.py:287] - Starting analysis for AVB
+2024-12-01 23:47:55,444 - INFO - [prophet_model.py:67] - Prophet forecast completed for AEP
+2024-12-01 23:47:55,455 - INFO - [main.py:258] - Prophet model completed for AEP
+2024-12-01 23:47:55,517 - INFO - [main.py:312] - Metrics saved for AEP
+2024-12-01 23:47:55,522 - INFO - [main.py:287] - Starting analysis for AVGO
+2024-12-01 23:47:55,615 - INFO - [main.py:228] - Running models for AVB
+2024-12-01 23:47:55,625 - INFO - [prophet_model.py:67] - Prophet forecast completed for AIG
+2024-12-01 23:47:55,685 - INFO - [main.py:228] - Running models for AVGO
+2024-12-01 23:47:55,690 - INFO - [main.py:258] - Prophet model completed for AIG
+2024-12-01 23:47:55,820 - INFO - [main.py:312] - Metrics saved for AIG
+2024-12-01 23:47:55,821 - INFO - [main.py:287] - Starting analysis for AVY
+2024-12-01 23:47:55,954 - INFO - [main.py:228] - Running models for AVY
+2024-12-01 23:47:56,064 - INFO - [arima_model.py:89] - ARIMA forecast completed for ARE
+2024-12-01 23:47:56,065 - INFO - [main.py:258] - ARIMA model completed for ARE
+2024-12-01 23:47:56,750 - INFO - [prophet_model.py:67] - Prophet forecast completed for ABBV
+2024-12-01 23:47:56,755 - INFO - [main.py:258] - Prophet model completed for ABBV
+2024-12-01 23:47:56,872 - INFO - [prophet_model.py:67] - Prophet forecast completed for ADI
+2024-12-01 23:47:56,887 - INFO - [main.py:258] - Prophet model completed for ADI
+2024-12-01 23:47:56,919 - INFO - [main.py:312] - Metrics saved for ABBV
+2024-12-01 23:47:56,935 - INFO - [main.py:287] - Starting analysis for AWK
+2024-12-01 23:47:57,019 - INFO - [main.py:312] - Metrics saved for ADI
+2024-12-01 23:47:57,028 - INFO - [main.py:287] - Starting analysis for AXON
+2024-12-01 23:47:57,062 - INFO - [main.py:228] - Running models for AWK
+2024-12-01 23:47:57,071 - INFO - [arima_model.py:89] - ARIMA forecast completed for ATO
+2024-12-01 23:47:57,112 - INFO - [main.py:258] - ARIMA model completed for ATO
+2024-12-01 23:47:57,214 - INFO - [prophet_model.py:67] - Prophet forecast completed for AAPL
+2024-12-01 23:47:57,231 - INFO - [main.py:258] - Prophet model completed for AAPL
+2024-12-01 23:47:57,262 - INFO - [main.py:228] - Running models for AXON
+2024-12-01 23:47:57,268 - INFO - [arima_model.py:89] - ARIMA forecast completed for AVGO
+2024-12-01 23:47:57,290 - INFO - [main.py:258] - ARIMA model completed for AVGO
+2024-12-01 23:47:57,375 - INFO - [main.py:312] - Metrics saved for AAPL
+2024-12-01 23:47:57,395 - INFO - [main.py:287] - Starting analysis for AXP
+2024-12-01 23:47:57,535 - INFO - [main.py:228] - Running models for AXP
+2024-12-01 23:47:57,814 - INFO - [arima_model.py:89] - ARIMA forecast completed for AVY
+2024-12-01 23:47:57,834 - INFO - [main.py:258] - ARIMA model completed for AVY
+2024-12-01 23:47:57,842 - INFO - [prophet_model.py:67] - Prophet forecast completed for ABT
+2024-12-01 23:47:57,847 - INFO - [main.py:258] - Prophet model completed for ABT
+2024-12-01 23:47:57,956 - INFO - [main.py:312] - Metrics saved for ABT
+2024-12-01 23:47:57,981 - INFO - [main.py:287] - Starting analysis for AZO
+2024-12-01 23:47:58,091 - INFO - [main.py:228] - Running models for AZO
+2024-12-01 23:47:58,428 - INFO - [prophet_model.py:67] - Prophet forecast completed for AEE
+2024-12-01 23:47:58,445 - INFO - [main.py:258] - Prophet model completed for AEE
+2024-12-01 23:47:58,626 - INFO - [main.py:312] - Metrics saved for AEE
+2024-12-01 23:47:58,672 - INFO - [main.py:287] - Starting analysis for BA
+2024-12-01 23:47:58,789 - INFO - [arima_model.py:89] - ARIMA forecast completed for AVB
+2024-12-01 23:47:58,803 - INFO - [main.py:258] - ARIMA model completed for AVB
+2024-12-01 23:47:58,873 - INFO - [main.py:228] - Running models for BA
+2024-12-01 23:47:58,951 - INFO - [arima_model.py:89] - ARIMA forecast completed for AWK
+2024-12-01 23:47:58,967 - INFO - [main.py:258] - ARIMA model completed for AWK
+2024-12-01 23:47:59,001 - INFO - [prophet_model.py:67] - Prophet forecast completed for ADBE
+2024-12-01 23:47:59,018 - INFO - [main.py:258] - Prophet model completed for ADBE
+2024-12-01 23:47:59,109 - INFO - [main.py:312] - Metrics saved for ADBE
+2024-12-01 23:47:59,136 - INFO - [main.py:287] - Starting analysis for BAC
+2024-12-01 23:47:59,307 - INFO - [main.py:228] - Running models for BAC
+2024-12-01 23:48:00,202 - INFO - [arima_model.py:89] - ARIMA forecast completed for AXON
+2024-12-01 23:48:00,276 - INFO - [main.py:258] - ARIMA model completed for AXON
+2024-12-01 23:48:00,298 - INFO - [prophet_model.py:67] - Prophet forecast completed for ACGL
+2024-12-01 23:48:00,320 - INFO - [main.py:258] - Prophet model completed for ACGL
+2024-12-01 23:48:00,341 - INFO - [prophet_model.py:67] - Prophet forecast completed for AMCR
+2024-12-01 23:48:00,356 - INFO - [main.py:258] - Prophet model completed for AMCR
+2024-12-01 23:48:00,388 - INFO - [prophet_model.py:67] - Prophet forecast completed for AMP
+2024-12-01 23:48:00,405 - INFO - [main.py:258] - Prophet model completed for AMP
+2024-12-01 23:48:00,410 - INFO - [main.py:312] - Metrics saved for ACGL
+2024-12-01 23:48:00,422 - INFO - [prophet_model.py:67] - Prophet forecast completed for ADSK
+2024-12-01 23:48:00,440 - INFO - [main.py:287] - Starting analysis for BALL
+2024-12-01 23:48:00,474 - INFO - [main.py:258] - Prophet model completed for ADSK
+2024-12-01 23:48:00,551 - INFO - [arima_model.py:89] - ARIMA forecast completed for AZO
+2024-12-01 23:48:00,551 - INFO - [main.py:312] - Metrics saved for AMCR
+2024-12-01 23:48:00,551 - INFO - [main.py:312] - Metrics saved for AMP
+2024-12-01 23:48:00,564 - INFO - [main.py:258] - ARIMA model completed for AZO
+2024-12-01 23:48:00,584 - INFO - [main.py:287] - Starting analysis for BAX
+2024-12-01 23:48:00,631 - INFO - [main.py:287] - Starting analysis for BBY
+2024-12-01 23:48:00,677 - INFO - [main.py:228] - Running models for BALL
+2024-12-01 23:48:00,763 - INFO - [main.py:312] - Metrics saved for ADSK
+2024-12-01 23:48:00,787 - INFO - [main.py:287] - Starting analysis for BDX
+2024-12-01 23:48:00,811 - INFO - [main.py:228] - Running models for BAX
+2024-12-01 23:48:00,862 - INFO - [main.py:228] - Running models for BBY
+2024-12-01 23:48:00,902 - INFO - [arima_model.py:89] - ARIMA forecast completed for AXP
+2024-12-01 23:48:00,921 - INFO - [prophet_model.py:67] - Prophet forecast completed for AKAM
+2024-12-01 23:48:00,931 - INFO - [main.py:258] - ARIMA model completed for AXP
+2024-12-01 23:48:00,981 - INFO - [main.py:258] - Prophet model completed for AKAM
+2024-12-01 23:48:00,990 - INFO - [main.py:228] - Running models for BDX
+2024-12-01 23:48:01,095 - INFO - [prophet_model.py:67] - Prophet forecast completed for AFL
+2024-12-01 23:48:01,109 - INFO - [main.py:258] - Prophet model completed for AFL
+2024-12-01 23:48:01,159 - INFO - [main.py:312] - Metrics saved for AKAM
+2024-12-01 23:48:01,173 - INFO - [main.py:287] - Starting analysis for BEN
+2024-12-01 23:48:01,217 - INFO - [main.py:312] - Metrics saved for AFL
+2024-12-01 23:48:01,250 - INFO - [main.py:287] - Starting analysis for BG
+2024-12-01 23:48:01,338 - INFO - [main.py:228] - Running models for BEN
+2024-12-01 23:48:01,420 - INFO - [main.py:228] - Running models for BG
+2024-12-01 23:48:02,265 - INFO - [prophet_model.py:67] - Prophet forecast completed for AMT
+2024-12-01 23:48:02,353 - INFO - [main.py:258] - Prophet model completed for AMT
+2024-12-01 23:48:02,529 - INFO - [arima_model.py:89] - ARIMA forecast completed for BA
+2024-12-01 23:48:02,541 - INFO - [sarima_model.py:97] - SARIMA forecast completed for APA
+2024-12-01 23:48:02,551 - INFO - [main.py:258] - ARIMA model completed for BA
+2024-12-01 23:48:02,602 - INFO - [main.py:258] - SARIMA model completed for APA
+2024-12-01 23:48:02,634 - INFO - [prophet_model.py:67] - Prophet forecast completed for ACN
+2024-12-01 23:48:02,642 - INFO - [main.py:312] - Metrics saved for AMT
+2024-12-01 23:48:02,668 - INFO - [arima_model.py:89] - ARIMA forecast completed for BAC
+2024-12-01 23:48:02,749 - INFO - [main.py:258] - Prophet model completed for ACN
+2024-12-01 23:48:02,766 - INFO - [main.py:287] - Starting analysis for BIIB
+2024-12-01 23:48:02,771 - INFO - [main.py:258] - ARIMA model completed for BAC
+2024-12-01 23:48:02,864 - INFO - [main.py:312] - Metrics saved for ACN
+2024-12-01 23:48:02,930 - INFO - [main.py:228] - Running models for BIIB
+2024-12-01 23:48:02,951 - INFO - [main.py:287] - Starting analysis for BK
+2024-12-01 23:48:02,995 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:48:03,065 - INFO - [sarima_model.py:97] - SARIMA forecast completed for AOS
+2024-12-01 23:48:03,089 - INFO - [main.py:258] - SARIMA model completed for AOS
+2024-12-01 23:48:03,190 - INFO - [main.py:228] - Running models for BK
+2024-12-01 23:48:03,247 - DEBUG - [command.py:37] - cmd: where.exe tbb.dll
+cwd: None
+2024-12-01 23:48:03,282 - DEBUG - [model.py:254] - TBB already found in load path
+2024-12-01 23:48:03,517 - DEBUG - [model.py:254] - TBB already found in load path
+2024-12-01 23:48:03,835 - INFO - [arima_model.py:89] - ARIMA forecast completed for BALL
+2024-12-01 23:48:03,890 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\it04vi_h.json
+2024-12-01 23:48:03,898 - DEBUG - [filesystem.py:118] - input tempfile: C:\Users\niraj\AppData\Local\Temp\tmpswpo1dvr\61quj7f6.json

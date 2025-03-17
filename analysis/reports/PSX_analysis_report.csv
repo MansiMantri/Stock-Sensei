@@ -1,0 +1,23 @@
+,0
+symbol,PSX
+basic_statistics_mean,119.28492061115352
+basic_statistics_std,20.48450487696534
+basic_statistics_min,86.32305145263672
+basic_statistics_max,168.4412384033203
+basic_statistics_median,123.12742614746094
+basic_statistics_skewness,-0.19626022240664864
+basic_statistics_kurtosis,1.4793307856748186
+stationarity_test_test_statistic,-1.3794094295844594
+stationarity_test_p_value,0.5921067262426132
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.2684223515804408
+volatility_analysis_max_volatility,0.437416565346137
+volatility_analysis_min_volatility,0.1346937243360159
+volatility_analysis_avg_volatility,0.2632822775118543
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PSX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PSX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PSX_seasonality_analysis.png

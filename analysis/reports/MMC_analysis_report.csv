@@ -1,0 +1,23 @@
+,0
+symbol,MMC
+basic_statistics_mean,193.97029852916694
+basic_statistics_std,20.139017935783443
+basic_statistics_min,150.2135772705078
+basic_statistics_max,233.24000549316406
+basic_statistics_median,193.05809020996094
+basic_statistics_skewness,-0.7113928670769141
+basic_statistics_kurtosis,3.1632752188121644
+stationarity_test_test_statistic,-0.707676248642957
+stationarity_test_p_value,0.8447511844131177
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.1531466453864519
+volatility_analysis_max_volatility,0.24348640464987678
+volatility_analysis_min_volatility,0.07454231973022557
+volatility_analysis_avg_volatility,0.1473991508912303
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MMC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MMC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MMC_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,IFF
+basic_statistics_mean,85.18003002967755
+basic_statistics_std,12.624345775756684
+basic_statistics_min,60.696693420410156
+basic_statistics_max,110.49845886230469
+basic_statistics_median,83.31658935546875
+basic_statistics_skewness,-3.3634117092592115
+basic_statistics_kurtosis,29.472266078065047
+stationarity_test_test_statistic,-2.0712645849275453
+stationarity_test_p_value,0.2562250990860177
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.3334356245492223
+volatility_analysis_max_volatility,0.735405424111363
+volatility_analysis_min_volatility,0.09149223540388317
+volatility_analysis_avg_volatility,0.29773349152516837
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\IFF_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\IFF_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\IFF_seasonality_analysis.png

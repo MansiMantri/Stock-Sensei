@@ -1,0 +1,23 @@
+,0
+symbol,SJM
+basic_statistics_mean,124.96206457253058
+basic_statistics_std,13.976531472884224
+basic_statistics_min,103.31343078613281
+basic_statistics_max,152.06011962890625
+basic_statistics_median,120.19731140136719
+basic_statistics_skewness,-0.0031496398327095832
+basic_statistics_kurtosis,2.3306041539139546
+stationarity_test_test_statistic,-1.7957337634218538
+stationarity_test_p_value,0.3825818093369704
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21143287480649658
+volatility_analysis_max_volatility,0.3023821744322868
+volatility_analysis_min_volatility,0.11183630347338148
+volatility_analysis_avg_volatility,0.20311144375820583
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\SJM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\SJM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\SJM_seasonality_analysis.png

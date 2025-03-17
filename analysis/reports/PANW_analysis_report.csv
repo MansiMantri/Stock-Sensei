@@ -1,0 +1,23 @@
+,0
+symbol,PANW
+basic_statistics_mean,272.0198750010151
+basic_statistics_std,65.69741299869968
+basic_statistics_min,134.19000244140625
+basic_statistics_max,402.3599853515625
+basic_statistics_median,279.07000732421875
+basic_statistics_skewness,-2.2284869164953696
+basic_statistics_kurtosis,33.15183890709987
+stationarity_test_test_statistic,-1.483874306343793
+stationarity_test_p_value,0.5414728735861374
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.41305938499250705
+volatility_analysis_max_volatility,1.1255735906823345
+volatility_analysis_min_volatility,0.2050697902351577
+volatility_analysis_avg_volatility,0.37914165176524284
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PANW_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PANW_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PANW_seasonality_analysis.png

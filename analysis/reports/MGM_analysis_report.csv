@@ -1,0 +1,23 @@
+,0
+symbol,MGM
+basic_statistics_mean,41.542952182634956
+basic_statistics_std,3.3093990112108167
+basic_statistics_min,33.279998779296875
+basic_statistics_max,50.900001525878906
+basic_statistics_median,41.970001220703125
+basic_statistics_skewness,-0.7236260619393976
+basic_statistics_kurtosis,4.860657368672103
+stationarity_test_test_statistic,-3.3982746603358405
+stationarity_test_p_value,0.011017829121770004
+stationarity_test_is_stationary,True
+stationarity_test_critical_values,"{'1%': -3.444370153876086, '5%': -2.867722323562515, '10%': -2.5700629410213627}"
+volatility_analysis_annual_volatility,0.3354763035417785
+volatility_analysis_max_volatility,0.6140053852386345
+volatility_analysis_min_volatility,0.17728806792502105
+volatility_analysis_avg_volatility,0.32345532091171936
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MGM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MGM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MGM_seasonality_analysis.png

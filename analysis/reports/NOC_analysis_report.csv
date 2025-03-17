@@ -1,0 +1,23 @@
+,0
+symbol,NOC
+basic_statistics_mean,460.5798279569947
+basic_statistics_std,30.436322018109536
+basic_statistics_min,413.2212829589844
+basic_statistics_max,543.8800048828125
+basic_statistics_median,455.1274108886719
+basic_statistics_skewness,0.9750358813995497
+basic_statistics_kurtosis,15.134368416513194
+stationarity_test_test_statistic,-2.5639454831379136
+stationarity_test_p_value,0.10068028476999696
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.206528043886445
+volatility_analysis_max_volatility,0.45894318185368277
+volatility_analysis_min_volatility,0.08190300538213185
+volatility_analysis_avg_volatility,0.18664763622216957
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\NOC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\NOC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\NOC_seasonality_analysis.png

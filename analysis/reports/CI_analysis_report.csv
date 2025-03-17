@@ -1,0 +1,23 @@
+,0
+symbol,CI
+basic_statistics_mean,304.95050851421394
+basic_statistics_std,34.574040564602754
+basic_statistics_min,236.4247589111328
+basic_statistics_max,366.8500061035156
+basic_statistics_median,301.1206359863281
+basic_statistics_skewness,1.7399266964368878
+basic_statistics_kurtosis,22.157217984310016
+stationarity_test_test_statistic,-1.4131178063311132
+stationarity_test_p_value,0.5759713713504359
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2676020614053402
+volatility_analysis_max_volatility,0.682156879983918
+volatility_analysis_min_volatility,0.09312759341946433
+volatility_analysis_avg_volatility,0.24595430685444963
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CI_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CI_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CI_seasonality_analysis.png

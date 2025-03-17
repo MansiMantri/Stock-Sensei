@@ -1,0 +1,23 @@
+,0
+symbol,YUM
+basic_statistics_mean,130.2921954688312
+basic_statistics_std,5.654389306258532
+basic_statistics_min,113.99478912353516
+basic_statistics_max,141.7823486328125
+basic_statistics_median,131.06097412109375
+basic_statistics_skewness,-0.14506634949471076
+basic_statistics_kurtosis,0.9560734847542491
+stationarity_test_test_statistic,-2.6181633262070294
+stationarity_test_p_value,0.08930108252807739
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.16145637410046498
+volatility_analysis_max_volatility,0.23182551261001572
+volatility_analysis_min_volatility,0.09264595763957278
+volatility_analysis_avg_volatility,0.1592776154104834
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\YUM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\YUM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\YUM_seasonality_analysis.png

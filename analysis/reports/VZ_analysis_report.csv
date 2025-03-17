@@ -1,0 +1,23 @@
+,0
+symbol,VZ
+basic_statistics_mean,36.43734885154296
+basic_statistics_std,4.054216672214814
+basic_statistics_min,28.753957748413086
+basic_statistics_max,44.51509094238281
+basic_statistics_median,36.45105743408203
+basic_statistics_skewness,0.2949676679998416
+basic_statistics_kurtosis,7.613543224408576
+stationarity_test_test_statistic,-0.6768108823404893
+stationarity_test_p_value,0.8526649619917424
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.22235139258737044
+volatility_analysis_max_volatility,0.41808466031751784
+volatility_analysis_min_volatility,0.10285022534149993
+volatility_analysis_avg_volatility,0.21134525740486435
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\VZ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\VZ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\VZ_seasonality_analysis.png

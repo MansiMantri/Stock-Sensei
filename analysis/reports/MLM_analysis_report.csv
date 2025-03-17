@@ -1,0 +1,23 @@
+,0
+symbol,MLM
+basic_statistics_mean,479.5963392356825
+basic_statistics_std,86.81162137561661
+basic_statistics_min,317.7352600097656
+basic_statistics_max,619.8080444335938
+basic_statistics_median,484.8294372558594
+basic_statistics_skewness,0.14940280615065737
+basic_statistics_kurtosis,2.7651545142070972
+stationarity_test_test_statistic,-1.1664362900304261
+stationarity_test_p_value,0.6878648287841658
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.24775912023651508
+volatility_analysis_max_volatility,0.4064104107337238
+volatility_analysis_min_volatility,0.12243584795785716
+volatility_analysis_avg_volatility,0.23858691203690707
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MLM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MLM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MLM_seasonality_analysis.png

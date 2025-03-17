@@ -1,0 +1,23 @@
+,0
+symbol,GNRC
+basic_statistics_mean,128.57700623890963
+basic_statistics_std,22.103538285317267
+basic_statistics_min,82.19999694824219
+basic_statistics_max,195.11000061035156
+basic_statistics_median,122.20999908447266
+basic_statistics_skewness,-0.9013220490645993
+basic_statistics_kurtosis,11.2118747872811
+stationarity_test_test_statistic,-1.1935118696836817
+stationarity_test_p_value,0.6763804957326944
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.4689894419244547
+volatility_analysis_max_volatility,0.9580948433124576
+volatility_analysis_min_volatility,0.22004776709064836
+volatility_analysis_avg_volatility,0.4427472788088636
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\GNRC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\GNRC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\GNRC_seasonality_analysis.png

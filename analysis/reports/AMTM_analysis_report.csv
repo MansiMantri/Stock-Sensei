@@ -1,0 +1,23 @@
+,0
+symbol,AMTM
+basic_statistics_mean,27.758124947547913
+basic_statistics_std,2.8885721832309015
+basic_statistics_min,21.940000534057617
+basic_statistics_max,33.400001525878906
+basic_statistics_median,28.539999961853027
+basic_statistics_skewness,0.8262408174564582
+basic_statistics_kurtosis,7.587004530211044
+stationarity_test_test_statistic,-1.56165095002516
+stationarity_test_p_value,0.5028233968080201
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.584828853223594, '5%': -2.9282991495198907, '10%': -2.6023438271604937}"
+volatility_analysis_annual_volatility,0.9847219777090004
+volatility_analysis_max_volatility,1.2482712929626225
+volatility_analysis_min_volatility,0.3879102677563443
+volatility_analysis_avg_volatility,0.6780620335204555
+analysis_period_start_date,2024-09-24 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,48
+visualization_files_price_analysis,analysis\visualizations\AMTM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AMTM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AMTM_seasonality_analysis.png

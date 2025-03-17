@@ -1,0 +1,23 @@
+,0
+symbol,PCG
+basic_statistics_mean,17.407532485755713
+basic_statistics_std,1.4053475151235626
+basic_statistics_min,15.145896911621094
+basic_statistics_max,21.6299991607666
+basic_statistics_median,17.111467361450195
+basic_statistics_skewness,-0.16558420073711944
+basic_statistics_kurtosis,1.4501713733245838
+stationarity_test_test_statistic,-0.5074838212937004
+stationarity_test_p_value,0.8905477863444464
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.19374484150263366
+volatility_analysis_max_volatility,0.29340941626335737
+volatility_analysis_min_volatility,0.09847934125150216
+volatility_analysis_avg_volatility,0.19255746126983472
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PCG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PCG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PCG_seasonality_analysis.png

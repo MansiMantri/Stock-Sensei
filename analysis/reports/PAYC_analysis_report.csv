@@ -1,0 +1,23 @@
+,0
+symbol,PAYC
+basic_statistics_mean,227.74195271767599
+basic_statistics_std,61.80267767039839
+basic_statistics_min,139.61032104492188
+basic_statistics_max,366.5135803222656
+basic_statistics_median,202.48507690429688
+basic_statistics_skewness,-4.50025990818654
+basic_statistics_kurtosis,68.5649924120065
+stationarity_test_test_statistic,-1.55784175587083
+stationarity_test_p_value,0.5047288414315672
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.4688783032696439
+volatility_analysis_max_volatility,1.4232436110645086
+volatility_analysis_min_volatility,0.1620663732290677
+volatility_analysis_avg_volatility,0.3939967710304533
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PAYC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PAYC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PAYC_seasonality_analysis.png

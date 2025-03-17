@@ -1,0 +1,23 @@
+,0
+symbol,PLD
+basic_statistics_mean,117.61343938942511
+basic_statistics_std,8.095166334033845
+basic_statistics_min,94.46892547607422
+basic_statistics_max,133.10293579101562
+basic_statistics_median,118.27999877929688
+basic_statistics_skewness,-0.02810586854303136
+basic_statistics_kurtosis,1.8528035137015868
+stationarity_test_test_statistic,-2.695861472563598
+stationarity_test_p_value,0.07475715704706484
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2532350728855336
+volatility_analysis_max_volatility,0.381161990539791
+volatility_analysis_min_volatility,0.12798889774560734
+volatility_analysis_avg_volatility,0.2432657542869381
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PLD_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PLD_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PLD_seasonality_analysis.png

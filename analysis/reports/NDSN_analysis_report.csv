@@ -1,0 +1,23 @@
+,0
+symbol,NDSN
+basic_statistics_mean,239.2577909600462
+basic_statistics_std,17.98338598068563
+basic_statistics_min,200.63365173339844
+basic_statistics_max,277.34814453125
+basic_statistics_median,238.93313598632812
+basic_statistics_skewness,-2.1247354897922963
+basic_statistics_kurtosis,19.91997690243408
+stationarity_test_test_statistic,-2.006375638351664
+stationarity_test_p_value,0.28378461995326876
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2335729441001724
+volatility_analysis_max_volatility,0.5701267783023731
+volatility_analysis_min_volatility,0.10585698942538262
+volatility_analysis_avg_volatility,0.21486777102621557
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\NDSN_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\NDSN_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\NDSN_seasonality_analysis.png

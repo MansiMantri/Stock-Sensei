@@ -1,0 +1,23 @@
+,0
+symbol,EQIX
+basic_statistics_mean,767.0585597428859
+basic_statistics_std,69.93574611317308
+basic_statistics_min,634.8140258789062
+basic_statistics_max,981.47998046875
+basic_statistics_median,759.2158813476562
+basic_statistics_skewness,0.7956436457915701
+basic_statistics_kurtosis,6.535583126058275
+stationarity_test_test_statistic,-0.9964934499621837
+stationarity_test_p_value,0.7545410851633396
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.24613451043070902
+volatility_analysis_max_volatility,0.48933109856116314
+volatility_analysis_min_volatility,0.11218367545435774
+volatility_analysis_avg_volatility,0.23485025084731728
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\EQIX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\EQIX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\EQIX_seasonality_analysis.png

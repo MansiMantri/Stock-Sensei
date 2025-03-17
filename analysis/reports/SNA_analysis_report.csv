@@ -1,0 +1,23 @@
+,0
+symbol,SNA
+basic_statistics_mean,266.6809758366765
+basic_statistics_std,27.399324363428093
+basic_statistics_min,217.73849487304688
+basic_statistics_max,371.3500061035156
+basic_statistics_median,264.83026123046875
+basic_statistics_skewness,-0.17576811224018693
+basic_statistics_kurtosis,12.825289747743273
+stationarity_test_test_statistic,0.19618314629916406
+stationarity_test_p_value,0.9720467038959822
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2301345320597103
+volatility_analysis_max_volatility,0.4047692039470268
+volatility_analysis_min_volatility,0.10590367000865711
+volatility_analysis_avg_volatility,0.21841931881295462
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\SNA_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\SNA_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\SNA_seasonality_analysis.png

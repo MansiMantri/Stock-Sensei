@@ -1,0 +1,23 @@
+,0
+symbol,WFC
+basic_statistics_mean,48.720203288627516
+basic_statistics_std,9.607915040068288
+basic_statistics_min,34.44422149658203
+basic_statistics_max,77.3499984741211
+basic_statistics_median,46.109439849853516
+basic_statistics_skewness,0.6181117168192171
+basic_statistics_kurtosis,7.272858678426489
+stationarity_test_test_statistic,0.7559884546742625
+stationarity_test_p_value,0.9908914760753783
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2844442869494365
+volatility_analysis_max_volatility,0.5229876107564584
+volatility_analysis_min_volatility,0.12322260012371478
+volatility_analysis_avg_volatility,0.26710131847276203
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\WFC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\WFC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\WFC_seasonality_analysis.png

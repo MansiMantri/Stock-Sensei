@@ -1,0 +1,23 @@
+,0
+symbol,WY
+basic_statistics_mean,30.652913587256926
+basic_statistics_std,1.8904558687198558
+basic_statistics_min,26.70642852783203
+basic_statistics_max,35.23492431640625
+basic_statistics_median,30.639644622802734
+basic_statistics_skewness,0.5833187575654745
+basic_statistics_kurtosis,1.7222156143322689
+stationarity_test_test_statistic,-2.6010142801860505
+stationarity_test_p_value,0.09278781750305781
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.228307119066275
+volatility_analysis_max_volatility,0.33177643955996927
+volatility_analysis_min_volatility,0.12294648397390814
+volatility_analysis_avg_volatility,0.21927184579149608
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\WY_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\WY_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\WY_seasonality_analysis.png

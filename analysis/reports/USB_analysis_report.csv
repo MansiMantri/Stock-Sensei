@@ -1,0 +1,23 @@
+,0
+symbol,USB
+basic_statistics_mean,38.70173954319309
+basic_statistics_std,5.967634554589932
+basic_statistics_min,26.585126876831055
+basic_statistics_max,53.65999984741211
+basic_statistics_median,39.66531753540039
+basic_statistics_skewness,-0.030687938523035696
+basic_statistics_kurtosis,3.5004022084205006
+stationarity_test_test_statistic,-0.43080906328964763
+stationarity_test_p_value,0.9048262923337316
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.33955668884629886
+volatility_analysis_max_volatility,0.7569560210302115
+volatility_analysis_min_volatility,0.13518759986484033
+volatility_analysis_avg_volatility,0.3180256703075743
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\USB_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\USB_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\USB_seasonality_analysis.png

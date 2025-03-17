@@ -1,0 +1,23 @@
+,0
+symbol,MCHP
+basic_statistics_mean,80.61738267609087
+basic_statistics_std,6.934145500337448
+basic_statistics_min,62.429969787597656
+basic_statistics_max,98.26766204833984
+basic_statistics_median,79.91859436035156
+basic_statistics_skewness,-0.16339641334129998
+basic_statistics_kurtosis,1.1801059004535341
+stationarity_test_test_statistic,-2.606107440721092
+stationarity_test_p_value,0.09174154224902709
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.35087832028791677
+volatility_analysis_max_volatility,0.6301814139405664
+volatility_analysis_min_volatility,0.20631715918743823
+volatility_analysis_avg_volatility,0.3430233770049472
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MCHP_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MCHP_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MCHP_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,CHD
+basic_statistics_mean,95.91726242033707
+basic_statistics_std,7.949100476316876
+basic_statistics_min,77.74147033691406
+basic_statistics_max,112.25
+basic_statistics_median,96.21549987792969
+basic_statistics_skewness,-0.06859192405585803
+basic_statistics_kurtosis,3.7768918235530275
+stationarity_test_test_statistic,-1.5967727274419752
+stationarity_test_p_value,0.48521445109433453
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.17904977169914532
+volatility_analysis_max_volatility,0.31721271359282843
+volatility_analysis_min_volatility,0.08347029763677617
+volatility_analysis_avg_volatility,0.1726405756286174
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CHD_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CHD_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CHD_seasonality_analysis.png

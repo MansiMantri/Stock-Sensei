@@ -1,0 +1,23 @@
+,0
+symbol,TROW
+basic_statistics_mean,106.50216100617406
+basic_statistics_std,7.009105839660293
+basic_statistics_min,84.49384307861328
+basic_statistics_max,124.16000366210938
+basic_statistics_median,106.18684387207031
+basic_statistics_skewness,0.2892808666577251
+basic_statistics_kurtosis,2.422116171233358
+stationarity_test_test_statistic,-2.273521457266612
+stationarity_test_p_value,0.1806500679575171
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.26308219085011336
+volatility_analysis_max_volatility,0.43821180280224475
+volatility_analysis_min_volatility,0.11546289661685666
+volatility_analysis_avg_volatility,0.25569434670354646
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TROW_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TROW_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TROW_seasonality_analysis.png

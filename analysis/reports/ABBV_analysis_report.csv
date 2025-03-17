@@ -1,0 +1,23 @@
+,0
+symbol,ABBV
+basic_statistics_mean,156.90963473885074
+basic_statistics_std,20.22891703919577
+basic_statistics_min,125.18221282958984
+basic_statistics_max,203.8699951171875
+basic_statistics_median,152.16586303710938
+basic_statistics_skewness,-1.9082945108172589
+basic_statistics_kurtosis,17.666323792433253
+stationarity_test_test_statistic,-0.9283972792594956
+stationarity_test_p_value,0.778477020042815
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444280551073031, '5%': -2.867682902679315, '10%': -2.5700419306592934}"
+volatility_analysis_annual_volatility,0.21935739420040828
+volatility_analysis_max_volatility,0.546003846189074
+volatility_analysis_min_volatility,0.09301055118339689
+volatility_analysis_avg_volatility,0.19658687822590837
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ABBV_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ABBV_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ABBV_seasonality_analysis.png

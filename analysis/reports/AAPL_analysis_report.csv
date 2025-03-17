@@ -1,0 +1,23 @@
+,0
+symbol,AAPL
+basic_statistics_mean,186.46731245393812
+basic_statistics_std,25.79977091932791
+basic_statistics_min,123.71897888183594
+basic_statistics_max,237.3300018310547
+basic_statistics_median,183.19712829589844
+basic_statistics_skewness,0.282258707515343
+basic_statistics_kurtosis,2.8267689406162715
+stationarity_test_test_statistic,-1.5497188197091447
+stationarity_test_p_value,0.5087886462748465
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.2155956611570419
+volatility_analysis_max_volatility,0.34006101986446013
+volatility_analysis_min_volatility,0.12089220012052808
+volatility_analysis_avg_volatility,0.21091955091639633
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AAPL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AAPL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AAPL_seasonality_analysis.png

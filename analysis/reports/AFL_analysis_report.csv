@@ -1,0 +1,23 @@
+,0
+symbol,AFL
+basic_statistics_mean,81.20776158608419
+basic_statistics_std,14.992421923779041
+basic_statistics_min,58.92515182495117
+basic_statistics_max,114.74141693115234
+basic_statistics_median,79.23175811767578
+basic_statistics_skewness,-0.7975464682257712
+basic_statistics_kurtosis,11.225430352858663
+stationarity_test_test_statistic,0.597516224938706
+stationarity_test_p_value,0.9875542481166836
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.20160384178596535
+volatility_analysis_max_volatility,0.3924226106627435
+volatility_analysis_min_volatility,0.09257863458396556
+volatility_analysis_avg_volatility,0.19184717808090895
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AFL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AFL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AFL_seasonality_analysis.png

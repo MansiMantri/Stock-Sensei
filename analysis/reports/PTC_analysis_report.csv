@@ -1,0 +1,23 @@
+,0
+symbol,PTC
+basic_statistics_mean,158.71773386298992
+basic_statistics_std,22.889489586204824
+basic_statistics_min,117.33000183105469
+basic_statistics_max,200.58999633789062
+basic_statistics_median,167.1699981689453
+basic_statistics_skewness,-0.22247984040292945
+basic_statistics_kurtosis,1.0410122946628961
+stationarity_test_test_statistic,-0.9467487775529921
+stationarity_test_p_value,0.7721879909406952
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21273937662256936
+volatility_analysis_max_volatility,0.30962368313402666
+volatility_analysis_min_volatility,0.12324208498847758
+volatility_analysis_avg_volatility,0.20821691517530397
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PTC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PTC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PTC_seasonality_analysis.png

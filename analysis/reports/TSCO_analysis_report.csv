@@ -1,0 +1,23 @@
+,0
+symbol,TSCO
+basic_statistics_mean,236.58656647299532
+basic_statistics_std,29.387572805941776
+basic_statistics_min,183.7781219482422
+basic_statistics_max,302.5539855957031
+basic_statistics_median,228.38304138183594
+basic_statistics_skewness,-0.059238240428251654
+basic_statistics_kurtosis,1.8979305079534372
+stationarity_test_test_statistic,-0.9959745550074119
+stationarity_test_p_value,0.7547296567332031
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2432989654526749
+volatility_analysis_max_volatility,0.356787202092317
+volatility_analysis_min_volatility,0.12134138417423393
+volatility_analysis_avg_volatility,0.23887452011655458
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TSCO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TSCO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TSCO_seasonality_analysis.png

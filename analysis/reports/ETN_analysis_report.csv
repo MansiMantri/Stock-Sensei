@@ -1,0 +1,23 @@
+,0
+symbol,ETN
+basic_statistics_mean,247.3152208546343
+basic_statistics_std,65.72618063792868
+basic_statistics_min,147.33079528808594
+basic_statistics_max,377.4100036621094
+basic_statistics_median,233.8995361328125
+basic_statistics_skewness,-0.24666869094533458
+basic_statistics_kurtosis,3.1470186990929356
+stationarity_test_test_statistic,0.00048107204493869234
+stationarity_test_p_value,0.9585718523040477
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.27462231389779845
+volatility_analysis_max_volatility,0.5295458664042134
+volatility_analysis_min_volatility,0.1356263808226691
+volatility_analysis_avg_volatility,0.26571914117604206
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ETN_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ETN_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ETN_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,AMT
+basic_statistics_mean,193.49907673223103
+basic_statistics_std,18.74550312017759
+basic_statistics_min,151.134033203125
+basic_statistics_max,241.0760040283203
+basic_statistics_median,191.2783203125
+basic_statistics_skewness,0.09447743514241741
+basic_statistics_kurtosis,2.474160314353316
+stationarity_test_test_statistic,-1.882110564339104
+stationarity_test_p_value,0.34052309471621733
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444250937448703, '5%': -2.867669873870454, '10%': -2.5700349866579657}"
+volatility_analysis_annual_volatility,0.2568785706893632
+volatility_analysis_max_volatility,0.4381109345466912
+volatility_analysis_min_volatility,0.15277314315695142
+volatility_analysis_avg_volatility,0.24763708861150516
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AMT_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AMT_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AMT_seasonality_analysis.png

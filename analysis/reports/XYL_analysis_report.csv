@@ -1,0 +1,23 @@
+,0
+symbol,XYL
+basic_statistics_mean,114.7991352041645
+basic_statistics_std,15.806560678022718
+basic_statistics_min,86.5188980102539
+basic_statistics_max,144.77792358398438
+basic_statistics_median,110.92583465576172
+basic_statistics_skewness,-0.7846583922139108
+basic_statistics_kurtosis,3.9657708178024054
+stationarity_test_test_statistic,-1.0367904021432381
+stationarity_test_p_value,0.7396105362044839
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2241216186704293
+volatility_analysis_max_volatility,0.41230210060501826
+volatility_analysis_min_volatility,0.10938996660662627
+volatility_analysis_avg_volatility,0.21015957826688147
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\XYL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\XYL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\XYL_seasonality_analysis.png

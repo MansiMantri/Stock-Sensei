@@ -1,0 +1,23 @@
+,0
+symbol,CNP
+basic_statistics_mean,28.01279177437701
+basic_statistics_std,1.3046264919007249
+basic_statistics_min,24.84454917907715
+basic_statistics_max,32.65999984741211
+basic_statistics_median,27.823095321655273
+basic_statistics_skewness,-0.4621404595422013
+basic_statistics_kurtosis,2.4085793349304936
+stationarity_test_test_statistic,-1.938640258492881
+stationarity_test_p_value,0.31410743513435435
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.20052928740638215
+volatility_analysis_max_volatility,0.36377771502098494
+volatility_analysis_min_volatility,0.1123544030058761
+volatility_analysis_avg_volatility,0.19452348884739287
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CNP_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CNP_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CNP_seasonality_analysis.png

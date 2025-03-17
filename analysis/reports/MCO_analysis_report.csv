@@ -1,0 +1,23 @@
+,0
+symbol,MCO
+basic_statistics_mean,372.0006501322724
+basic_statistics_std,61.851043237544545
+basic_statistics_min,271.6751708984375
+basic_statistics_max,500.8800048828125
+basic_statistics_median,370.4761962890625
+basic_statistics_skewness,-0.7350670804252196
+basic_statistics_kurtosis,3.733223440734445
+stationarity_test_test_statistic,0.12698260994085017
+stationarity_test_p_value,0.9678557642807611
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444280551073031, '5%': -2.867682902679315, '10%': -2.5700419306592934}"
+volatility_analysis_annual_volatility,0.20595280929398807
+volatility_analysis_max_volatility,0.35002185754277343
+volatility_analysis_min_volatility,0.1089496258417986
+volatility_analysis_avg_volatility,0.19535124998314046
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MCO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MCO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MCO_seasonality_analysis.png

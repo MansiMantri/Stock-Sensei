@@ -1,0 +1,23 @@
+,0
+symbol,HLT
+basic_statistics_mean,179.38103058432344
+basic_statistics_std,35.139735658326565
+basic_statistics_min,124.18666076660156
+basic_statistics_max,253.6300048828125
+basic_statistics_median,177.5950927734375
+basic_statistics_skewness,-0.10891844702989713
+basic_statistics_kurtosis,0.617467390026023
+stationarity_test_test_statistic,-0.003087946226951804
+stationarity_test_p_value,0.9582759688382089
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.20475818985296174
+volatility_analysis_max_volatility,0.2899731078583522
+volatility_analysis_min_volatility,0.09209307516049785
+volatility_analysis_avg_volatility,0.20151686497022436
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HLT_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HLT_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HLT_seasonality_analysis.png

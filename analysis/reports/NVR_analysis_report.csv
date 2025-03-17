@@ -1,0 +1,23 @@
+,0
+symbol,NVR
+basic_statistics_mean,6978.596468538852
+basic_statistics_std,1372.1613574456926
+basic_statistics_min,4589.31982421875
+basic_statistics_max,9924.400390625
+basic_statistics_median,6847.14013671875
+basic_statistics_skewness,-0.10570371766906693
+basic_statistics_kurtosis,1.8026740767444558
+stationarity_test_test_statistic,-0.8075418209239288
+stationarity_test_p_value,0.8168966702058127
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.23235923046054088
+volatility_analysis_max_volatility,0.3580748967620285
+volatility_analysis_min_volatility,0.14414446756155835
+volatility_analysis_avg_volatility,0.22923830688091584
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\NVR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\NVR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\NVR_seasonality_analysis.png

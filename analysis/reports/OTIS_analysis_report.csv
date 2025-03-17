@@ -1,0 +1,23 @@
+,0
+symbol,OTIS
+basic_statistics_mean,88.33265540109107
+basic_statistics_std,7.807537034294029
+basic_statistics_min,73.97895050048828
+basic_statistics_max,105.59539794921875
+basic_statistics_median,86.87938690185547
+basic_statistics_skewness,-0.39358761218181
+basic_statistics_kurtosis,4.125913489017093
+stationarity_test_test_statistic,-1.2423962184979616
+stationarity_test_p_value,0.6550973626655866
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.18638786828880935
+volatility_analysis_max_volatility,0.3026667341412946
+volatility_analysis_min_volatility,0.10897173125401072
+volatility_analysis_avg_volatility,0.18177054983132537
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\OTIS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\OTIS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\OTIS_seasonality_analysis.png

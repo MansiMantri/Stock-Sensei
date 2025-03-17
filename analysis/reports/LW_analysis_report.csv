@@ -1,0 +1,23 @@
+,0
+symbol,LW
+basic_statistics_mean,91.23199674642012
+basic_statistics_std,14.596019220885127
+basic_statistics_min,52.444095611572266
+basic_statistics_max,112.33807373046875
+basic_statistics_median,95.18943786621094
+basic_statistics_skewness,-4.886293384536379
+basic_statistics_kurtosis,59.283445199312226
+stationarity_test_test_statistic,-1.2782664815875313
+stationarity_test_p_value,0.6390558496994239
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.36465865714179224
+volatility_analysis_max_volatility,1.1072615691848076
+volatility_analysis_min_volatility,0.08742615132058261
+volatility_analysis_avg_volatility,0.2868692855656965
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\LW_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\LW_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\LW_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,WDC
+basic_statistics_mean,53.11149686785597
+basic_statistics_std,14.058090222197292
+basic_statistics_min,31.40999984741211
+basic_statistics_max,80.23999786376953
+basic_statistics_median,50.0099983215332
+basic_statistics_skewness,0.3803925229209992
+basic_statistics_kurtosis,2.3655565353388557
+stationarity_test_test_statistic,-1.1210870429139417
+stationarity_test_p_value,0.7065898011588976
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.38475378455480286
+volatility_analysis_max_volatility,0.6631007296076319
+volatility_analysis_min_volatility,0.17745112604986923
+volatility_analysis_avg_volatility,0.3662173790311926
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\WDC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\WDC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\WDC_seasonality_analysis.png

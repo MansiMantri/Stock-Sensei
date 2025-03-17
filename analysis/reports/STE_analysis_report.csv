@@ -1,0 +1,23 @@
+,0
+symbol,STE
+basic_statistics_mean,213.98641022426423
+basic_statistics_std,16.404337998906417
+basic_statistics_min,173.4745635986328
+basic_statistics_max,246.52101135253906
+basic_statistics_median,217.8104248046875
+basic_statistics_skewness,-0.1457964118004157
+basic_statistics_kurtosis,9.947380850588527
+stationarity_test_test_statistic,-2.579065774790522
+stationarity_test_p_value,0.09740159367239626
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.24207927383245206
+volatility_analysis_max_volatility,0.4835621321535801
+volatility_analysis_min_volatility,0.1139853910607143
+volatility_analysis_avg_volatility,0.22665502948692334
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\STE_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\STE_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\STE_seasonality_analysis.png

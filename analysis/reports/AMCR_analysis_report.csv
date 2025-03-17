@@ -1,0 +1,23 @@
+,0
+symbol,AMCR
+basic_statistics_mean,9.589563725643991
+basic_statistics_std,0.816201296747131
+basic_statistics_min,7.9312849044799805
+basic_statistics_max,11.229249000549316
+basic_statistics_median,9.41258430480957
+basic_statistics_skewness,-0.15120974314935548
+basic_statistics_kurtosis,8.881526070194965
+stationarity_test_test_statistic,-1.6104740895813023
+stationarity_test_p_value,0.4777267661369069
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.22161696107684598
+volatility_analysis_max_volatility,0.38834306786388373
+volatility_analysis_min_volatility,0.1017462486142329
+volatility_analysis_avg_volatility,0.21376859233682288
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AMCR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AMCR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AMCR_seasonality_analysis.png

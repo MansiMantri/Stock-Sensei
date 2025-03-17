@@ -1,0 +1,23 @@
+,0
+symbol,GWW
+basic_statistics_mean,830.9795180735122
+basic_statistics_std,160.21892520811014
+basic_statistics_min,527.7722778320312
+basic_statistics_max,1220.9300537109375
+basic_statistics_median,810.9855346679688
+basic_statistics_skewness,1.418629226153124
+basic_statistics_kurtosis,11.817998408785293
+stationarity_test_test_statistic,-0.14391140431174781
+stationarity_test_p_value,0.9448853157427196
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.24011718361404782
+volatility_analysis_max_volatility,0.5253715775204686
+volatility_analysis_min_volatility,0.12011345174840622
+volatility_analysis_avg_volatility,0.2267214094795225
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\GWW_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\GWW_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\GWW_seasonality_analysis.png

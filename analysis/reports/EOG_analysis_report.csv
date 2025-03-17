@@ -1,0 +1,23 @@
+,0
+symbol,EOG
+basic_statistics_mean,119.18792970463045
+basic_statistics_std,8.48729662162294
+basic_statistics_min,95.45744323730469
+basic_statistics_max,136.5399932861328
+basic_statistics_median,120.31977844238281
+basic_statistics_skewness,0.005013616649008652
+basic_statistics_kurtosis,1.384842991912019
+stationarity_test_test_statistic,-2.6595620225668064
+stationarity_test_p_value,0.08130097855334306
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.26331883365010433
+volatility_analysis_max_volatility,0.44565143252670014
+volatility_analysis_min_volatility,0.12601929684206264
+volatility_analysis_avg_volatility,0.2559386363301467
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\EOG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\EOG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\EOG_seasonality_analysis.png

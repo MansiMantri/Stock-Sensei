@@ -1,0 +1,23 @@
+,0
+symbol,MDT
+basic_statistics_mean,80.83732566912803
+basic_statistics_std,5.088531074814507
+basic_statistics_min,67.15567016601562
+basic_statistics_max,92.2699966430664
+basic_statistics_median,80.5987319946289
+basic_statistics_skewness,-0.07683220849579138
+basic_statistics_kurtosis,1.9618807033386982
+stationarity_test_test_statistic,-2.3487093170039626
+stationarity_test_p_value,0.1567388972926902
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444280551073031, '5%': -2.867682902679315, '10%': -2.5700419306592934}"
+volatility_analysis_annual_volatility,0.19757432389201918
+volatility_analysis_max_volatility,0.27863861465996237
+volatility_analysis_min_volatility,0.10354886278132326
+volatility_analysis_avg_volatility,0.18958878115895725
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MDT_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MDT_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MDT_seasonality_analysis.png

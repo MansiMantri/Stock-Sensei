@@ -1,0 +1,23 @@
+,0
+symbol,CHRW
+basic_statistics_mean,89.20982988956317
+basic_statistics_std,10.501295394660884
+basic_statistics_min,67.00940704345703
+basic_statistics_max,111.68000030517578
+basic_statistics_median,88.86748504638672
+basic_statistics_skewness,1.0806102592867268
+basic_statistics_kurtosis,18.285921120337076
+stationarity_test_test_statistic,-1.2881895409124622
+stationarity_test_p_value,0.6345581427751747
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.28707753546935466
+volatility_analysis_max_volatility,0.5497298998004937
+volatility_analysis_min_volatility,0.11921336891642939
+volatility_analysis_avg_volatility,0.2703544223553147
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CHRW_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CHRW_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CHRW_seasonality_analysis.png

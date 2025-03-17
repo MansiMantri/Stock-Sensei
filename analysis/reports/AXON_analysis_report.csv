@@ -1,0 +1,23 @@
+,0
+symbol,AXON
+basic_statistics_mean,272.309771690448
+basic_statistics_std,93.46760404071084
+basic_statistics_min,165.74000549316406
+basic_statistics_max,646.9600219726562
+basic_statistics_median,247.42999267578125
+basic_statistics_skewness,3.8083716015972064
+basic_statistics_kurtosis,40.57339545363987
+stationarity_test_test_statistic,2.3515406228727445
+stationarity_test_p_value,0.9989856480103458
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.4084295263872802
+volatility_analysis_max_volatility,1.0299032413184968
+volatility_analysis_min_volatility,0.11135517658583753
+volatility_analysis_avg_volatility,0.3491225591036571
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AXON_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AXON_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AXON_seasonality_analysis.png

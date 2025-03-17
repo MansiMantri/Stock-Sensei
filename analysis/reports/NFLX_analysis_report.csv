@@ -1,0 +1,23 @@
+,0
+symbol,NFLX
+basic_statistics_mean,514.7620996804346
+basic_statistics_std,148.09673456849475
+basic_statistics_min,292.760009765625
+basic_statistics_max,897.7899780273438
+basic_statistics_median,478.0
+basic_statistics_skewness,1.3562973985274864
+basic_statistics_kurtosis,9.827691021135454
+stationarity_test_test_statistic,0.5528628035712604
+stationarity_test_p_value,0.9863942754836025
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.3421872719603634
+volatility_analysis_max_volatility,0.6284738286344439
+volatility_analysis_min_volatility,0.16355502594608434
+volatility_analysis_avg_volatility,0.32299647022650285
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\NFLX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\NFLX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\NFLX_seasonality_analysis.png

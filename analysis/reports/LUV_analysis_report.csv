@@ -1,0 +1,23 @@
+,0
+symbol,LUV
+basic_statistics_mean,29.53241517191865
+basic_statistics_std,3.1570278051335023
+basic_statistics_min,21.70745086669922
+basic_statistics_max,38.03983688354492
+basic_statistics_median,29.0415096282959
+basic_statistics_skewness,-0.8137731638570571
+basic_statistics_kurtosis,5.479440163886795
+stationarity_test_test_statistic,-2.318224001540076
+stationarity_test_p_value,0.1661577132585791
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.34143587702195993
+volatility_analysis_max_volatility,0.5686769096257184
+volatility_analysis_min_volatility,0.16092979117957198
+volatility_analysis_avg_volatility,0.33210351868552584
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\LUV_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\LUV_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\LUV_seasonality_analysis.png

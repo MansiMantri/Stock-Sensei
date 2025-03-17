@@ -1,0 +1,23 @@
+,0
+symbol,MOS
+basic_statistics_mean,34.01349430916959
+basic_statistics_std,6.510079899363912
+basic_statistics_min,24.540000915527344
+basic_statistics_max,54.693702697753906
+basic_statistics_median,32.73114776611328
+basic_statistics_skewness,-0.16250385561017125
+basic_statistics_kurtosis,1.1547103661900477
+stationarity_test_test_statistic,-1.2461581314511516
+stationarity_test_p_value,0.6534313735606609
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.34801851032637243
+volatility_analysis_max_volatility,0.4902194823612937
+volatility_analysis_min_volatility,0.1891858050260498
+volatility_analysis_avg_volatility,0.34098897962578706
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MOS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MOS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MOS_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,IRM
+basic_statistics_mean,73.1556765899341
+basic_statistics_std,23.609132754266618
+basic_statistics_min,45.890682220458984
+basic_statistics_max,128.13999938964844
+basic_statistics_median,64.79936218261719
+basic_statistics_skewness,-0.3292388704214902
+basic_statistics_kurtosis,3.277389855364425
+stationarity_test_test_statistic,1.034022932368298
+stationarity_test_p_value,0.9946122689610302
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.24354241363715823
+volatility_analysis_max_volatility,0.4297564162271199
+volatility_analysis_min_volatility,0.09553912745154859
+volatility_analysis_avg_volatility,0.23302861265058472
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\IRM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\IRM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\IRM_seasonality_analysis.png

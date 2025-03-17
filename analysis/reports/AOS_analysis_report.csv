@@ -1,0 +1,23 @@
+,0
+symbol,AOS
+basic_statistics_mean,74.51797812099021
+basic_statistics_std,8.22084119128402
+basic_statistics_min,55.84319305419922
+basic_statistics_max,91.22510528564453
+basic_statistics_median,74.86000061035156
+basic_statistics_skewness,0.7491546789443024
+basic_statistics_kurtosis,11.944620701133157
+stationarity_test_test_statistic,-2.3255601819104115
+stationarity_test_p_value,0.16385675823790619
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.26271536895218534
+volatility_analysis_max_volatility,0.6070438113996762
+volatility_analysis_min_volatility,0.11990172746200364
+volatility_analysis_avg_volatility,0.241086207665377
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AOS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AOS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AOS_seasonality_analysis.png

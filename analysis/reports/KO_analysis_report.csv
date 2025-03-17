@@ -1,0 +1,23 @@
+,0
+symbol,KO
+basic_statistics_mean,59.89674363959108
+basic_statistics_std,4.561963961598737
+basic_statistics_min,50.42612075805664
+basic_statistics_max,71.96703338623047
+basic_statistics_median,58.48201370239258
+basic_statistics_skewness,-0.3833594731192555
+basic_statistics_kurtosis,2.9760779135643984
+stationarity_test_test_statistic,-1.375299340403996
+stationarity_test_p_value,0.5940589808898697
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4444002781824477, '5%': -2.867735576537528, '10%': -2.57007000456571}"
+volatility_analysis_annual_volatility,0.13060450222328718
+volatility_analysis_max_volatility,0.2571693222295496
+volatility_analysis_min_volatility,0.060054478514669815
+volatility_analysis_avg_volatility,0.12404361814384879
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\KO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\KO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\KO_seasonality_analysis.png

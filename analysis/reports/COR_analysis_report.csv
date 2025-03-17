@@ -1,0 +1,23 @@
+,0
+symbol,COR
+basic_statistics_mean,202.19380413221967
+basic_statistics_std,30.55541931899122
+basic_statistics_min,145.8810272216797
+basic_statistics_max,251.5500030517578
+basic_statistics_median,201.57958984375
+basic_statistics_skewness,0.06710150250227405
+basic_statistics_kurtosis,3.5308908922897118
+stationarity_test_test_statistic,-0.6181838541109782
+stationarity_test_p_value,0.8668200575030949
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.1721640025375749
+volatility_analysis_max_volatility,0.2529662062047732
+volatility_analysis_min_volatility,0.08608587166392366
+volatility_analysis_avg_volatility,0.16697579990379283
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\COR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\COR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\COR_seasonality_analysis.png

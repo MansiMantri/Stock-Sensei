@@ -1,0 +1,23 @@
+,0
+symbol,EXPD
+basic_statistics_mean,117.07293364907501
+basic_statistics_std,6.524519471236012
+basic_statistics_min,102.6404800415039
+basic_statistics_max,131.39999389648438
+basic_statistics_median,117.60557556152344
+basic_statistics_skewness,-0.25837584100311534
+basic_statistics_kurtosis,2.6708711766935966
+stationarity_test_test_statistic,-2.586172607564654
+stationarity_test_p_value,0.09588891729049775
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444133731419755, '5%': -2.8676183066831036, '10%': -2.5700075029117166}"
+volatility_analysis_annual_volatility,0.21542888577327043
+volatility_analysis_max_volatility,0.3864436488925104
+volatility_analysis_min_volatility,0.09683992355441212
+volatility_analysis_avg_volatility,0.21059001790847517
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\EXPD_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\EXPD_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\EXPD_seasonality_analysis.png

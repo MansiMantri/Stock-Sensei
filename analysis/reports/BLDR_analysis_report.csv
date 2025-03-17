@@ -1,0 +1,23 @@
+,0
+symbol,BLDR
+basic_statistics_mean,144.23087309204863
+basic_statistics_std,37.780176361426655
+basic_statistics_min,65.3499984741211
+basic_statistics_max,211.1199951171875
+basic_statistics_median,146.57000732421875
+basic_statistics_skewness,-0.7179273931794099
+basic_statistics_kurtosis,7.358650083060016
+stationarity_test_test_statistic,-1.7821785870959417
+stationarity_test_p_value,0.38934473315484863
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.4263124246907581
+volatility_analysis_max_volatility,0.7859124680613219
+volatility_analysis_min_volatility,0.18504144302871178
+volatility_analysis_avg_volatility,0.4144295881122501
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\BLDR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\BLDR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\BLDR_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,MMM
+basic_statistics_mean,92.73484380329474
+basic_statistics_std,19.56434731867204
+basic_statistics_min,68.10247802734375
+basic_statistics_max,138.70233154296875
+basic_statistics_median,85.79048156738281
+basic_statistics_skewness,3.306486340697392
+basic_statistics_kurtosis,41.78252829086824
+stationarity_test_test_statistic,0.03272453442786002
+stationarity_test_p_value,0.9611561508887739
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.3104507598550708
+volatility_analysis_max_volatility,0.8182098480758673
+volatility_analysis_min_volatility,0.1342473096765583
+volatility_analysis_avg_volatility,0.27753432305364595
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MMM_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MMM_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MMM_seasonality_analysis.png

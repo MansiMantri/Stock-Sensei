@@ -1,0 +1,23 @@
+,0
+symbol,HSY
+basic_statistics_mean,203.94184551913128
+basic_statistics_std,24.61114786025135
+basic_statistics_min,169.5500030517578
+basic_statistics_max,264.3736877441406
+basic_statistics_median,193.863525390625
+basic_statistics_skewness,0.00023098923860646086
+basic_statistics_kurtosis,1.2241816779176782
+stationarity_test_test_statistic,-0.8353573219502777
+stationarity_test_p_value,0.8085149060896677
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.19162982787651306
+volatility_analysis_max_volatility,0.2810513070163373
+volatility_analysis_min_volatility,0.0917536155640248
+volatility_analysis_avg_volatility,0.1832912284916962
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HSY_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HSY_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HSY_seasonality_analysis.png

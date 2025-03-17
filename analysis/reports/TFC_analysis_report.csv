@@ -1,0 +1,23 @@
+,0
+symbol,TFC
+basic_statistics_mean,35.0142428939407
+basic_statistics_std,6.1980807427297435
+basic_statistics_min,23.613550186157227
+basic_statistics_max,48.099998474121094
+basic_statistics_median,35.14901351928711
+basic_statistics_skewness,-0.5986130601907764
+basic_statistics_kurtosis,8.827349496725617
+stationarity_test_test_statistic,-0.8073741857428448
+stationarity_test_p_value,0.8169463534671287
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.3591673551459133
+volatility_analysis_max_volatility,0.8122080066076699
+volatility_analysis_min_volatility,0.17182263188839852
+volatility_analysis_avg_volatility,0.33287539484933376
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TFC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TFC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TFC_seasonality_analysis.png

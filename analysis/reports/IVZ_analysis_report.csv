@@ -1,0 +1,23 @@
+,0
+symbol,IVZ
+basic_statistics_mean,15.390496634643936
+basic_statistics_std,1.4313552316556728
+basic_statistics_min,11.727909088134766
+basic_statistics_max,18.413616180419922
+basic_statistics_median,15.300727844238281
+basic_statistics_skewness,-0.2867179100518112
+basic_statistics_kurtosis,1.837343416824356
+stationarity_test_test_statistic,-2.0218761183100162
+stationarity_test_p_value,0.27706431437983536
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.3108174789683443
+volatility_analysis_max_volatility,0.46780949826070056
+volatility_analysis_min_volatility,0.17890292024494886
+volatility_analysis_avg_volatility,0.3048099145946379
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\IVZ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\IVZ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\IVZ_seasonality_analysis.png

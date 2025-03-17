@@ -1,0 +1,23 @@
+,0
+symbol,VMC
+basic_statistics_mean,224.20252121510973
+basic_statistics_std,33.153799627913166
+basic_statistics_min,158.89364624023438
+basic_statistics_max,292.30999755859375
+basic_statistics_median,221.829833984375
+basic_statistics_skewness,0.14730715002146993
+basic_statistics_kurtosis,2.8058329452218906
+stationarity_test_test_statistic,-0.8058316793055902
+stationarity_test_p_value,0.8174030510263841
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2372831844472153
+volatility_analysis_max_volatility,0.3707112054941122
+volatility_analysis_min_volatility,0.10866002675011678
+volatility_analysis_avg_volatility,0.22775649850244523
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\VMC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\VMC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\VMC_seasonality_analysis.png

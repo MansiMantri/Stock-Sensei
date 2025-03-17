@@ -1,0 +1,23 @@
+,0
+symbol,AMP
+basic_statistics_mean,378.17063412101254
+basic_statistics_std,68.80256302811752
+basic_statistics_min,274.11431884765625
+basic_statistics_max,574.010009765625
+basic_statistics_median,367.7369689941406
+basic_statistics_skewness,0.10589376794054815
+basic_statistics_kurtosis,6.948512150399874
+stationarity_test_test_statistic,1.0420963855272516
+stationarity_test_p_value,0.9946908418069365
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.23616238566357062
+volatility_analysis_max_volatility,0.47142838883551413
+volatility_analysis_min_volatility,0.11163559047657724
+volatility_analysis_avg_volatility,0.21756747036588978
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AMP_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AMP_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AMP_seasonality_analysis.png

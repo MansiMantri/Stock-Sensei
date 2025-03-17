@@ -1,0 +1,23 @@
+,0
+symbol,CCL
+basic_statistics_mean,15.241933502427258
+basic_statistics_std,3.6251592362691105
+basic_statistics_min,7.96999979019165
+basic_statistics_max,25.43000030517578
+basic_statistics_median,15.600000381469727
+basic_statistics_skewness,0.48346075176574654
+basic_statistics_kurtosis,0.9982836100797217
+stationarity_test_test_statistic,-0.5698402765839353
+stationarity_test_p_value,0.8776523088272332
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.46468967869959293
+volatility_analysis_max_volatility,0.7660829971788656
+volatility_analysis_min_volatility,0.2512864579119878
+volatility_analysis_avg_volatility,0.4478603803983821
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CCL_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CCL_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CCL_seasonality_analysis.png

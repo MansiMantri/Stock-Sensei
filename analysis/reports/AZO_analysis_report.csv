@@ -1,0 +1,23 @@
+,0
+symbol,AZO
+basic_statistics_mean,2744.666736372791
+basic_statistics_std,270.29949852888524
+basic_statistics_min,2306.64990234375
+basic_statistics_max,3239.320068359375
+basic_statistics_median,2678.9599609375
+basic_statistics_skewness,-0.07776503773863017
+basic_statistics_kurtosis,2.632755903931643
+stationarity_test_test_statistic,-1.2850741248833877
+stationarity_test_p_value,0.6359729552303143
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21094676546301597
+volatility_analysis_max_volatility,0.3243726088249364
+volatility_analysis_min_volatility,0.11878708686105637
+volatility_analysis_avg_volatility,0.20612164608296102
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AZO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AZO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AZO_seasonality_analysis.png

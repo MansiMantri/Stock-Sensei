@@ -1,0 +1,23 @@
+,0
+symbol,VLTO
+basic_statistics_mean,92.35422272878151
+basic_statistics_std,13.6864153367099
+basic_statistics_min,67.25244903564453
+basic_statistics_max,113.5999984741211
+basic_statistics_median,94.49976348876953
+basic_statistics_skewness,-0.009074584233413584
+basic_statistics_kurtosis,1.5517450907491304
+stationarity_test_test_statistic,-0.7418996212323754
+stationarity_test_p_value,0.8355961130726728
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4530232710482367, '5%': -2.871523926671883, '10%': -2.5720897694878424}"
+volatility_analysis_annual_volatility,0.23420948878890513
+volatility_analysis_max_volatility,0.4156097777011198
+volatility_analysis_min_volatility,0.11636985683944046
+volatility_analysis_avg_volatility,0.21470344184238055
+analysis_period_start_date,2023-10-04 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,292
+visualization_files_price_analysis,analysis\visualizations\VLTO_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\VLTO_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\VLTO_seasonality_analysis.png

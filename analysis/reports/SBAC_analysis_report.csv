@@ -1,0 +1,23 @@
+,0
+symbol,SBAC
+basic_statistics_mean,224.85544996995193
+basic_statistics_std,24.24880886403211
+basic_statistics_min,183.5460205078125
+basic_statistics_max,298.0517272949219
+basic_statistics_median,221.5495147705078
+basic_statistics_skewness,-0.21782888400536632
+basic_statistics_kurtosis,2.3881426666666092
+stationarity_test_test_statistic,-2.368899418570598
+stationarity_test_p_value,0.15070736993378575
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2843983291319911
+volatility_analysis_max_volatility,0.4264861262249259
+volatility_analysis_min_volatility,0.1518571753810414
+volatility_analysis_avg_volatility,0.2758925862185296
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\SBAC_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\SBAC_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\SBAC_seasonality_analysis.png

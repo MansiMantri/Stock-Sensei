@@ -1,0 +1,23 @@
+,0
+symbol,LDOS
+basic_statistics_mean,117.1067758667246
+basic_statistics_std,29.498611053311652
+basic_statistics_min,75.42411041259766
+basic_statistics_max,201.38999938964844
+basic_statistics_median,107.06780242919922
+basic_statistics_skewness,-1.9531556221874435
+basic_statistics_kurtosis,27.849951641326054
+stationarity_test_test_statistic,0.9438798491081066
+stationarity_test_p_value,0.9936370647354448
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44455286264131, '5%': -2.8678027030003483, '10%': -2.5701057817594894}"
+volatility_analysis_annual_volatility,0.25817504747729075
+volatility_analysis_max_volatility,0.6598969068653049
+volatility_analysis_min_volatility,0.09710852187718065
+volatility_analysis_avg_volatility,0.21714964705060727
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\LDOS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\LDOS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\LDOS_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,MNST
+basic_statistics_mean,53.96264040147936
+basic_statistics_std,3.390896713637275
+basic_statistics_min,45.0099983215332
+basic_statistics_max,60.849998474121094
+basic_statistics_median,54.11000061035156
+basic_statistics_skewness,-0.9132779560627171
+basic_statistics_kurtosis,10.129876884886453
+stationarity_test_test_statistic,-2.23235470364076
+stationarity_test_p_value,0.19471278152478494
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.2235597966722618
+volatility_analysis_max_volatility,0.4283566241436359
+volatility_analysis_min_volatility,0.10671213627342373
+volatility_analysis_avg_volatility,0.2113945648478526
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MNST_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MNST_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MNST_seasonality_analysis.png

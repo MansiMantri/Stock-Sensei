@@ -1,0 +1,23 @@
+,0
+symbol,VICI
+basic_statistics_mean,29.5175101821487
+basic_statistics_std,1.762000466157349
+basic_statistics_min,25.717269897460938
+basic_statistics_max,33.62250518798828
+basic_statistics_median,29.284297943115234
+basic_statistics_skewness,-0.10900946663498143
+basic_statistics_kurtosis,2.0336658868843918
+stationarity_test_test_statistic,-1.8107770662532383
+stationarity_test_p_value,0.37512445838911423
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.18854048859591413
+volatility_analysis_max_volatility,0.2807508512074496
+volatility_analysis_min_volatility,0.09215935878628727
+volatility_analysis_avg_volatility,0.18299666515291235
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\VICI_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\VICI_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\VICI_seasonality_analysis.png

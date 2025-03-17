@@ -1,0 +1,23 @@
+,0
+symbol,EXR
+basic_statistics_mean,143.9124950956158
+basic_statistics_std,17.475176786462175
+basic_statistics_min,98.88028717041016
+basic_statistics_max,183.13999938964844
+basic_statistics_median,142.75267028808594
+basic_statistics_skewness,0.38109834549193916
+basic_statistics_kurtosis,6.153520358687188
+stationarity_test_test_statistic,-1.3869223197321554
+stationarity_test_p_value,0.5885294169389309
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.2893937311126151
+volatility_analysis_max_volatility,0.5767124974804422
+volatility_analysis_min_volatility,0.12151924606049772
+volatility_analysis_avg_volatility,0.2777651997048302
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\EXR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\EXR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\EXR_seasonality_analysis.png

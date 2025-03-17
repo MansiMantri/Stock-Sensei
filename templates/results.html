@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Results</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #333;
+            font-size: 2.5em;
+            margin: 20px 0;
+        }
+
+        .results-section {
+            margin-top: 0;
+        }
+
+        .results-section h2 {
+            color: #333;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .download-links {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .download-links a {
+            text-decoration: none;
+            color: white;
+            background-color: #007bff;
+            padding: 12px 30px;
+            margin: 10px;
+            border-radius: 5px;
+            display: inline-block;
+            font-size: 1.2em;
+        }
+
+        .download-links a:hover {
+            background-color: #0056b3;
+        }
+
+        .visualization-images {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 40px;
+            margin-bottom: 40px;
+        }
+
+        .visualization-item {
+            text-align: center;
+            width: 45%;
+            max-width: 600px;
+        }
+
+        .visualization-item img {
+            width: 100%;
+            height: auto;
+            object-fit: contain;
+            max-height: 500px;
+        }
+
+        .visualization-item h3 {
+            margin-top: 20px;
+            color: #333;
+            font-size: 1.4em;
+        }
+
+        .error-message {
+            color: red;
+            text-align: center;
+            font-size: 1.5em;
+            margin-top: 30px;
+        }
+
+        @media (max-width: 768px) {
+            .visualization-item {
+                width: 90%;
+                max-width: 100%;
+                margin-bottom: 30px;
+            }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>Stock Analysis Results</h1>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Stock Results</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background-color: #f4f4f9;
+            }
+            .container {
+                width: 100%;
+                max-width: 1200px;
+                margin: auto;
+                padding: 20px;
+            }
+            h1 {
+                text-align: center;
+                color: #333;
+            }
+            .download-links {
+                text-align: center;
+                margin: 20px 0;
+            }
+            .download-links a {
+                text-decoration: none;
+                background-color: #007bff;
+                color: white;
+                padding: 10px 20px;
+                border-radius: 5px;
+                margin: 5px;
+                display: inline-block;
+            }
+            .download-links a:hover {
+                background-color: #0056b3;
+            }
+            .visualization-images {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 20px;
+                justify-content: center;
+            }
+            .visualization-item {
+                text-align: center;
+                width: 45%;
+                max-width: 500px;
+            }
+            .visualization-item img {
+                width: 100%;
+                max-height: 400px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>Stock Analysis Results</h1>
+    
+            <div class="download-links">
+                <a href="{{ arima_forecast }}" download>Download ARIMA Forecast</a>
+                <a href="{{ sarima_forecast }}" download>Download SARIMA Forecast</a>
+                <a href="{{ prophet_forecast }}" download>Download Prophet Forecast</a>
+                <a href="{{ analysis }}" download>Download Analysis</a>
+            </div>
+    
+            <div class="visualization-images">
+                {% for key, visualization in visualizations.items() %}
+                <div class="visualization-item">
+                    <h3>{{ key }}</h3>
+                    <img src="{{ visualization.url }}" alt="{{ key }}" width="{{ visualization.width }}" height="{{ visualization.height }}">
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </body>
+    </html>
+    
+    <div class="results-section">
+        <div class="download-links">
+            <a href="{{ arima_forecast}}" download>Download Arima Forecast</a>
+            <a href="{{ sarima_forecast }}" download>Download Sarima Forecast</a>
+            <a href="{{ prophet_forecast }}" download>Download Prophet Forecast</a>
+            <a href="{{ analysis }}" download>Download Analysis</a>
+        </div>
+        
+        <div class="visualization-images">
+            {% for key, visualization in visualizations.items() %}
+                {% if key in ['Price Analysis', 'Seasonality Analysis'] %}
+                <div class="visualization-item">
+                    <h3>{{ key.replace('_', ' ').title() }}</h3>
+                    <img src="{{ visualization.url }}" alt="{{ key }}" width="{{ visualization.width }}" height="{{ visualization.height }}">
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+
+        <div class="visualization-images">
+            {% for key, visualization in visualizations.items() %}
+                {% if key not in ['Price Analysis', 'Seasonality Analysis'] %}
+                <div class="visualization-item">
+                    <h3>{{ key.replace('_', ' ').title() }}</h3>
+                    <img src="{{ visualization.url }}" alt="{{ key }}" width="{{ visualization.width }}" height="{{ visualization.height }}">
+                </div>
+                {% endif %}
+            {% endfor %}
+        </div>
+    </div>
+
+    {% if error %}
+    <div class="error-message">
+        <p>{{ error }}</p>
+    </div>
+    {% endif %}
+</div>
+</body>
+</html>

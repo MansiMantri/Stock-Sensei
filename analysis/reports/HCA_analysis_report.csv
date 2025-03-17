@@ -1,0 +1,23 @@
+,0
+symbol,HCA
+basic_statistics_mean,297.8595995992236
+basic_statistics_std,47.91088013044023
+basic_statistics_min,220.0540313720703
+basic_statistics_max,415.5400085449219
+basic_statistics_median,283.2113342285156
+basic_statistics_skewness,-0.7809014651499636
+basic_statistics_kurtosis,3.830994835701249
+stationarity_test_test_statistic,-1.3048083482045403
+stationarity_test_p_value,0.6269696273808947
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.23390800644054013
+volatility_analysis_max_volatility,0.41644053407329334
+volatility_analysis_min_volatility,0.11688379922417043
+volatility_analysis_avg_volatility,0.2244991920565238
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HCA_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HCA_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HCA_seasonality_analysis.png

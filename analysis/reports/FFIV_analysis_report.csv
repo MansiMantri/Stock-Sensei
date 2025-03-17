@@ -1,0 +1,23 @@
+,0
+symbol,FFIV
+basic_statistics_mean,171.51694398114685
+basic_statistics_std,27.123439720775437
+basic_statistics_min,130.2899932861328
+basic_statistics_max,251.9199981689453
+basic_statistics_median,167.9600067138672
+basic_statistics_skewness,1.2842388850185544
+basic_statistics_kurtosis,17.24288594186246
+stationarity_test_test_statistic,1.2278899830587724
+stationarity_test_p_value,0.996173024135977
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.23940997076576906
+volatility_analysis_max_volatility,0.5373072113330299
+volatility_analysis_min_volatility,0.10231965275599544
+volatility_analysis_avg_volatility,0.22170450968803354
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\FFIV_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\FFIV_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\FFIV_seasonality_analysis.png

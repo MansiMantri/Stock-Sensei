@@ -1,0 +1,23 @@
+,0
+symbol,CBRE
+basic_statistics_mean,90.30091481991964
+basic_statistics_std,17.021557456483364
+basic_statistics_min,65.76000213623047
+basic_statistics_max,140.7100067138672
+basic_statistics_median,86.19000244140625
+basic_statistics_skewness,0.8361603198129508
+basic_statistics_kurtosis,5.248078542186099
+stationarity_test_test_statistic,0.9295924224041964
+stationarity_test_p_value,0.9934646146441656
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2796374263012523
+volatility_analysis_max_volatility,0.4015081786240012
+volatility_analysis_min_volatility,0.1448152140878491
+volatility_analysis_avg_volatility,0.27036978977518994
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CBRE_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CBRE_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CBRE_seasonality_analysis.png

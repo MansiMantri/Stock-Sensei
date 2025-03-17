@@ -1,0 +1,23 @@
+,0
+symbol,PPG
+basic_statistics_mean,131.36523353433907
+basic_statistics_std,7.219173219816932
+basic_statistics_min,117.01013946533203
+basic_statistics_max,147.3041534423828
+basic_statistics_median,130.23843383789062
+basic_statistics_skewness,0.05350924275325699
+basic_statistics_kurtosis,1.6055551174143474
+stationarity_test_test_statistic,-2.77353087186886
+stationarity_test_p_value,0.062155296543035726
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.21678265561224289
+volatility_analysis_max_volatility,0.39959046240135293
+volatility_analysis_min_volatility,0.11487005804584707
+volatility_analysis_avg_volatility,0.20398928861081092
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PPG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PPG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PPG_seasonality_analysis.png

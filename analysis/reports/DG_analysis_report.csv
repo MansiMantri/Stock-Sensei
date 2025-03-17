@@ -1,0 +1,23 @@
+,0
+symbol,DG
+basic_statistics_mean,144.81184572786898
+basic_statistics_std,43.20316818674502
+basic_statistics_min,73.2699966430664
+basic_statistics_max,240.86172485351562
+basic_statistics_median,135.08111572265625
+basic_statistics_skewness,-5.139480989425933
+basic_statistics_kurtosis,58.148813767600416
+stationarity_test_test_statistic,-1.5553304609448877
+stationarity_test_p_value,0.5059844912776799
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.4054017067914986
+volatility_analysis_max_volatility,1.1589269935027682
+volatility_analysis_min_volatility,0.13345077797807223
+volatility_analysis_avg_volatility,0.34552221332768923
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\DG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\DG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\DG_seasonality_analysis.png

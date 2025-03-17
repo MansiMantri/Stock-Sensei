@@ -1,0 +1,23 @@
+,0
+symbol,FDS
+basic_statistics_mean,429.4823958620956
+basic_statistics_std,26.413395150542556
+basic_statistics_min,378.3773193359375
+basic_statistics_max,494.6667785644531
+basic_statistics_median,425.2204895019531
+basic_statistics_skewness,-0.6973362057434184
+basic_statistics_kurtosis,3.453503327023876
+stationarity_test_test_statistic,-1.9264252835014424
+stationarity_test_p_value,0.31973373941037675
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.20850690158228216
+volatility_analysis_max_volatility,0.3187755222959187
+volatility_analysis_min_volatility,0.1078215179538588
+volatility_analysis_avg_volatility,0.20348716279781087
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\FDS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\FDS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\FDS_seasonality_analysis.png

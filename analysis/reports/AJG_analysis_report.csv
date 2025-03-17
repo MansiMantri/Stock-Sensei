@@ -1,0 +1,23 @@
+,0
+symbol,AJG
+basic_statistics_mean,236.5323160849589
+basic_statistics_std,33.24382664869609
+basic_statistics_min,174.5845947265625
+basic_statistics_max,315.1600036621094
+basic_statistics_median,233.353515625
+basic_statistics_skewness,-0.822486287760211
+basic_statistics_kurtosis,4.166135824598463
+stationarity_test_test_statistic,-0.13256412888769994
+stationarity_test_p_value,0.9460968664875256
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.18055897496652884
+volatility_analysis_max_volatility,0.3228041391012463
+volatility_analysis_min_volatility,0.09771885110103928
+volatility_analysis_avg_volatility,0.17490992827880067
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AJG_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AJG_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AJG_seasonality_analysis.png

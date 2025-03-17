@@ -1,0 +1,23 @@
+,0
+symbol,HUBB
+basic_statistics_mean,331.8494195759668
+basic_statistics_std,66.41934280251903
+basic_statistics_min,216.0642852783203
+basic_statistics_max,470.7618103027344
+basic_statistics_median,322.4770202636719
+basic_statistics_skewness,0.0033872346488240507
+basic_statistics_kurtosis,5.01796288034221
+stationarity_test_test_statistic,-0.7071869241022554
+stationarity_test_p_value,0.8448791694206848
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.291027769457984
+volatility_analysis_max_volatility,0.5004217965291409
+volatility_analysis_min_volatility,0.15299039582204615
+volatility_analysis_avg_volatility,0.2820149504962271
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HUBB_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HUBB_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HUBB_seasonality_analysis.png

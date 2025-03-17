@@ -1,0 +1,23 @@
+,0
+symbol,GPN
+basic_statistics_mean,111.6708463323835
+basic_statistics_std,11.519882298139482
+basic_statistics_min,91.99918365478516
+basic_statistics_max,138.03404235839844
+basic_statistics_median,110.16011810302734
+basic_statistics_skewness,-0.16823797615488684
+basic_statistics_kurtosis,4.9020506112245
+stationarity_test_test_statistic,-2.113611048155107
+stationarity_test_p_value,0.23907686944500744
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.30352167318015055
+volatility_analysis_max_volatility,0.4787110035040178
+volatility_analysis_min_volatility,0.161094653005528
+volatility_analysis_avg_volatility,0.2911820251005871
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\GPN_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\GPN_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\GPN_seasonality_analysis.png

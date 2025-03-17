@@ -1,0 +1,23 @@
+,0
+symbol,NWSA
+basic_statistics_mean,22.704405657714716
+basic_statistics_std,3.8587395964557065
+basic_statistics_min,15.309818267822266
+basic_statistics_max,29.540000915527344
+basic_statistics_median,23.173641204833984
+basic_statistics_skewness,0.09850527797724484
+basic_statistics_kurtosis,4.9711692610755405
+stationarity_test_test_statistic,-0.5843914674743109
+stationarity_test_p_value,0.8744700549806688
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2461912823090395
+volatility_analysis_max_volatility,0.4816984388873486
+volatility_analysis_min_volatility,0.1200189979189179
+volatility_analysis_avg_volatility,0.23452891218093871
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\NWSA_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\NWSA_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\NWSA_seasonality_analysis.png

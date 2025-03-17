@@ -1,0 +1,23 @@
+,0
+symbol,ICE
+basic_statistics_mean,125.27120911405885
+basic_statistics_std,20.47350942897602
+basic_statistics_min,93.05967712402344
+basic_statistics_max,166.89999389648438
+basic_statistics_median,121.95016479492188
+basic_statistics_skewness,-0.41622488123716517
+basic_statistics_kurtosis,3.483385383531094
+stationarity_test_test_statistic,-0.16910888411110475
+stationarity_test_p_value,0.942104979893898
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.17342796034659788
+volatility_analysis_max_volatility,0.30378695326957705
+volatility_analysis_min_volatility,0.07676430279289226
+volatility_analysis_avg_volatility,0.16754470167955485
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ICE_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ICE_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ICE_seasonality_analysis.png

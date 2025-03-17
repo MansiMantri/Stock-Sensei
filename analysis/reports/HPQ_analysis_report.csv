@@ -1,0 +1,23 @@
+,0
+symbol,HPQ
+basic_statistics_mean,30.26737514107242
+basic_statistics_std,3.6405565462683396
+basic_statistics_min,24.71469497680664
+basic_statistics_max,39.29999923706055
+basic_statistics_median,29.05760955810547
+basic_statistics_skewness,0.9445936428236209
+basic_statistics_kurtosis,18.024737919930125
+stationarity_test_test_statistic,-1.5707945622838708
+stationarity_test_p_value,0.4982456519861796
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.2897215096303981
+volatility_analysis_max_volatility,0.6660395404667186
+volatility_analysis_min_volatility,0.1439075993131831
+volatility_analysis_avg_volatility,0.2608584473095872
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HPQ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HPQ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HPQ_seasonality_analysis.png

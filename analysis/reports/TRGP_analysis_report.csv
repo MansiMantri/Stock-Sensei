@@ -1,0 +1,23 @@
+,0
+symbol,TRGP
+basic_statistics_mean,100.931104917784
+basic_statistics_std,33.83891041984624
+basic_statistics_min,64.1473617553711
+basic_statistics_max,207.69000244140625
+basic_statistics_median,84.51927947998047
+basic_statistics_skewness,-0.04517270428699063
+basic_statistics_kurtosis,1.9310577461904916
+stationarity_test_test_statistic,3.7966049458546474
+stationarity_test_p_value,1.0
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.444162847239118, '5%': -2.8676311169658177, '10%': -2.5700143303792107}"
+volatility_analysis_annual_volatility,0.24082844179374535
+volatility_analysis_max_volatility,0.38550840778278544
+volatility_analysis_min_volatility,0.11672662896110104
+volatility_analysis_avg_volatility,0.23227608177450992
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\TRGP_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\TRGP_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\TRGP_seasonality_analysis.png

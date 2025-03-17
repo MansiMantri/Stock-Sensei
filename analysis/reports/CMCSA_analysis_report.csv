@@ -1,0 +1,23 @@
+,0
+symbol,CMCSA
+basic_statistics_mean,40.022498473803864
+basic_statistics_std,2.6952436995270674
+basic_statistics_min,33.53200912475586
+basic_statistics_max,45.66849136352539
+basic_statistics_median,39.97063064575195
+basic_statistics_skewness,0.4056004058435043
+basic_statistics_kurtosis,7.78102600549314
+stationarity_test_test_statistic,-1.9698801607578398
+stationarity_test_p_value,0.29993370470643743
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4442214494657586, '5%': -2.8676569002144148, '10%': -2.5700280720682227}"
+volatility_analysis_annual_volatility,0.23180096986181517
+volatility_analysis_max_volatility,0.425008641741015
+volatility_analysis_min_volatility,0.12060154381285082
+volatility_analysis_avg_volatility,0.22367723719553637
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\CMCSA_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\CMCSA_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\CMCSA_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,SHW
+basic_statistics_mean,288.9396181800509
+basic_statistics_std,51.64813832099994
+basic_statistics_min,205.8420867919922
+basic_statistics_max,399.7099914550781
+basic_statistics_median,293.3119812011719
+basic_statistics_skewness,-0.5006467254912884
+basic_statistics_kurtosis,4.993271596324727
+stationarity_test_test_statistic,0.05504932662463291
+stationarity_test_p_value,0.9628546691606379
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2340533485227777
+volatility_analysis_max_volatility,0.5278496585717191
+volatility_analysis_min_volatility,0.11763448483802985
+volatility_analysis_avg_volatility,0.21320721257895703
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\SHW_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\SHW_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\SHW_seasonality_analysis.png

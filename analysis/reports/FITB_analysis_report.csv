@@ -1,0 +1,23 @@
+,0
+symbol,FITB
+basic_statistics_mean,32.30356214844512
+basic_statistics_std,7.010284867750257
+basic_statistics_min,21.77640151977539
+basic_statistics_max,48.439998626708984
+basic_statistics_median,33.17619705200195
+basic_statistics_skewness,-0.2306574352974452
+basic_statistics_kurtosis,5.315360870903615
+stationarity_test_test_statistic,0.2859562754274153
+stationarity_test_p_value,0.9766909145399886
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.3306772879555939
+volatility_analysis_max_volatility,0.7116256964087567
+volatility_analysis_min_volatility,0.15970228742755455
+volatility_analysis_avg_volatility,0.31051400888667413
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\FITB_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\FITB_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\FITB_seasonality_analysis.png

@@ -1,0 +1,23 @@
+,0
+symbol,UPS
+basic_statistics_mean,148.75740766624403
+basic_statistics_std,15.716735748605668
+basic_statistics_min,120.28913116455078
+basic_statistics_max,181.44175720214844
+basic_statistics_median,146.51451110839844
+basic_statistics_skewness,-1.8206473165253938
+basic_statistics_kurtosis,12.417231658147024
+stationarity_test_test_statistic,-1.644730270236927
+stationarity_test_p_value,0.4597901729716632
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2515092500333625
+volatility_analysis_max_volatility,0.49265337940401793
+volatility_analysis_min_volatility,0.12890094219778778
+volatility_analysis_avg_volatility,0.23756679129621677
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\UPS_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\UPS_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\UPS_seasonality_analysis.png

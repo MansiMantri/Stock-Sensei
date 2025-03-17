@@ -1,0 +1,23 @@
+,0
+symbol,KR
+basic_statistics_mean,48.46181658548526
+basic_statistics_std,5.055536377140996
+basic_statistics_min,41.407012939453125
+basic_statistics_max,61.08000183105469
+basic_statistics_median,46.676475524902344
+basic_statistics_skewness,1.1694710710203906
+basic_statistics_kurtosis,8.627105729930232
+stationarity_test_test_statistic,-0.48665822793287616
+stationarity_test_p_value,0.8945938628877699
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2060241468414892
+volatility_analysis_max_volatility,0.3833217058947671
+volatility_analysis_min_volatility,0.09823393817168147
+volatility_analysis_avg_volatility,0.1991941295816582
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\KR_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\KR_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\KR_seasonality_analysis.png

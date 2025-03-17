@@ -1,0 +1,23 @@
+,0
+symbol,AVY
+basic_statistics_mean,193.89265613199024
+basic_statistics_std,20.341670946840424
+basic_statistics_min,155.31185913085938
+basic_statistics_max,228.60154724121094
+basic_statistics_median,193.41537475585938
+basic_statistics_skewness,-0.19095133671140818
+basic_statistics_kurtosis,1.219097397914065
+stationarity_test_test_statistic,-1.352955893348074
+stationarity_test_p_value,0.6046105244435072
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.2031737497288345
+volatility_analysis_max_volatility,0.3080861444094943
+volatility_analysis_min_volatility,0.0950741390636442
+volatility_analysis_avg_volatility,0.1961744130603161
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AVY_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AVY_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AVY_seasonality_analysis.png

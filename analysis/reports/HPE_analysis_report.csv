@@ -1,0 +1,23 @@
+,0
+symbol,HPE
+basic_statistics_mean,16.86505916460636
+basic_statistics_std,2.16264588243449
+basic_statistics_min,13.205824851989746
+basic_statistics_max,22.209999084472656
+basic_statistics_median,16.526107788085938
+basic_statistics_skewness,0.22192263084715674
+basic_statistics_kurtosis,4.085925953888928
+stationarity_test_test_statistic,-1.565167520711588
+stationarity_test_p_value,0.5010634601870962
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4441047380903007, '5%': -2.867605550172837, '10%': -2.570000704119326}"
+volatility_analysis_annual_volatility,0.33124707326366115
+volatility_analysis_max_volatility,0.5293926468066488
+volatility_analysis_min_volatility,0.15302762777160706
+volatility_analysis_avg_volatility,0.31552100659183185
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\HPE_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\HPE_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\HPE_seasonality_analysis.png

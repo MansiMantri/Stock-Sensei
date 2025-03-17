@@ -1,0 +1,23 @@
+,0
+symbol,UBER
+basic_statistics_mean,56.0216633128525
+basic_statistics_std,16.685777656659184
+basic_statistics_min,25.360000610351562
+basic_statistics_max,86.33999633789062
+basic_statistics_median,59.75
+basic_statistics_skewness,0.839186916518867
+basic_statistics_kurtosis,5.1222050790503735
+stationarity_test_test_statistic,-1.5913092166353717
+stationarity_test_p_value,0.48795771097750645
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.3798694454692109
+volatility_analysis_max_volatility,0.6404545540514042
+volatility_analysis_min_volatility,0.16725122421869668
+volatility_analysis_avg_volatility,0.3679335333992146
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\UBER_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\UBER_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\UBER_seasonality_analysis.png

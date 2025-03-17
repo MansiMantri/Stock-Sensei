@@ -1,0 +1,23 @@
+,0
+symbol,PH
+basic_statistics_mean,457.7834868559966
+basic_statistics_std,109.91821340878872
+basic_statistics_min,284.1033630371094
+basic_statistics_max,708.1500244140625
+basic_statistics_median,445.7692565917969
+basic_statistics_skewness,0.7744825372275835
+basic_statistics_kurtosis,7.009602806174681
+stationarity_test_test_statistic,0.1822838669711441
+stationarity_test_p_value,0.9712502606730359
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.44407586647939, '5%': -2.867592847097137, '10%': -2.5699939338217668}"
+volatility_analysis_annual_volatility,0.26916661088662786
+volatility_analysis_max_volatility,0.5319354345307611
+volatility_analysis_min_volatility,0.0990395579295238
+volatility_analysis_avg_volatility,0.2563333359659854
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\PH_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\PH_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\PH_seasonality_analysis.png

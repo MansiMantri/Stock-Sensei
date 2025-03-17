@@ -1,0 +1,23 @@
+,0
+symbol,JNJ
+basic_statistics_mean,153.25550531399224
+basic_statistics_std,6.379563816456279
+basic_statistics_min,140.0106964111328
+basic_statistics_max,169.57289123535156
+basic_statistics_median,153.5197296142578
+basic_statistics_skewness,0.530002835088363
+basic_statistics_kurtosis,5.028097136848291
+stationarity_test_test_statistic,-3.1291282582707023
+stationarity_test_p_value,0.024471327483422352
+stationarity_test_is_stationary,True
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.15858844386354076
+volatility_analysis_max_volatility,0.27881440987102807
+volatility_analysis_min_volatility,0.07876730365696832
+volatility_analysis_avg_volatility,0.15207144857827018
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\JNJ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\JNJ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\JNJ_seasonality_analysis.png

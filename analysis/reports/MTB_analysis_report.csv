@@ -1,0 +1,23 @@
+,0
+symbol,MTB
+basic_statistics_mean,140.39063624582272
+basic_statistics_std,25.13237609522031
+basic_statistics_min,105.04631805419922
+basic_statistics_max,221.9499969482422
+basic_statistics_median,135.73870849609375
+basic_statistics_skewness,0.5054733735756172
+basic_statistics_kurtosis,3.7132506087776385
+stationarity_test_test_statistic,0.9081820519725208
+stationarity_test_p_value,0.9931961806796578
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.31208455916485756
+volatility_analysis_max_volatility,0.515130972014483
+volatility_analysis_min_volatility,0.1359705533825211
+volatility_analysis_avg_volatility,0.3003821028062313
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MTB_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MTB_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MTB_seasonality_analysis.png

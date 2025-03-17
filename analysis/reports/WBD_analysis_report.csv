@@ -1,0 +1,23 @@
+,0
+symbol,WBD
+basic_statistics_mean,10.62958417662464
+basic_statistics_std,2.484068888519355
+basic_statistics_min,6.710000038146973
+basic_statistics_max,15.9399995803833
+basic_statistics_median,10.460000038146973
+basic_statistics_skewness,-0.1624253633313656
+basic_statistics_kurtosis,3.373784847086852
+stationarity_test_test_statistic,-1.581547655772856
+stationarity_test_p_value,0.4928557563506275
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.5117204626323377
+volatility_analysis_max_volatility,0.924657222856512
+volatility_analysis_min_volatility,0.2068440361087218
+volatility_analysis_avg_volatility,0.4934027219252358
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\WBD_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\WBD_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\WBD_seasonality_analysis.png

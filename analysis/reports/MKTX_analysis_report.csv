@@ -1,0 +1,23 @@
+,0
+symbol,MKTX
+basic_statistics_mean,256.9089026817909
+basic_statistics_std,47.80613850276106
+basic_statistics_min,192.23834228515625
+basic_statistics_max,384.1222229003906
+basic_statistics_median,246.37734985351562
+basic_statistics_skewness,-1.2487380787547637
+basic_statistics_kurtosis,13.034013436293122
+stationarity_test_test_statistic,-1.4361736756203343
+stationarity_test_p_value,0.564816466022412
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.3549564598503339
+volatility_analysis_max_volatility,0.6703219651259692
+volatility_analysis_min_volatility,0.15265939820925453
+volatility_analysis_avg_volatility,0.3363810381819628
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\MKTX_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\MKTX_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\MKTX_seasonality_analysis.png

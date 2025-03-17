@@ -1,0 +1,23 @@
+,0
+symbol,APH
+basic_statistics_mean,50.86245063734154
+basic_statistics_std,11.653719027323902
+basic_statistics_min,35.997291564941406
+basic_statistics_max,74.29000091552734
+basic_statistics_median,47.32902908325195
+basic_statistics_skewness,-1.0345211126637157
+basic_statistics_kurtosis,6.082530649480543
+stationarity_test_test_statistic,-0.05438607110888015
+stationarity_test_p_value,0.9537965572240394
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.22724330244489066
+volatility_analysis_max_volatility,0.5444260027653574
+volatility_analysis_min_volatility,0.10455542906448166
+volatility_analysis_avg_volatility,0.21396762117835702
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\APH_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\APH_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\APH_seasonality_analysis.png

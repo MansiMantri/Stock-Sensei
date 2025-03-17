@@ -1,0 +1,23 @@
+,0
+symbol,AIZ
+basic_statistics_mean,156.25864212131302
+basic_statistics_std,28.335230082630204
+basic_statistics_min,102.11409759521484
+basic_statistics_max,228.67999267578125
+basic_statistics_median,163.8062744140625
+basic_statistics_skewness,1.477099497938069
+basic_statistics_kurtosis,11.719815430985104
+stationarity_test_test_statistic,0.5451412080521428
+stationarity_test_p_value,0.9861824335827468
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.23982095372944345
+volatility_analysis_max_volatility,0.46346055338301256
+volatility_analysis_min_volatility,0.12243328258376193
+volatility_analysis_avg_volatility,0.2259271317989665
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\AIZ_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\AIZ_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\AIZ_seasonality_analysis.png

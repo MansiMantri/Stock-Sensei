@@ -1,0 +1,23 @@
+,0
+symbol,ENPH
+basic_statistics_mean,135.8231603658125
+basic_statistics_std,43.340492306963824
+basic_statistics_min,59.52000045776367
+basic_statistics_max,253.30999755859375
+basic_statistics_median,120.9800033569336
+basic_statistics_skewness,-0.4954714760193154
+basic_statistics_kurtosis,6.016576612434119
+stationarity_test_test_statistic,-2.33319964308403
+stationarity_test_p_value,0.16148383863826427
+stationarity_test_is_stationary,False
+stationarity_test_critical_values,"{'1%': -3.4440471158221206, '5%': -2.867580197120949, '10%': -2.5699871918402777}"
+volatility_analysis_annual_volatility,0.6234550483514808
+volatility_analysis_max_volatility,1.0337272946150065
+volatility_analysis_min_volatility,0.2911600719844206
+volatility_analysis_avg_volatility,0.5978605824198234
+analysis_period_start_date,2023-01-03 00:00:00
+analysis_period_end_date,2024-11-29 00:00:00
+analysis_period_trading_days,481
+visualization_files_price_analysis,analysis\visualizations\ENPH_price_analysis.png
+visualization_files_trend_analysis,analysis\visualizations\ENPH_trend_analysis.png
+visualization_files_seasonality_analysis,analysis\visualizations\ENPH_seasonality_analysis.png
