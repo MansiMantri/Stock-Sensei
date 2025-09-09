@@ -1,3 +1,4 @@
+import requests
 import yfinance as yf
 import pandas as pd
 from sqlalchemy import create_engine
@@ -16,7 +17,12 @@ class StockDataFetcher:
     def create_database_engine(self):
         """Create and return a database engine for PostgreSQL."""
         try:
-            engine = create_engine('postgresql+psycopg2://postgres:83326874@localhost:5432/Stocks')
+            # Fixed connection string format
+            # engine = create_engine('postgresql+psycopg2://postgres:Mansi@7038@localhost:5432/Stock')
+            # The correct format should be:
+            engine = create_engine('postgresql+psycopg2://postgres:Mansi%407038@localhost:5432/stock')
+            # Or alternatively:
+            # engine = create_engine('postgresql+psycopg2://postgres:Mansi@7038@localhost:5432/Stock')
             self.logger.info("Database connection established.")
             return engine
         except Exception as e:
@@ -116,16 +122,29 @@ class StockDataFetcher:
             raise
 
 
+# def get_sp500_symbols() -> list:
+#     """Fetch S&P 500 stock symbols from Wikipedia."""
+#     try:
+#         url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
+#         table = pd.read_html(url)[0]
+#         return table['Symbol'].tolist()
+#     except Exception as e:
+#         logging.error(f"Error fetching S&P 500 symbols: {e}")
+#         return []
+
 def get_sp500_symbols() -> list:
-    """Fetch S&P 500 stock symbols from Wikipedia."""
+    """Fetch S&P 500 stock symbols from Wikipedia with proper headers."""
     try:
         url = 'https://en.wikipedia.org/wiki/List_of_S%26P_500_companies'
-        table = pd.read_html(url)[0]
+        headers = {'User-Agent': 'Mozilla/5.0'}  # act like a browser
+        response = requests.get(url, headers=headers)
+        response.raise_for_status()
+
+        table = pd.read_html(response.text)[0]
         return table['Symbol'].tolist()
     except Exception as e:
         logging.error(f"Error fetching S&P 500 symbols: {e}")
         return []
-
 
 def fetch_and_store_sp500_stocks(chunk_size=50):
     """Fetch and store historical data for all S&P 500 stocks."""

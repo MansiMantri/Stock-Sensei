@@ -1,0 +1,993 @@
+2025-09-01 14:31:31,053 [INFO] Database connection established.
+2025-09-01 14:31:31,053 [ERROR] Error fetching S&P 500 symbols: lxml not found, please install it
+2025-09-01 14:32:09,670 [INFO] Database connection established.
+2025-09-01 14:32:09,987 [ERROR] Error fetching S&P 500 symbols: HTTP Error 403: Forbidden
+2025-09-01 14:34:54,454 [INFO] Database connection established.
+2025-09-01 14:34:59,419 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:34:59,424 [ERROR] Error processing MMM: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:34:59,929 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:34:59,931 [ERROR] Error processing AOS: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:00,482 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:00,484 [ERROR] Error processing ABT: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:00,959 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:00,961 [ERROR] Error processing ABBV: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:01,570 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:01,572 [ERROR] Error processing ACN: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:01,994 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:01,996 [ERROR] Error processing ADBE: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:02,236 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:02,236 [ERROR] Error processing AMD: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:02,574 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:02,574 [ERROR] Error processing AES: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:03,111 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:03,113 [ERROR] Error processing AFL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:03,421 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:03,422 [ERROR] Error processing A: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:03,964 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:03,964 [ERROR] Error processing APD: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:04,276 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:04,276 [ERROR] Error processing ABNB: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:04,609 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:04,609 [ERROR] Error processing AKAM: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:05,107 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:05,107 [ERROR] Error processing ALB: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:05,468 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:05,468 [ERROR] Error processing ARE: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:05,814 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:05,814 [ERROR] Error processing ALGN: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:06,081 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:06,083 [ERROR] Error processing ALLE: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:06,474 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:06,474 [ERROR] Error processing LNT: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:06,884 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:06,884 [ERROR] Error processing ALL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:07,176 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:07,176 [ERROR] Error processing GOOGL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:07,484 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:07,484 [ERROR] Error processing GOOG: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:08,054 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:08,056 [ERROR] Error processing MO: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:08,420 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:08,420 [ERROR] Error processing AMZN: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:08,810 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:08,810 [ERROR] Error processing AMCR: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:09,441 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:09,441 [ERROR] Error processing AEE: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:09,954 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:09,954 [ERROR] Error processing AEP: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:10,364 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:10,364 [ERROR] Error processing AXP: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:10,692 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:10,694 [ERROR] Error processing AIG: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:11,124 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:11,124 [ERROR] Error processing AMT: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:11,417 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:11,417 [ERROR] Error processing AWK: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:11,730 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:11,735 [ERROR] Error processing AMP: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:12,024 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:12,024 [ERROR] Error processing AME: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:12,412 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:12,412 [ERROR] Error processing AMGN: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:12,715 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:12,715 [ERROR] Error processing APH: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,004 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,004 [ERROR] Error processing ADI: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,304 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,304 [ERROR] Error processing AON: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,666 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,666 [ERROR] Error processing APA: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,924 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:13,924 [ERROR] Error processing APO: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:14,365 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:14,365 [ERROR] Error processing AAPL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:14,801 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:14,801 [ERROR] Error processing AMAT: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,004 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,004 [ERROR] Error processing APTV: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,345 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,345 [ERROR] Error processing ACGL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,620 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,620 [ERROR] Error processing ADM: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,948 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:15,950 [ERROR] Error processing ANET: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:16,378 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:16,378 [ERROR] Error processing AJG: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:16,684 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:16,684 [ERROR] Error processing AIZ: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:16,994 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:16,994 [ERROR] Error processing T: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:17,404 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:17,404 [ERROR] Error processing ATO: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:17,821 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:17,821 [ERROR] Error processing ADSK: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:18,434 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:18,434 [ERROR] Error processing ADP: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:23,674 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:23,674 [ERROR] Error processing AZO: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:23,934 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:23,934 [ERROR] Error processing AVB: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:24,467 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:24,467 [ERROR] Error processing AVY: (psycopg2.OperationalError) could not translate host name "7038@localhost" to address: A non-recoverable error occurred during a database lookup. 
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-01 14:35:24,751 [ERROR] Failed to get ticker 'AXON' reason: Failed to perform, curl: (23) Failure writing output to destination, passed 13 returned 0. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-09-01 14:35:25,139 [WARNING] Ticker.history() failed for AXON: Failed to perform, curl: (23) Failure writing output to destination, passed 13 returned 0. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2025-09-03 22:52:13,312 [INFO] Database connection established.
+2025-09-03 22:52:19,830 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:19,830 [ERROR] Error processing MMM: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:20,222 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:20,222 [ERROR] Error processing AOS: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:20,638 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:20,638 [ERROR] Error processing ABT: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:20,857 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:20,857 [ERROR] Error processing ABBV: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,173 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,173 [ERROR] Error processing ACN: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,410 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,410 [ERROR] Error processing ADBE: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,584 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,584 [ERROR] Error processing AMD: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,794 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:21,794 [ERROR] Error processing AES: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,040 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,040 [ERROR] Error processing AFL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,279 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,279 [ERROR] Error processing A: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,639 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,639 [ERROR] Error processing APD: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,958 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:22,958 [ERROR] Error processing ABNB: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:23,278 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:23,278 [ERROR] Error processing AKAM: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:23,677 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:23,678 [ERROR] Error processing ALB: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,024 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,024 [ERROR] Error processing ARE: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,271 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,271 [ERROR] Error processing ALGN: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,512 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,512 [ERROR] Error processing ALLE: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,732 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,732 [ERROR] Error processing LNT: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,906 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:24,906 [ERROR] Error processing ALL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:25,087 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:25,087 [ERROR] Error processing GOOGL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:25,268 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:25,268 [ERROR] Error processing GOOG: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:25,561 [ERROR] Failed to store data in PostgreSQL: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:52:25,565 [ERROR] Error processing MO: (psycopg2.OperationalError) connection to server at "localhost" (::1), port 5432 failed: FATAL:  database "Stock" does not exist
+
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-09-03 22:53:17,017 [INFO] Database connection established.
+2025-09-03 22:53:19,075 [INFO] Stored data for MMM
+2025-09-03 22:53:20,384 [INFO] Stored data for AOS
+2025-09-03 22:53:21,657 [INFO] Stored data for ABT
+2025-09-03 22:53:23,038 [INFO] Stored data for ABBV
+2025-09-03 22:53:24,347 [INFO] Stored data for ACN
+2025-09-03 22:53:25,533 [INFO] Stored data for ADBE
+2025-09-03 22:53:26,713 [INFO] Stored data for AMD
+2025-09-03 22:53:28,021 [INFO] Stored data for AES
+2025-09-03 22:53:29,878 [INFO] Stored data for AFL
+2025-09-03 22:53:31,303 [INFO] Stored data for A
+2025-09-03 22:53:32,908 [INFO] Stored data for APD
+2025-09-03 22:53:34,331 [INFO] Stored data for ABNB
+2025-09-03 22:53:36,031 [INFO] Stored data for AKAM
+2025-09-03 22:53:37,493 [INFO] Stored data for ALB
+2025-09-03 22:53:38,974 [INFO] Stored data for ARE
+2025-09-03 22:53:40,186 [INFO] Stored data for ALGN
+2025-09-03 22:53:41,410 [INFO] Stored data for ALLE
+2025-09-03 22:53:42,803 [INFO] Stored data for LNT
+2025-09-03 22:53:44,209 [INFO] Stored data for ALL
+2025-09-03 22:53:45,397 [INFO] Stored data for GOOGL
+2025-09-03 22:53:46,584 [INFO] Stored data for GOOG
+2025-09-03 22:53:47,976 [INFO] Stored data for MO
+2025-09-03 22:53:49,193 [INFO] Stored data for AMZN
+2025-09-03 22:53:50,493 [INFO] Stored data for AMCR
+2025-09-03 22:53:51,901 [INFO] Stored data for AEE
+2025-09-03 22:53:53,160 [INFO] Stored data for AEP
+2025-09-03 22:53:54,446 [INFO] Stored data for AXP
+2025-09-03 22:53:55,685 [INFO] Stored data for AIG
+2025-09-03 22:53:56,899 [INFO] Stored data for AMT
+2025-09-03 22:53:58,109 [INFO] Stored data for AWK
+2025-09-03 22:53:59,310 [INFO] Stored data for AMP
+2025-09-03 22:54:00,577 [INFO] Stored data for AME
+2025-09-03 22:54:01,823 [INFO] Stored data for AMGN
+2025-09-03 22:54:03,187 [INFO] Stored data for APH
+2025-09-03 22:54:04,533 [INFO] Stored data for ADI
+2025-09-03 22:54:05,940 [INFO] Stored data for AON
+2025-09-03 22:54:07,371 [INFO] Stored data for APA
+2025-09-03 22:54:09,290 [INFO] Stored data for APO
+2025-09-03 22:54:10,610 [INFO] Stored data for AAPL
+2025-09-03 22:54:11,816 [INFO] Stored data for AMAT
+2025-09-03 22:54:13,022 [INFO] Stored data for APTV
+2025-09-03 22:54:14,269 [INFO] Stored data for ACGL
+2025-09-03 22:54:15,652 [INFO] Stored data for ADM
+2025-09-03 22:54:16,955 [INFO] Stored data for ANET
+2025-09-03 22:54:18,206 [INFO] Stored data for AJG
+2025-09-03 22:54:19,474 [INFO] Stored data for AIZ
+2025-09-03 22:54:20,812 [INFO] Stored data for T
+2025-09-03 22:54:22,120 [INFO] Stored data for ATO
+2025-09-03 22:54:23,319 [INFO] Stored data for ADSK
+2025-09-03 22:54:24,594 [INFO] Stored data for ADP
+2025-09-03 22:54:30,911 [INFO] Stored data for AZO
+2025-09-03 22:54:32,144 [INFO] Stored data for AVB
+2025-09-03 22:54:33,480 [INFO] Stored data for AVY
+2025-09-03 22:54:34,684 [INFO] Stored data for AXON
+2025-09-03 22:54:36,199 [INFO] Stored data for BKR
+2025-09-03 22:54:37,737 [INFO] Stored data for BALL
+2025-09-03 22:54:39,077 [INFO] Stored data for BAC
+2025-09-03 22:54:40,524 [INFO] Stored data for BAX
+2025-09-03 22:54:42,081 [INFO] Stored data for BDX
+2025-09-03 22:54:43,742 [WARNING] Ticker.history() failed for BRK.B: $BRK.B: possibly delisted; no timezone found
+2025-09-03 22:54:44,637 [ERROR] 
+1 Failed download:
+2025-09-03 22:54:44,637 [ERROR] ['BRK.B']: YFTzMissingError('possibly delisted; no timezone found')
+2025-09-03 22:54:44,639 [WARNING] No data found for symbol BRK.B
+2025-09-03 22:54:44,645 [WARNING] Ticker.history() failed for BRK.B: $BRK.B: possibly delisted; no timezone found
+2025-09-03 22:54:44,680 [ERROR] 
+1 Failed download:
+2025-09-03 22:54:44,680 [ERROR] ['BRK.B']: YFTzMissingError('possibly delisted; no timezone found')
+2025-09-03 22:54:44,680 [WARNING] No data found for symbol BRK.B
+2025-09-03 22:54:44,688 [WARNING] Ticker.history() failed for BRK.B: $BRK.B: possibly delisted; no timezone found
+2025-09-03 22:54:44,701 [ERROR] 
+1 Failed download:
+2025-09-03 22:54:44,703 [ERROR] ['BRK.B']: YFTzMissingError('possibly delisted; no timezone found')
+2025-09-03 22:54:44,705 [WARNING] No data found for symbol BRK.B
+2025-09-03 22:54:44,707 [ERROR] Failed to fetch data for BRK.B after 3 attempts
+2025-09-03 22:54:45,389 [INFO] Stored data for BBY
+2025-09-03 22:54:46,701 [INFO] Stored data for TECH
+2025-09-03 22:54:47,953 [INFO] Stored data for BIIB
+2025-09-03 22:54:49,416 [INFO] Stored data for BLK
+2025-09-03 22:54:50,855 [INFO] Stored data for BX
+2025-09-03 22:54:52,201 [INFO] Stored data for XYZ
+2025-09-03 22:54:53,780 [INFO] Stored data for BK
+2025-09-03 22:54:55,434 [INFO] Stored data for BA
+2025-09-03 22:54:56,782 [INFO] Stored data for BKNG
+2025-09-03 22:54:58,096 [INFO] Stored data for BSX
+2025-09-03 22:54:59,881 [INFO] Stored data for BMY
+2025-09-03 22:55:01,256 [INFO] Stored data for AVGO
+2025-09-03 22:55:02,758 [INFO] Stored data for BR
+2025-09-03 22:55:04,225 [INFO] Stored data for BRO
+2025-09-03 22:55:05,522 [WARNING] Ticker.history() failed for BF.B: $BF.B: possibly delisted; no price data found  (1d 2023-01-01 -> 2025-09-03)
+2025-09-03 22:55:05,568 [ERROR] 
+1 Failed download:
+2025-09-03 22:55:05,571 [ERROR] ['BF.B']: YFPricesMissingError('possibly delisted; no price data found  (1d 2023-01-01 -> 2025-09-03)')
+2025-09-03 22:55:05,573 [WARNING] No data found for symbol BF.B
+2025-09-03 22:55:05,575 [WARNING] Ticker.history() failed for BF.B: $BF.B: possibly delisted; no price data found  (1d 2023-01-01 -> 2025-09-03)
+2025-09-03 22:55:05,607 [ERROR] 
+1 Failed download:
+2025-09-03 22:55:05,613 [ERROR] ['BF.B']: YFPricesMissingError('possibly delisted; no price data found  (1d 2023-01-01 -> 2025-09-03)')
+2025-09-03 22:55:05,618 [WARNING] No data found for symbol BF.B
+2025-09-03 22:55:05,624 [WARNING] Ticker.history() failed for BF.B: $BF.B: possibly delisted; no price data found  (1d 2023-01-01 -> 2025-09-03)
+2025-09-03 22:55:05,639 [ERROR] 
+1 Failed download:
+2025-09-03 22:55:05,639 [ERROR] ['BF.B']: YFPricesMissingError('possibly delisted; no price data found  (1d 2023-01-01 -> 2025-09-03)')
+2025-09-03 22:55:05,641 [WARNING] No data found for symbol BF.B
+2025-09-03 22:55:05,641 [ERROR] Failed to fetch data for BF.B after 3 attempts
+2025-09-03 22:55:06,351 [INFO] Stored data for BLDR
+2025-09-03 22:55:07,743 [INFO] Stored data for BG
+2025-09-03 22:55:09,215 [INFO] Stored data for BXP
+2025-09-03 22:55:10,545 [INFO] Stored data for CHRW
+2025-09-03 22:55:11,836 [INFO] Stored data for CDNS
+2025-09-03 22:55:13,218 [INFO] Stored data for CZR
+2025-09-03 22:55:14,563 [INFO] Stored data for CPT
+2025-09-03 22:55:16,316 [INFO] Stored data for CPB
+2025-09-03 22:55:17,639 [INFO] Stored data for COF
+2025-09-03 22:55:19,000 [INFO] Stored data for CAH
+2025-09-03 22:55:20,383 [INFO] Stored data for KMX
+2025-09-03 22:55:22,101 [INFO] Stored data for CCL
+2025-09-03 22:55:23,387 [INFO] Stored data for CARR
+2025-09-03 22:55:24,865 [INFO] Stored data for CAT
+2025-09-03 22:55:26,216 [INFO] Stored data for CBOE
+2025-09-03 22:55:27,624 [INFO] Stored data for CBRE
+2025-09-03 22:55:29,666 [INFO] Stored data for CDW
+2025-09-03 22:55:31,276 [INFO] Stored data for COR
+2025-09-03 22:55:32,527 [INFO] Stored data for CNC
+2025-09-03 22:55:34,130 [INFO] Stored data for CNP
+2025-09-03 22:55:35,580 [INFO] Stored data for CF
+2025-09-03 22:55:36,843 [INFO] Stored data for CRL
+2025-09-03 22:55:38,179 [INFO] Stored data for SCHW
+2025-09-03 22:55:39,478 [INFO] Stored data for CHTR
+2025-09-03 22:55:41,043 [INFO] Stored data for CVX
+2025-09-03 22:55:47,367 [INFO] Stored data for CMG
+2025-09-03 22:55:48,724 [INFO] Stored data for CB
+2025-09-03 22:55:50,104 [INFO] Stored data for CHD
+2025-09-03 22:55:51,791 [INFO] Stored data for CI
+2025-09-03 22:55:53,196 [INFO] Stored data for CINF
+2025-09-03 22:55:54,727 [INFO] Stored data for CTAS
+2025-09-03 22:55:56,059 [INFO] Stored data for CSCO
+2025-09-03 22:55:57,450 [INFO] Stored data for C
+2025-09-03 22:55:58,823 [INFO] Stored data for CFG
+2025-09-03 22:56:00,296 [INFO] Stored data for CLX
+2025-09-03 22:56:01,890 [INFO] Stored data for CME
+2025-09-03 22:56:03,534 [INFO] Stored data for CMS
+2025-09-03 22:56:05,090 [INFO] Stored data for KO
+2025-09-03 22:56:06,356 [INFO] Stored data for CTSH
+2025-09-03 22:56:07,948 [INFO] Stored data for COIN
+2025-09-03 22:56:09,499 [INFO] Stored data for CL
+2025-09-03 22:56:11,015 [INFO] Stored data for CMCSA
+2025-09-03 22:56:12,538 [INFO] Stored data for CAG
+2025-09-03 22:56:14,033 [INFO] Stored data for COP
+2025-09-03 22:56:15,428 [INFO] Stored data for ED
+2025-09-03 22:56:16,726 [INFO] Stored data for STZ
+2025-09-03 22:56:17,993 [INFO] Stored data for CEG
+2025-09-03 22:56:19,336 [INFO] Stored data for COO
+2025-09-03 22:56:20,658 [INFO] Stored data for CPRT
+2025-09-03 22:56:22,263 [INFO] Stored data for GLW
+2025-09-03 22:56:23,652 [INFO] Stored data for CPAY
+2025-09-03 22:56:25,094 [INFO] Stored data for CTVA
+2025-09-03 22:56:26,361 [INFO] Stored data for CSGP
+2025-09-03 22:56:27,707 [INFO] Stored data for COST
+2025-09-03 22:56:29,045 [INFO] Stored data for CTRA
+2025-09-03 22:56:30,303 [INFO] Stored data for CRWD
+2025-09-03 22:56:31,641 [INFO] Stored data for CCI
+2025-09-03 22:56:33,003 [INFO] Stored data for CSX
+2025-09-03 22:56:34,444 [INFO] Stored data for CMI
+2025-09-03 22:56:35,848 [INFO] Stored data for CVS
+2025-09-03 22:56:37,202 [INFO] Stored data for DHR
+2025-09-03 22:56:38,548 [INFO] Stored data for DRI
+2025-09-03 22:56:39,913 [INFO] Stored data for DDOG
+2025-09-03 22:56:41,186 [INFO] Stored data for DVA
+2025-09-03 22:56:42,715 [INFO] Stored data for DAY
+2025-09-03 22:56:44,003 [INFO] Stored data for DECK
+2025-09-03 22:56:45,544 [INFO] Stored data for DE
+2025-09-03 22:56:46,834 [INFO] Stored data for DELL
+2025-09-03 22:56:48,162 [INFO] Stored data for DAL
+2025-09-03 22:56:49,679 [INFO] Stored data for DVN
+2025-09-03 22:56:51,146 [INFO] Stored data for DXCM
+2025-09-03 22:56:52,654 [INFO] Stored data for FANG
+2025-09-03 22:56:54,034 [INFO] Stored data for DLR
+2025-09-03 22:56:55,385 [INFO] Stored data for DG
+2025-09-03 22:56:56,860 [INFO] Stored data for DLTR
+2025-09-03 22:57:03,372 [INFO] Stored data for D
+2025-09-03 22:57:04,893 [INFO] Stored data for DPZ
+2025-09-03 22:57:06,487 [INFO] Stored data for DASH
+2025-09-03 22:57:08,361 [INFO] Stored data for DOV
+2025-09-03 22:57:09,846 [INFO] Stored data for DOW
+2025-09-03 22:57:11,240 [INFO] Stored data for DHI
+2025-09-03 22:57:12,660 [INFO] Stored data for DTE
+2025-09-03 22:57:14,076 [INFO] Stored data for DUK
+2025-09-03 22:57:15,511 [INFO] Stored data for DD
+2025-09-03 22:57:16,968 [INFO] Stored data for EMN
+2025-09-03 22:57:18,472 [INFO] Stored data for ETN
+2025-09-03 22:57:19,750 [INFO] Stored data for EBAY
+2025-09-03 22:57:21,265 [INFO] Stored data for ECL
+2025-09-03 22:57:22,634 [INFO] Stored data for EIX
+2025-09-03 22:57:23,869 [INFO] Stored data for EW
+2025-09-03 22:57:25,198 [INFO] Stored data for EA
+2025-09-03 22:57:26,493 [INFO] Stored data for ELV
+2025-09-03 22:57:27,981 [INFO] Stored data for EMR
+2025-09-03 22:57:29,342 [INFO] Stored data for ENPH
+2025-09-03 22:57:30,773 [INFO] Stored data for ETR
+2025-09-03 22:57:32,159 [INFO] Stored data for EOG
+2025-09-03 22:57:33,461 [INFO] Stored data for EPAM
+2025-09-03 22:57:34,830 [INFO] Stored data for EQT
+2025-09-03 22:57:36,310 [INFO] Stored data for EFX
+2025-09-03 22:57:37,642 [INFO] Stored data for EQIX
+2025-09-03 22:57:39,033 [INFO] Stored data for EQR
+2025-09-03 22:57:40,433 [INFO] Stored data for ERIE
+2025-09-03 22:57:41,770 [INFO] Stored data for ESS
+2025-09-03 22:57:43,123 [INFO] Stored data for EL
+2025-09-03 22:57:44,488 [INFO] Stored data for EG
+2025-09-03 22:57:45,909 [INFO] Stored data for EVRG
+2025-09-03 22:57:47,489 [INFO] Stored data for ES
+2025-09-03 22:57:49,120 [INFO] Stored data for EXC
+2025-09-03 22:57:50,560 [INFO] Stored data for EXE
+2025-09-03 22:57:52,345 [INFO] Stored data for EXPE
+2025-09-03 22:57:53,934 [INFO] Stored data for EXPD
+2025-09-03 22:57:55,370 [INFO] Stored data for EXR
+2025-09-03 22:57:57,041 [INFO] Stored data for XOM
+2025-09-03 22:57:58,348 [INFO] Stored data for FFIV
+2025-09-03 22:57:59,808 [INFO] Stored data for FDS
+2025-09-03 22:58:01,279 [INFO] Stored data for FICO
+2025-09-03 22:58:02,727 [INFO] Stored data for FAST
+2025-09-03 22:58:04,205 [INFO] Stored data for FRT
+2025-09-03 22:58:05,622 [INFO] Stored data for FDX
+2025-09-03 22:58:07,133 [INFO] Stored data for FIS
+2025-09-03 22:58:08,650 [INFO] Stored data for FITB
+2025-09-03 22:58:10,214 [INFO] Stored data for FSLR
+2025-09-03 22:58:11,602 [INFO] Stored data for FE
+2025-09-03 22:58:13,010 [INFO] Stored data for FI
+2025-09-03 22:58:14,642 [INFO] Stored data for F
+2025-09-03 22:58:21,148 [INFO] Stored data for FTNT
+2025-09-03 22:58:22,708 [INFO] Stored data for FTV
+2025-09-03 22:58:24,631 [INFO] Stored data for FOXA
+2025-09-03 22:58:25,958 [INFO] Stored data for FOX
+2025-09-03 22:58:27,358 [INFO] Stored data for BEN
+2025-09-03 22:58:28,967 [INFO] Stored data for FCX
+2025-09-03 22:58:30,339 [INFO] Stored data for GRMN
+2025-09-03 22:58:31,702 [INFO] Stored data for IT
+2025-09-03 22:58:33,247 [INFO] Stored data for GE
+2025-09-03 22:58:34,563 [INFO] Stored data for GEHC
+2025-09-03 22:58:35,866 [INFO] Stored data for GEV
+2025-09-03 22:58:37,583 [INFO] Stored data for GEN
+2025-09-03 22:58:39,111 [INFO] Stored data for GNRC
+2025-09-03 22:58:40,964 [INFO] Stored data for GD
+2025-09-03 22:58:42,765 [INFO] Stored data for GIS
+2025-09-03 22:58:44,384 [INFO] Stored data for GM
+2025-09-03 22:58:46,018 [INFO] Stored data for GPC
+2025-09-03 22:58:47,353 [INFO] Stored data for GILD
+2025-09-03 22:58:49,076 [INFO] Stored data for GPN
+2025-09-03 22:58:50,690 [INFO] Stored data for GL
+2025-09-03 22:58:51,973 [INFO] Stored data for GDDY
+2025-09-03 22:58:53,415 [INFO] Stored data for GS
+2025-09-03 22:58:54,888 [INFO] Stored data for HAL
+2025-09-03 22:58:56,299 [INFO] Stored data for HIG
+2025-09-03 22:58:57,888 [INFO] Stored data for HAS
+2025-09-03 22:58:59,446 [INFO] Stored data for HCA
+2025-09-03 22:59:01,023 [INFO] Stored data for DOC
+2025-09-03 22:59:02,501 [INFO] Stored data for HSIC
+2025-09-03 22:59:03,980 [INFO] Stored data for HSY
+2025-09-03 22:59:05,371 [INFO] Stored data for HPE
+2025-09-03 22:59:07,023 [INFO] Stored data for HLT
+2025-09-03 22:59:08,456 [INFO] Stored data for HOLX
+2025-09-03 22:59:10,285 [INFO] Stored data for HD
+2025-09-03 22:59:11,969 [INFO] Stored data for HON
+2025-09-03 22:59:13,485 [INFO] Stored data for HRL
+2025-09-03 22:59:14,951 [INFO] Stored data for HST
+2025-09-03 22:59:16,565 [INFO] Stored data for HWM
+2025-09-03 22:59:18,299 [INFO] Stored data for HPQ
+2025-09-03 22:59:19,767 [INFO] Stored data for HUBB
+2025-09-03 22:59:21,327 [INFO] Stored data for HUM
+2025-09-03 22:59:22,825 [INFO] Stored data for HBAN
+2025-09-03 22:59:24,146 [INFO] Stored data for HII
+2025-09-03 22:59:25,707 [INFO] Stored data for IBM
+2025-09-03 22:59:27,163 [INFO] Stored data for IEX
+2025-09-03 22:59:28,549 [INFO] Stored data for IDXX
+2025-09-03 22:59:30,390 [INFO] Stored data for ITW
+2025-09-03 22:59:31,923 [INFO] Stored data for INCY
+2025-09-03 22:59:33,264 [INFO] Stored data for IR
+2025-09-03 22:59:34,599 [INFO] Stored data for PODD
+2025-09-03 22:59:36,568 [INFO] Stored data for INTC
+2025-09-03 22:59:42,975 [INFO] Stored data for IBKR
+2025-09-03 22:59:44,331 [INFO] Stored data for ICE
+2025-09-03 22:59:45,924 [INFO] Stored data for IFF
+2025-09-03 22:59:47,475 [INFO] Stored data for IP
+2025-09-03 22:59:48,996 [INFO] Stored data for IPG
+2025-09-03 22:59:50,481 [INFO] Stored data for INTU
+2025-09-03 22:59:52,031 [INFO] Stored data for ISRG
+2025-09-03 22:59:53,630 [INFO] Stored data for IVZ
+2025-09-03 22:59:55,164 [INFO] Stored data for INVH
+2025-09-03 22:59:56,845 [INFO] Stored data for IQV
+2025-09-03 22:59:58,432 [INFO] Stored data for IRM
+2025-09-03 23:00:00,138 [INFO] Stored data for JBHT
+2025-09-03 23:00:01,627 [INFO] Stored data for JBL
+2025-09-03 23:00:03,081 [INFO] Stored data for JKHY
+2025-09-03 23:00:04,573 [INFO] Stored data for J
+2025-09-03 23:00:06,115 [INFO] Stored data for JNJ
+2025-09-03 23:00:07,624 [INFO] Stored data for JCI
+2025-09-03 23:00:09,205 [INFO] Stored data for JPM
+2025-09-03 23:00:10,855 [INFO] Stored data for K
+2025-09-03 23:00:12,153 [INFO] Stored data for KVUE
+2025-09-03 23:00:13,573 [INFO] Stored data for KDP
+2025-09-03 23:00:14,987 [INFO] Stored data for KEY
+2025-09-03 23:00:16,319 [INFO] Stored data for KEYS
+2025-09-03 23:00:17,869 [INFO] Stored data for KMB
+2025-09-03 23:00:19,281 [INFO] Stored data for KIM
+2025-09-03 23:00:20,862 [INFO] Stored data for KMI
+2025-09-03 23:00:22,233 [INFO] Stored data for KKR
+2025-09-03 23:00:23,541 [INFO] Stored data for KLAC
+2025-09-03 23:00:24,826 [INFO] Stored data for KHC
+2025-09-03 23:00:26,260 [INFO] Stored data for KR
+2025-09-03 23:00:27,789 [INFO] Stored data for LHX
+2025-09-03 23:00:29,551 [INFO] Stored data for LH
+2025-09-03 23:00:30,865 [INFO] Stored data for LRCX
+2025-09-03 23:00:32,290 [INFO] Stored data for LW
+2025-09-03 23:00:33,759 [INFO] Stored data for LVS
+2025-09-03 23:00:35,046 [INFO] Stored data for LDOS
+2025-09-03 23:00:36,587 [INFO] Stored data for LEN
+2025-09-03 23:00:37,971 [INFO] Stored data for LII
+2025-09-03 23:00:39,485 [INFO] Stored data for LLY
+2025-09-03 23:00:40,906 [INFO] Stored data for LIN
+2025-09-03 23:00:42,184 [INFO] Stored data for LYV
+2025-09-03 23:00:43,550 [INFO] Stored data for LKQ
+2025-09-03 23:00:45,019 [INFO] Stored data for LMT
+2025-09-03 23:00:46,634 [INFO] Stored data for L
+2025-09-03 23:00:48,194 [INFO] Stored data for LOW
+2025-09-03 23:00:49,589 [INFO] Stored data for LULU
+2025-09-03 23:00:50,987 [INFO] Stored data for LYB
+2025-09-03 23:00:52,560 [INFO] Stored data for MTB
+2025-09-03 23:00:54,026 [INFO] Stored data for MPC
+2025-09-03 23:00:55,423 [INFO] Stored data for MKTX
+2025-09-03 23:01:01,773 [INFO] Stored data for MAR
+2025-09-03 23:01:03,199 [INFO] Stored data for MMC
+2025-09-03 23:01:04,541 [INFO] Stored data for MLM
+2025-09-03 23:01:06,067 [INFO] Stored data for MAS
+2025-09-03 23:01:07,394 [INFO] Stored data for MA
+2025-09-03 23:01:08,731 [INFO] Stored data for MTCH
+2025-09-03 23:01:10,319 [INFO] Stored data for MKC
+2025-09-03 23:01:11,715 [INFO] Stored data for MCD
+2025-09-03 23:01:13,077 [INFO] Stored data for MCK
+2025-09-03 23:01:14,462 [INFO] Stored data for MDT
+2025-09-03 23:01:15,903 [INFO] Stored data for MRK
+2025-09-03 23:01:17,426 [INFO] Stored data for META
+2025-09-03 23:01:18,723 [INFO] Stored data for MET
+2025-09-03 23:01:20,032 [INFO] Stored data for MTD
+2025-09-03 23:01:21,446 [INFO] Stored data for MGM
+2025-09-03 23:01:22,931 [INFO] Stored data for MCHP
+2025-09-03 23:01:24,268 [INFO] Stored data for MU
+2025-09-03 23:01:25,590 [INFO] Stored data for MSFT
+2025-09-03 23:01:27,022 [INFO] Stored data for MAA
+2025-09-03 23:01:28,260 [INFO] Stored data for MRNA
+2025-09-03 23:01:29,661 [INFO] Stored data for MHK
+2025-09-03 23:01:30,925 [INFO] Stored data for MOH
+2025-09-03 23:01:32,383 [INFO] Stored data for TAP
+2025-09-03 23:01:33,779 [INFO] Stored data for MDLZ
+2025-09-03 23:01:35,394 [INFO] Stored data for MPWR
+2025-09-03 23:01:36,779 [INFO] Stored data for MNST
+2025-09-03 23:01:38,092 [INFO] Stored data for MCO
+2025-09-03 23:01:39,544 [INFO] Stored data for MS
+2025-09-03 23:01:41,037 [INFO] Stored data for MOS
+2025-09-03 23:01:42,866 [INFO] Stored data for MSI
+2025-09-03 23:01:44,240 [INFO] Stored data for MSCI
+2025-09-03 23:01:45,584 [INFO] Stored data for NDAQ
+2025-09-03 23:01:46,880 [INFO] Stored data for NTAP
+2025-09-03 23:01:48,185 [INFO] Stored data for NFLX
+2025-09-03 23:01:49,833 [INFO] Stored data for NEM
+2025-09-03 23:01:51,329 [INFO] Stored data for NWSA
+2025-09-03 23:01:52,764 [INFO] Stored data for NWS
+2025-09-03 23:01:54,365 [INFO] Stored data for NEE
+2025-09-03 23:01:55,897 [INFO] Stored data for NKE
+2025-09-03 23:01:57,407 [INFO] Stored data for NI
+2025-09-03 23:01:58,915 [INFO] Stored data for NDSN
+2025-09-03 23:02:00,462 [INFO] Stored data for NSC
+2025-09-03 23:02:01,861 [INFO] Stored data for NTRS
+2025-09-03 23:02:03,267 [INFO] Stored data for NOC
+2025-09-03 23:02:04,610 [INFO] Stored data for NCLH
+2025-09-03 23:02:05,996 [INFO] Stored data for NRG
+2025-09-03 23:02:07,738 [INFO] Stored data for NUE
+2025-09-03 23:02:09,205 [INFO] Stored data for NVDA
+2025-09-03 23:02:10,456 [INFO] Stored data for NVR
+2025-09-03 23:02:11,761 [INFO] Stored data for NXPI
+2025-09-03 23:02:18,175 [INFO] Stored data for ORLY
+2025-09-03 23:02:19,752 [INFO] Stored data for OXY
+2025-09-03 23:02:21,150 [INFO] Stored data for ODFL
+2025-09-03 23:02:22,585 [INFO] Stored data for OMC
+2025-09-03 23:02:23,910 [INFO] Stored data for ON
+2025-09-03 23:02:25,350 [INFO] Stored data for OKE
+2025-09-03 23:02:26,796 [INFO] Stored data for ORCL
+2025-09-03 23:02:28,193 [INFO] Stored data for OTIS
+2025-09-03 23:02:29,723 [INFO] Stored data for PCAR
+2025-09-03 23:02:31,268 [INFO] Stored data for PKG
+2025-09-03 23:02:32,593 [INFO] Stored data for PLTR
+2025-09-03 23:02:33,882 [INFO] Stored data for PANW
+2025-09-03 23:02:35,223 [INFO] Stored data for PSKY
+2025-09-03 23:02:36,605 [INFO] Stored data for PH
+2025-09-03 23:02:38,009 [INFO] Stored data for PAYX
+2025-09-03 23:02:39,455 [INFO] Stored data for PAYC
+2025-09-03 23:02:40,704 [INFO] Stored data for PYPL
+2025-09-03 23:02:42,164 [INFO] Stored data for PNR
+2025-09-03 23:02:43,599 [INFO] Stored data for PEP
+2025-09-03 23:02:45,121 [INFO] Stored data for PFE
+2025-09-03 23:02:46,517 [INFO] Stored data for PCG
+2025-09-03 23:02:47,883 [INFO] Stored data for PM
+2025-09-03 23:02:49,196 [INFO] Stored data for PSX
+2025-09-03 23:02:50,576 [INFO] Stored data for PNW
+2025-09-03 23:02:51,919 [INFO] Stored data for PNC
+2025-09-03 23:02:53,333 [INFO] Stored data for POOL
+2025-09-03 23:02:54,787 [INFO] Stored data for PPG
+2025-09-03 23:02:56,121 [INFO] Stored data for PPL
+2025-09-03 23:02:57,741 [INFO] Stored data for PFG
+2025-09-03 23:02:59,327 [INFO] Stored data for PG
+2025-09-03 23:03:00,732 [INFO] Stored data for PGR
+2025-09-03 23:03:02,429 [INFO] Stored data for PLD
+2025-09-03 23:03:03,738 [INFO] Stored data for PRU
+2025-09-03 23:03:05,121 [INFO] Stored data for PEG
+2025-09-03 23:03:06,537 [INFO] Stored data for PTC
+2025-09-03 23:03:07,897 [INFO] Stored data for PSA
+2025-09-03 23:03:09,413 [INFO] Stored data for PHM
+2025-09-03 23:03:10,744 [INFO] Stored data for PWR
+2025-09-03 23:03:12,275 [INFO] Stored data for QCOM
+2025-09-03 23:03:13,670 [INFO] Stored data for DGX
+2025-09-03 23:03:14,994 [INFO] Stored data for RL
+2025-09-03 23:03:16,376 [INFO] Stored data for RJF
+2025-09-03 23:03:17,885 [INFO] Stored data for RTX
+2025-09-03 23:03:19,267 [INFO] Stored data for O
+2025-09-03 23:03:20,641 [INFO] Stored data for REG
+2025-09-03 23:03:21,914 [INFO] Stored data for REGN
+2025-09-03 23:03:23,410 [INFO] Stored data for RF
+2025-09-03 23:03:24,904 [INFO] Stored data for RSG
+2025-09-03 23:03:26,180 [INFO] Stored data for RMD
+2025-09-03 23:03:27,544 [INFO] Stored data for RVTY
+2025-09-03 23:03:33,967 [INFO] Stored data for ROK
+2025-09-03 23:03:35,330 [INFO] Stored data for ROL
+2025-09-03 23:03:36,833 [INFO] Stored data for ROP
+2025-09-03 23:03:38,364 [INFO] Stored data for ROST
+2025-09-03 23:03:39,934 [INFO] Stored data for RCL
+2025-09-03 23:03:41,524 [INFO] Stored data for SPGI
+2025-09-03 23:03:42,904 [INFO] Stored data for CRM
+2025-09-03 23:03:44,225 [INFO] Stored data for SBAC
+2025-09-03 23:03:45,759 [INFO] Stored data for SLB
+2025-09-03 23:03:47,200 [INFO] Stored data for STX
+2025-09-03 23:03:49,002 [INFO] Stored data for SRE
+2025-09-03 23:03:50,476 [INFO] Stored data for NOW
+2025-09-03 23:03:51,890 [INFO] Stored data for SHW
+2025-09-03 23:03:53,288 [INFO] Stored data for SPG
+2025-09-03 23:03:54,716 [INFO] Stored data for SWKS
+2025-09-03 23:03:56,107 [INFO] Stored data for SJM
+2025-09-03 23:03:57,581 [INFO] Stored data for SW
+2025-09-03 23:03:59,252 [INFO] Stored data for SNA
+2025-09-03 23:04:00,497 [INFO] Stored data for SOLV
+2025-09-03 23:04:02,045 [INFO] Stored data for SO
+2025-09-03 23:04:03,495 [INFO] Stored data for LUV
+2025-09-03 23:04:04,930 [INFO] Stored data for SWK
+2025-09-03 23:04:06,413 [INFO] Stored data for SBUX
+2025-09-03 23:04:07,962 [INFO] Stored data for STT
+2025-09-03 23:04:09,451 [INFO] Stored data for STLD
+2025-09-03 23:04:10,775 [INFO] Stored data for STE
+2025-09-03 23:04:12,341 [INFO] Stored data for SYK
+2025-09-03 23:04:13,739 [INFO] Stored data for SMCI
+2025-09-03 23:04:15,100 [INFO] Stored data for SYF
+2025-09-03 23:04:16,364 [INFO] Stored data for SNPS
+2025-09-03 23:04:17,728 [INFO] Stored data for SYY
+2025-09-03 23:04:19,026 [INFO] Stored data for TMUS
+2025-09-03 23:04:20,437 [INFO] Stored data for TROW
+2025-09-03 23:04:21,759 [INFO] Stored data for TTWO
+2025-09-03 23:04:23,238 [INFO] Stored data for TPR
+2025-09-03 23:04:24,746 [INFO] Stored data for TRGP
+2025-09-03 23:04:26,101 [INFO] Stored data for TGT
+2025-09-03 23:04:27,588 [INFO] Stored data for TEL
+2025-09-03 23:04:28,998 [INFO] Stored data for TDY
+2025-09-03 23:04:30,355 [INFO] Stored data for TER
+2025-09-03 23:04:31,632 [INFO] Stored data for TSLA
+2025-09-03 23:04:33,156 [INFO] Stored data for TXN
+2025-09-03 23:04:34,639 [INFO] Stored data for TPL
+2025-09-03 23:04:36,032 [INFO] Stored data for TXT
+2025-09-03 23:04:37,541 [INFO] Stored data for TMO
+2025-09-03 23:04:39,161 [INFO] Stored data for TJX
+2025-09-03 23:04:40,554 [INFO] Stored data for TKO
+2025-09-03 23:04:41,984 [INFO] Stored data for TTD
+2025-09-03 23:04:43,355 [INFO] Stored data for TSCO
+2025-09-03 23:04:45,119 [INFO] Stored data for TT
+2025-09-03 23:04:51,617 [INFO] Stored data for TDG
+2025-09-03 23:04:53,112 [INFO] Stored data for TRV
+2025-09-03 23:04:54,553 [INFO] Stored data for TRMB
+2025-09-03 23:04:56,106 [INFO] Stored data for TFC
+2025-09-03 23:04:57,450 [INFO] Stored data for TYL
+2025-09-03 23:04:58,843 [INFO] Stored data for TSN
+2025-09-03 23:05:00,347 [INFO] Stored data for USB
+2025-09-03 23:05:01,796 [INFO] Stored data for UBER
+2025-09-03 23:05:03,220 [INFO] Stored data for UDR
+2025-09-03 23:05:04,668 [INFO] Stored data for ULTA
+2025-09-03 23:05:06,145 [INFO] Stored data for UNP
+2025-09-03 23:05:07,541 [INFO] Stored data for UAL
+2025-09-03 23:05:08,936 [INFO] Stored data for UPS
+2025-09-03 23:05:10,414 [INFO] Stored data for URI
+2025-09-03 23:05:11,933 [INFO] Stored data for UNH
+2025-09-03 23:05:13,394 [INFO] Stored data for UHS
+2025-09-03 23:05:14,762 [INFO] Stored data for VLO
+2025-09-03 23:05:16,229 [INFO] Stored data for VTR
+2025-09-03 23:05:17,532 [INFO] Stored data for VLTO
+2025-09-03 23:05:18,908 [INFO] Stored data for VRSN
+2025-09-03 23:05:20,234 [INFO] Stored data for VRSK
+2025-09-03 23:05:21,809 [INFO] Stored data for VZ
+2025-09-03 23:05:23,076 [INFO] Stored data for VRTX
+2025-09-03 23:05:24,471 [INFO] Stored data for VTRS
+2025-09-03 23:05:25,926 [INFO] Stored data for VICI
+2025-09-03 23:05:27,444 [INFO] Stored data for V
+2025-09-03 23:05:28,730 [INFO] Stored data for VST
+2025-09-03 23:05:30,149 [INFO] Stored data for VMC
+2025-09-03 23:05:31,646 [INFO] Stored data for WRB
+2025-09-03 23:05:33,443 [INFO] Stored data for GWW
+2025-09-03 23:05:34,820 [INFO] Stored data for WAB
+2025-09-03 23:05:36,283 [INFO] Stored data for WMT
+2025-09-03 23:05:37,788 [INFO] Stored data for DIS
+2025-09-03 23:05:39,143 [INFO] Stored data for WBD
+2025-09-03 23:05:40,633 [INFO] Stored data for WM
+2025-09-03 23:05:42,116 [INFO] Stored data for WAT
+2025-09-03 23:05:43,467 [INFO] Stored data for WEC
+2025-09-03 23:05:44,982 [INFO] Stored data for WFC
+2025-09-03 23:05:46,506 [INFO] Stored data for WELL
+2025-09-03 23:05:48,054 [INFO] Stored data for WST
+2025-09-03 23:05:49,389 [INFO] Stored data for WDC
+2025-09-03 23:05:50,829 [INFO] Stored data for WY
+2025-09-03 23:05:52,261 [INFO] Stored data for WSM
+2025-09-03 23:05:53,713 [INFO] Stored data for WMB
+2025-09-03 23:05:55,091 [INFO] Stored data for WTW
+2025-09-03 23:05:56,347 [INFO] Stored data for WDAY
+2025-09-03 23:05:57,815 [INFO] Stored data for WYNN
+2025-09-03 23:05:59,432 [INFO] Stored data for XEL
+2025-09-03 23:06:00,748 [INFO] Stored data for XYL
+2025-09-03 23:06:02,072 [INFO] Stored data for YUM
+2025-09-03 23:06:08,472 [INFO] Stored data for ZBRA
+2025-09-03 23:06:09,966 [INFO] Stored data for ZBH
+2025-09-03 23:06:11,306 [INFO] Stored data for ZTS
+2025-09-03 23:06:17,314 [ERROR] Failed symbols: ['BRK.B', 'BF.B']

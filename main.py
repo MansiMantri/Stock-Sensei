@@ -76,7 +76,7 @@ class StockAnalysisPipeline:
             if db_url is None:
                 db_url = os.getenv(
                     'DATABASE_URL', 
-                    'postgresql+psycopg2://postgres:83326874@localhost:5432/Stocks'
+                    'postgresql+psycopg2://postgres:Mansi%407038@localhost:5432/stock'
                 )
 
             # Create database engine

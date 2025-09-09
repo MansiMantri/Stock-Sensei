@@ -4,9 +4,9 @@ import os
 app = Flask(__name__)
 
 # Set paths for forecasts, analysis, and visualizations
-FORECAST_PATH = 'C:/Users/niraj/CS539 ML PROJECT/analysis/forecasts'
-ANALYSIS_PATH = 'C:/Users/niraj/CS539 ML PROJECT/analysis/performance_metrics'
-VISUALIZATION_PATH = 'C:/Users/niraj/CS539 ML PROJECT/analysis/visualizations'
+FORECAST_PATH = os.path.join(os.path.dirname(__file__), 'analysis', 'forecasts')
+ANALYSIS_PATH = os.path.join(os.path.dirname(__file__), 'analysis', 'performance_metrics')
+VISUALIZATION_PATH = os.path.join(os.path.dirname(__file__), 'analysis', 'visualizations')
 
 # Simulating a list of available stock symbols
 stocks = [
